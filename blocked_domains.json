@@ -426,12 +426,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "batteryplus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "baumanbakery.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",

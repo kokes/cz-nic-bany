@@ -35,7 +35,7 @@ if __name__ == "__main__":
         stats[0] += 1
 
     for deleted in old.keys() - new.keys():
-        changelog.append(f"Odebraná doména: {added}")
+        changelog.append(f"Odebraná doména: {deleted}")
         stats[1] += 1
 
     for sid in old.keys() & new.keys():
