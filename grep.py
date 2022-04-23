@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+from collections import defaultdict
 from urllib.request import urlopen
 
 BASE_URL = "https://www.nic.cz/public_media/blocked_outzone_domains/admin_blocked_outzone_domains_reason.json"
@@ -11,7 +12,7 @@ if __name__ == "__main__":
     logging.getLogger().setLevel(logging.INFO)
 
     tfn = "blocked_domains.json"
-    changelog = []
+    changelog = defaultdict(list)
     stats = [0, 0, 0]
 
     existing = []
@@ -31,20 +32,23 @@ if __name__ == "__main__":
     new = {j["fqdn"]: j for j in new_data}
 
     for added in new.keys() - old.keys():
-        changelog.append(f"Nová doména: {added} ({new[added]['reason']})")
+        changelog[new[added]["reason"]].append(f"Nová doména: {added}")
         stats[0] += 1
 
     for deleted in old.keys() - new.keys():
-        changelog.append(f"Odebraná doména: {deleted}")
+        changelog[old[deleted]["reason"]].append(f"Odebraná doména: {deleted}")
         stats[1] += 1
 
     for sid in old.keys() & new.keys():
         if json.dumps(old[sid]) != json.dumps(new[sid]):
-            changelog.append(f"Změněná doména: {sid}")
+            changelog[old[sid]["reason"]].append(f"Změněná doména: {sid}")
             stats[2] += 1
 
 if len(changelog) > 0:
     print(
-        f"Nové: {stats[0]}, zrušené: {stats[1]}, změněné: {stats[2]}. Celkem: {len(new_data)}"
+        f"Nové: {stats[0]}, zrušené: {stats[1]}, změněné: {stats[2]}. Celkem: {len(new_data)}\n"
     )
-    print("\n".join(sorted(changelog)))
+    for reason, changes in changelog.items():
+        print("\n" + reason)
+        print("=" * len(reason))
+        print("\n".join(sorted(changes)))
