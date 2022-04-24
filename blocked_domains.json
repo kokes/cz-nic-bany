@@ -858,12 +858,6 @@
     "valid_to": "2022-06-16"
   },
   {
-    "fqdn": "ceska-posta-27840kc.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-03-24",
-    "valid_to": "2022-04-24"
-  },
-  {
     "fqdn": "ceskaposta-finacni-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-06",
@@ -3292,12 +3286,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-22",
     "valid_to": null
-  },
-  {
-    "fqdn": "online-ceskaposta.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-03-24",
-    "valid_to": "2022-04-24"
   },
   {
     "fqdn": "online-potvrzeni-ceska-posta.cz",
