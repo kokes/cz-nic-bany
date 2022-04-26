@@ -24,12 +24,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "123moviesgo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "1460pascal.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08",
@@ -615,12 +609,6 @@
     "fqdn": "brielmaier.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "brodovydny2019.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
     "valid_to": null
   },
   {
@@ -1356,12 +1344,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "energienadruhou.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "envira2019.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -1476,12 +1458,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fourieredu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "frankbus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -1563,12 +1539,6 @@
     "fqdn": "gastronomieluke.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "geoxvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
     "valid_to": null
   },
   {
@@ -2403,12 +2373,6 @@
     "fqdn": "lekarnaharmonie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lenka-zdanska.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-15",
     "valid_to": null
   },
   {
