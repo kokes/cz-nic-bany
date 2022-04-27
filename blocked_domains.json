@@ -570,12 +570,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "botykeensleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "botyscarpa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08",
@@ -2946,6 +2940,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "neoplus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-04-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "nikecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08",
@@ -3285,6 +3285,12 @@
     "fqdn": "pneu-svet.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2017-11-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pnqazmnxgszrt.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-04-27",
     "valid_to": null
   },
   {
