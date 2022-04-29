@@ -971,8 +971,8 @@
   },
   {
     "fqdn": "domaci-nakupy.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2020-01-07"
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-04-29"
   },
   {
     "fqdn": "domacipotreby-lostice.cz",
@@ -1688,11 +1688,6 @@
     "fqdn": "jeneny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28"
-  },
-  {
-    "fqdn": "jenpsinemajiviny.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2019-08-08"
   },
   {
     "fqdn": "jetencurakjestenazivu.cz",
@@ -3135,11 +3130,6 @@
     "valid_from": "2022-03-04"
   },
   {
-    "fqdn": "ranchlhotka.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2019-08-08"
-  },
-  {
     "fqdn": "rancmilovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04"
@@ -3578,11 +3568,6 @@
     "fqdn": "slsale.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-10-08"
-  },
-  {
-    "fqdn": "slunecni-clony-do-auta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2021-08-04"
   },
   {
     "fqdn": "smarticon.cz",
@@ -4453,11 +4438,6 @@
     "fqdn": "zakladaniceskychspolecnosti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08"
-  },
-  {
-    "fqdn": "zcberoun.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2021-08-04"
   },
   {
     "fqdn": "zdarmaproucitele.cz",
