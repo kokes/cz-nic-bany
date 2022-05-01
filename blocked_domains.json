@@ -4395,11 +4395,6 @@
     "valid_from": "2022-02-28"
   },
   {
-    "fqdn": "x-lofts.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-02-28"
-  },
-  {
     "fqdn": "xspd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04"
