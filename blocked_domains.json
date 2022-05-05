@@ -774,6 +774,12 @@
     "valid_to": "2022-06-16"
   },
   {
+    "fqdn": "ceska-posta-clic.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-05-05",
+    "valid_to": "2022-06-05"
+  },
+  {
     "fqdn": "ceskaposta-finacni-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-06",
