@@ -570,12 +570,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "botygroundies.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "botykeen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-22",
@@ -1092,12 +1086,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "divadlo-kubrt.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "diverzio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -1188,12 +1176,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "drbotyvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "drizosan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08",
@@ -1209,12 +1191,6 @@
     "fqdn": "drmartenskoupit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "drmartensvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
     "valid_to": null
   },
   {
@@ -1539,12 +1515,6 @@
     "fqdn": "friedecky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "frysavapodsmrkem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-22",
     "valid_to": null
   },
   {
@@ -2298,12 +2268,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "krauskopf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "krkonose-levne-ubytovani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -2655,12 +2619,6 @@
     "fqdn": "mareli.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "martenspraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-21",
     "valid_to": null
   },
   {
@@ -3111,12 +3069,6 @@
     "fqdn": "olivadeco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "olomouc-koupelny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-22",
     "valid_to": null
   },
   {
@@ -3879,12 +3831,6 @@
     "fqdn": "reznictvi-uhlir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "riekerbotyshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-21",
     "valid_to": null
   },
   {
@@ -5265,12 +5211,6 @@
     "fqdn": "zelenemenu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zememericimenhir.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-22",
     "valid_to": null
   },
   {
