@@ -30,12 +30,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "1460pascal.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "16marines.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
@@ -2430,12 +2424,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "keenczboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "keencz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-26",
@@ -3201,12 +3189,6 @@
     "fqdn": "mistrchuti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mizuno-boty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
     "valid_to": null
   },
   {
