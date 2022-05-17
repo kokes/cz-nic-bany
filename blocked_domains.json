@@ -1320,18 +1320,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "drmartensbotysleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "drmartenskoupit.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "drstnysvet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -2364,18 +2352,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "klimatizace-plzen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "klimatizaceplzen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "klobasoldrich.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
@@ -3315,12 +3291,6 @@
     "fqdn": "navratdorealoty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nbbotyslevy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
     "valid_to": null
   },
   {
@@ -5052,12 +5022,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "thenorthfacesvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "thepig.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
@@ -5073,12 +5037,6 @@
     "fqdn": "thesenses.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "thursdayboots.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
     "valid_to": null
   },
   {
@@ -5439,12 +5397,6 @@
     "fqdn": "uratmiraku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "urbaner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-08",
     "valid_to": null
   },
   {
