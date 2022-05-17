@@ -846,24 +846,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceska-online-posta.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-02-16",
-    "valid_to": "2022-06-16"
-  },
-  {
-    "fqdn": "ceska-posta-24.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-02-16",
-    "valid_to": "2022-06-16"
-  },
-  {
-    "fqdn": "ceskaposta24-platit.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-02-16",
-    "valid_to": "2022-06-16"
-  },
-  {
     "fqdn": "ceska-posta-clic.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-05-05",
@@ -1878,6 +1860,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hokaboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "holyspiritnight.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -2028,6 +2016,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "indaver.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "infopecka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -2139,6 +2133,12 @@
     "fqdn": "izolace-podkrovi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jackwolfskincz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -3390,6 +3390,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "onrunningboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "opravy-traktoru.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
@@ -3436,12 +3442,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
     "valid_to": null
-  },
-  {
-    "fqdn": "p2p-ceskaposta-platby.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-02-16",
-    "valid_to": "2022-06-16"
   },
   {
     "fqdn": "pakistani.cz",
@@ -4608,6 +4608,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "slmcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "slowshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -4659,6 +4665,12 @@
     "fqdn": "sorelczsleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sorelsleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -4978,12 +4990,6 @@
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
     "valid_to": null
-  },
-  {
-    "fqdn": "terminal-caskaposta-platby.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-02-16",
-    "valid_to": "2022-06-16"
   },
   {
     "fqdn": "termotrans.cz",
