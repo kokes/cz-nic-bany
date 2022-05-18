@@ -5376,12 +5376,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "upravapitnevody.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "uratmiraku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-13",
