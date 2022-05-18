@@ -1206,12 +1206,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "doktorseda.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "domaci-kino.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2014-11-11",
@@ -2001,12 +1995,6 @@
     "fqdn": "iis-prague2018.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "improvizovanycirkus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
     "valid_to": null
   },
   {
@@ -3210,12 +3198,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nanoboss.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "napleteni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -3279,12 +3261,6 @@
     "fqdn": "nejlepsitabak.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2021-03-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nejlepsi-zabradli.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
     "valid_to": null
   },
   {
@@ -3759,12 +3735,6 @@
     "fqdn": "porcula.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "porovnanicenyplynu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
     "valid_to": null
   },
   {
@@ -4470,12 +4440,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "siec-facility.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "sileneceny.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-02-25",
@@ -4767,12 +4731,6 @@
     "fqdn": "stavbyznojmo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stavebninyluzec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-14",
     "valid_to": null
   },
   {
