@@ -2916,12 +2916,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "slmcz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "slsale.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-10-08",
