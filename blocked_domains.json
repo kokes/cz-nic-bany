@@ -85,8 +85,8 @@
   },
   {
     "fqdn": "aeronet.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-05-25",
     "valid_to": null
   },
   {
@@ -582,12 +582,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceskobezcenzury.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "ceskoseockuje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -717,12 +711,6 @@
     "fqdn": "czarica.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czechfreepress.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
     "valid_to": null
   },
   {
@@ -1011,12 +999,6 @@
     "fqdn": "eustale.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "exanpro.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
     "valid_to": null
   },
   {
@@ -2478,18 +2460,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "protiproud.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prvnizpravy.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "pwnovysvet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -2883,12 +2853,6 @@
     "fqdn": "skolkamosty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "skrytapravda.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
     "valid_to": null
   },
   {
@@ -3381,12 +3345,6 @@
     "fqdn": "volns.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "voxpopuliblog.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-02-25",
     "valid_to": null
   },
   {
