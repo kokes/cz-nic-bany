@@ -1320,6 +1320,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ibs-fio.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-05-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "idealklimaserviscz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
