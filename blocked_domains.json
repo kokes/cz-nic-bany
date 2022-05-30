@@ -576,12 +576,6 @@
     "valid_to": "2022-06-04"
   },
   {
-    "fqdn": "ceskaposta-sluzby-financni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "ceskoseockuje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -2347,18 +2341,6 @@
   },
   {
     "fqdn": "porcula.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "posta-24ceska.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "posta24ceska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-22",
     "valid_to": null
