@@ -1818,12 +1818,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "porterarena.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "povidejme.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-09-02",
