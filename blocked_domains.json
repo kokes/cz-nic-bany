@@ -1704,12 +1704,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "linnea-zevos.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "livespoet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
