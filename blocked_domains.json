@@ -822,12 +822,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "designbyme.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "design-bytovy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
@@ -1111,12 +1105,6 @@
   },
   {
     "fqdn": "fashionmartina.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fiala-projekt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-29",
     "valid_to": null
@@ -2103,12 +2091,6 @@
     "fqdn": "palmsoft.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "paravysadky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-04-29",
     "valid_to": null
   },
   {
