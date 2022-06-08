@@ -576,6 +576,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceska-platpaposta.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-08",
+    "valid_to": "2022-07-08"
+  },
+  {
     "fqdn": "ceska-posta-czk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-20",
@@ -1066,6 +1072,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "financni-ceskaposta.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-08",
+    "valid_to": "2022-07-08"
   },
   {
     "fqdn": "firemstehovani.cz",
@@ -1968,6 +1980,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "platebni-a-ceskaposta.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-08",
+    "valid_to": "2022-07-08"
+  },
+  {
     "fqdn": "platebni-ceskaposta-f.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-06-08",
@@ -2770,6 +2788,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-05-27",
     "valid_to": "2022-06-27"
+  },
+  {
+    "fqdn": "www-i-fio.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-08",
+    "valid_to": "2022-07-08"
   },
   {
     "fqdn": "xvodeo.cz",
