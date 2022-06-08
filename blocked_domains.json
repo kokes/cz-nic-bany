@@ -1968,6 +1968,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "platebni-ceskaposta-f.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-08",
+    "valid_to": "2022-07-08"
+  },
+  {
     "fqdn": "pneu-svet.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2017-11-24",
