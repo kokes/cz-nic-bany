@@ -318,6 +318,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aurainvest.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "autochladice-plasty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
@@ -576,6 +582,12 @@
     "valid_to": "2022-07-08"
   },
   {
+    "fqdn": "ceska-posta-clic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceska-posta-czk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-20",
@@ -597,6 +609,12 @@
     "fqdn": "ceska-posta-inkaso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceska-posta-onlline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
@@ -918,6 +936,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eea-researchfund.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "ekononomickydenik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -1143,6 +1167,12 @@
     "fqdn": "georael.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ghfgfjkfjkjk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
@@ -1425,6 +1455,12 @@
     "fqdn": "kbbcb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "keenbotyvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
@@ -1842,6 +1878,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "obuvcroc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "obuvvyprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
@@ -1923,6 +1965,12 @@
     "fqdn": "pegueot.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "penb-cr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
@@ -2199,6 +2247,12 @@
     "fqdn": "saikoro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sakrbleproject.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
@@ -2637,6 +2691,12 @@
     "fqdn": "vernerov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vetacan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
