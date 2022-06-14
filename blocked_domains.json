@@ -486,6 +486,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "botyasgeleshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "botycaterpillar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-09",
@@ -615,6 +621,12 @@
     "fqdn": "ceska-posta-onlline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceska-posta-platit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
@@ -1194,6 +1206,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "golden-gates.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "graftone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -1461,6 +1479,12 @@
     "fqdn": "kbbcb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "keenbotyeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
@@ -2136,6 +2160,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pumalevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "purple-dog.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -2379,6 +2409,18 @@
     "fqdn": "siebau.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "signet-bank.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "signetbank.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
@@ -2643,12 +2685,6 @@
     "fqdn": "tytanus.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2014-06-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ubytovanisloup.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
     "valid_to": null
   },
   {
