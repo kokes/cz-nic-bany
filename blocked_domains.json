@@ -1260,6 +1260,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hokaonevyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "holyspiritnight.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-04",
@@ -1827,6 +1833,12 @@
     "fqdn": "nikeairmaxsleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nikevyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
