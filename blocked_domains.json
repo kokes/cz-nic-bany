@@ -1206,12 +1206,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fishfarmbohemia.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "fitnessprovsechny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-12",
@@ -2203,12 +2197,6 @@
   },
   {
     "fqdn": "plosiny-honcar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "plovouci-podlahy-laminatove.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-14",
     "valid_to": null
