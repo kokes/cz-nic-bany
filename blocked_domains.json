@@ -1428,12 +1428,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "indaver.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "ingwarr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
