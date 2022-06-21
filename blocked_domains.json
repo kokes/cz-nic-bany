@@ -2544,12 +2544,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "solnajeskyneblansko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "sorelczsleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-09",
