@@ -822,12 +822,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "disneylacne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "diverzio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
