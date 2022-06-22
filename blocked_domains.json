@@ -552,6 +552,12 @@
     "valid_to": "2022-07-08"
   },
   {
+    "fqdn": "ceskaposta-a.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-06-22",
+    "valid_to": "2022-07-22"
+  },
+  {
     "fqdn": "ceska-posta-clic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-13",
