@@ -222,12 +222,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "botycaterpillar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "botynbprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
@@ -390,12 +384,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "converskyboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "cortecczech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-14",
@@ -420,21 +408,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "crocsprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "czjilemnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czpost-pay.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -486,12 +462,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "drlevneboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "dsfk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -501,12 +471,6 @@
     "fqdn": "duofashion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "eccobotypraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
     "valid_to": null
   },
   {
@@ -672,12 +636,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hokaboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "hokaeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
@@ -759,12 +717,6 @@
     "fqdn": "ixosafe.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2015-09-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "jackwolfskincz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -984,12 +936,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mizunoczstore.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "mobiltec.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-08-11",
@@ -1047,12 +993,6 @@
     "fqdn": "neoplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nikeairmaxsleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-11",
     "valid_to": null
   },
   {
@@ -1320,12 +1260,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "saikoro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "sakrbleproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-13",
@@ -1338,27 +1272,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "salomonbotyoutlet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "satelityanteny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sauconysport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sbazar-pay.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -1419,18 +1335,6 @@
     "fqdn": "snizteucty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sorelczsleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sorelsleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-17",
     "valid_to": null
   },
   {
@@ -1506,21 +1410,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "thenorthfacecz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "timberlandcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-05-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tomsboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-09",
     "valid_to": null
   },
   {
