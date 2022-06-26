@@ -24,9 +24,129 @@
     "valid_to": null
   },
   {
+    "fqdn": "1656649.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "22663.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "234244.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "234544.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "234594.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "28374.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "4239502.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "4465879.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "564744.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "58069.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "6502459.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "6947954.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "7201826.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "72601.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "73927.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "7997950.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "879694.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "9022685.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "91bubblesrace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "9279822.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "9571609.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
     "valid_to": null
   },
   {
@@ -957,6 +1077,12 @@
     "fqdn": "neoplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "neozon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-26",
     "valid_to": null
   },
   {
