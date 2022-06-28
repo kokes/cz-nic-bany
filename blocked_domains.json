@@ -996,12 +996,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mcozi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "medotex.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -1605,12 +1599,6 @@
     "fqdn": "vseprobmw.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vypoctykonstrukci.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
     "valid_to": null
   },
   {
