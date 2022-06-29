@@ -1152,12 +1152,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "payvinted.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-04-01",
-    "valid_to": "2022-06-29"
-  },
-  {
     "fqdn": "pegasmusic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
