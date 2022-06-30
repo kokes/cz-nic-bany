@@ -1128,6 +1128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "oskar-energy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-06-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "parfemytop.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-01-16",
