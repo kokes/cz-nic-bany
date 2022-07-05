@@ -306,12 +306,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bonaccione.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "borkof-nabytek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -1113,12 +1107,6 @@
     "fqdn": "odevy-triangles.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "offroad-strazovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-13",
     "valid_to": null
   },
   {
