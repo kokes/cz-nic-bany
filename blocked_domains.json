@@ -1584,12 +1584,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "www2-ibs-fio.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-06",
-    "valid_to": "2022-07-06"
-  },
-  {
     "fqdn": "www-i-fio.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-06-08",
