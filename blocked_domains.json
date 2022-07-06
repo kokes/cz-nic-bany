@@ -486,12 +486,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cortecczech.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "creaadvisory.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-14",
