@@ -390,6 +390,12 @@
     "valid_to": "2022-07-09"
   },
   {
+    "fqdn": "ceskaposta-info.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceska-posta-inkaso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
