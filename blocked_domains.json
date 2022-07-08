@@ -354,12 +354,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceska-platpaposta.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-08",
-    "valid_to": "2022-07-08"
-  },
-  {
     "fqdn": "ceskaposta-a.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-06-22",
@@ -670,12 +664,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
     "valid_to": null
-  },
-  {
-    "fqdn": "financni-ceskaposta.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-08",
-    "valid_to": "2022-07-08"
   },
   {
     "fqdn": "foreduca.cz",
@@ -1140,18 +1128,6 @@
     "valid_to": "2022-07-09"
   },
   {
-    "fqdn": "platebni-a-ceskaposta.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-08",
-    "valid_to": "2022-07-08"
-  },
-  {
-    "fqdn": "platebni-ceskaposta-f.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-08",
-    "valid_to": "2022-07-08"
-  },
-  {
     "fqdn": "pneu-svet.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2017-11-24",
@@ -1564,12 +1540,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
     "valid_to": null
-  },
-  {
-    "fqdn": "www-i-fio.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-08",
-    "valid_to": "2022-07-08"
   },
   {
     "fqdn": "zahradamoje.cz",
