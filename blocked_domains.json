@@ -372,12 +372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceskaposta-fincz.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-09",
-    "valid_to": "2022-07-09"
-  },
-  {
     "fqdn": "ceskaposta-info.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-08",
@@ -1114,12 +1108,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-30",
     "valid_to": null
-  },
-  {
-    "fqdn": "platbaceska-posta.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-06-09",
-    "valid_to": "2022-07-09"
   },
   {
     "fqdn": "pneu-svet.cz",
