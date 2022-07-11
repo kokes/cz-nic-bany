@@ -372,6 +372,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-fincz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-info.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-08",
