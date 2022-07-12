@@ -300,6 +300,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cannalando.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "centrumpeceopsy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -309,6 +315,12 @@
     "fqdn": "cervici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceska-platpaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
     "valid_to": null
   },
   {
@@ -438,12 +450,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "conversevyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-05-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "creaadvisory.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-14",
@@ -564,6 +570,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "emob.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "energy-container.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -591,6 +603,12 @@
     "fqdn": "filmyhd.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-12-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "financni-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
     "valid_to": null
   },
   {
@@ -654,9 +672,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "holbrook.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "hotel-denisa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hotelpodspalovem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
     "valid_to": null
   },
   {
@@ -930,6 +960,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nivona-servis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "novorozencibulovka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-22",
@@ -993,6 +1029,12 @@
     "fqdn": "pfeifereurotax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "platebni-a-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
     "valid_to": null
   },
   {
@@ -1099,6 +1141,12 @@
   },
   {
     "fqdn": "raticulum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "remoservis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-12",
     "valid_to": null
@@ -1390,6 +1438,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-07-08",
     "valid_to": "2022-08-08"
+  },
+  {
+    "fqdn": "webova-kuchyne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-12",
+    "valid_to": null
   },
   {
     "fqdn": "whitedog.cz",
