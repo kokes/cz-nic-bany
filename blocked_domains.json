@@ -636,12 +636,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "farmadobrecasy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "filmyhd.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-12-14",
@@ -717,12 +711,6 @@
     "fqdn": "hokaonevyprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "holyspiritnight.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
     "valid_to": null
   },
   {
@@ -903,12 +891,6 @@
     "fqdn": "lesenitisnov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "los-cabbanos.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
     "valid_to": null
   },
   {
