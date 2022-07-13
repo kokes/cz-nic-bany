@@ -630,6 +630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fu-praha-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "galanterie-tvoreni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -996,6 +1002,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "org-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "oskar-energy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-30",
@@ -1218,6 +1230,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sharewatches.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "shop-lidl.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-10-17",
@@ -1263,6 +1281,12 @@
     "fqdn": "sluzby-ceskaposta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "slvshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-13",
     "valid_to": null
   },
   {
@@ -1395,6 +1419,12 @@
     "fqdn": "tytanus.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2014-06-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ukwatch.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-13",
     "valid_to": null
   },
   {
