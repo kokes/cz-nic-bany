@@ -534,12 +534,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "duofashion.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "eea-researchfund.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-13",
