@@ -336,6 +336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-com.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-07-19",
+    "valid_to": "2022-08-19"
+  },
+  {
     "fqdn": "ceskapostacz.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-06-27",
