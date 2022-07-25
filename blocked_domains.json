@@ -324,6 +324,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-a.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceska-posta-clic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-13",
