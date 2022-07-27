@@ -618,6 +618,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "geoped.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "glokna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -786,6 +792,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "knihy-krameriova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "kompletvse.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-06-23",
@@ -885,6 +897,12 @@
     "fqdn": "mobiltec.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mojeplemeno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-07-27",
     "valid_to": null
   },
   {
