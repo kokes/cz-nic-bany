@@ -798,12 +798,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "konstelace-zdravi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "kovoobrabeni-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -1059,12 +1053,6 @@
     "fqdn": "preklady-allprint.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pripravne-kurzy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
