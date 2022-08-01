@@ -336,6 +336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-klic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-praha.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-06-14",
@@ -732,6 +738,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "levne-generika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
@@ -1026,6 +1038,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "salomoneshopcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "sharewatches.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-13",
@@ -1170,9 +1188,33 @@
     "valid_to": null
   },
   {
+    "fqdn": "viagra-eshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "viagra-levne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivobarefootslevy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivobarefootvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-01",
     "valid_to": null
   },
   {
