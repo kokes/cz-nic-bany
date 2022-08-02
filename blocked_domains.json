@@ -822,6 +822,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-cz.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-02",
+    "valid_to": "2022-09-02"
+  },
+  {
+    "fqdn": "mpsv-org.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-02",
+    "valid_to": "2022-09-02"
+  },
+  {
     "fqdn": "myblendit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-28",
