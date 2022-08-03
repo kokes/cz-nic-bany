@@ -210,6 +210,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autodoprava-ttexpres.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "bankovnigarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
@@ -231,6 +237,12 @@
     "fqdn": "bearpawoutlet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bestservis-mrize.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-03",
     "valid_to": null
   },
   {
@@ -318,6 +330,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-i.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-index.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-07-12",
@@ -345,6 +363,12 @@
     "fqdn": "ceskaposta-klic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceskaposta-l.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-03",
     "valid_to": null
   },
   {
@@ -615,6 +639,12 @@
     "fqdn": "hikeboty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hlaskyzezivota.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-03",
     "valid_to": null
   },
   {
