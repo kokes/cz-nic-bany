@@ -888,6 +888,12 @@
     "valid_to": "2022-09-02"
   },
   {
+    "fqdn": "mpsv-id.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-04",
+    "valid_to": "2022-09-04"
+  },
+  {
     "fqdn": "mpsv-org.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-02",
@@ -895,6 +901,12 @@
   },
   {
     "fqdn": "mpsv-platit.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-04",
+    "valid_to": "2022-09-04"
+  },
+  {
+    "fqdn": "mpsv-prihlaseni.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-04",
     "valid_to": "2022-09-04"
