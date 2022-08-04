@@ -876,6 +876,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-bank-id.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-04",
+    "valid_to": "2022-09-04"
+  },
+  {
     "fqdn": "mpsv-cz.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-02",
