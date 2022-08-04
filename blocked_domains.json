@@ -888,6 +888,18 @@
     "valid_to": "2022-09-02"
   },
   {
+    "fqdn": "mpsv-platit.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-04",
+    "valid_to": "2022-09-04"
+  },
+  {
+    "fqdn": "mpvs-oline.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-04",
+    "valid_to": "2022-09-04"
+  },
+  {
     "fqdn": "mpvs-web.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-03",
