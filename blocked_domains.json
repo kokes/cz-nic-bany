@@ -301,9 +301,9 @@
   },
   {
     "fqdn": "ceskaposta-infofin.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-07-27",
-    "valid_to": "2022-08-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-11",
+    "valid_to": null
   },
   {
     "fqdn": "ceska-posta-inkaso.cz",
@@ -2007,6 +2007,12 @@
     "fqdn": "zjvonasek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "z-pozdravem-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-11",
     "valid_to": null
   }
 ]
