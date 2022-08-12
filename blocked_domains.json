@@ -288,12 +288,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceskaposta-index.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-07-12",
-    "valid_to": "2022-08-12"
-  },
-  {
     "fqdn": "ceskaposta-info.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-08",
@@ -808,12 +802,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-05",
     "valid_to": null
-  },
-  {
-    "fqdn": "ib-airbank.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-07-12",
-    "valid_to": "2022-08-12"
   },
   {
     "fqdn": "iglife.cz",
