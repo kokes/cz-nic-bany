@@ -1308,6 +1308,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-ceskaposta-com.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-15",
+    "valid_to": "2022-09-15"
+  },
+  {
     "fqdn": "org-ceskaposta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-13",
