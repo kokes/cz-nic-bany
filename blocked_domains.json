@@ -948,6 +948,54 @@
     "valid_to": "2022-09-18"
   },
   {
+    "fqdn": "kamagra-kamagra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-levne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-original.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-partner.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-trade1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-trade2.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagra-trade3.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "kamagratrade.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
+  },
+  {
     "fqdn": "kamilsojka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -1948,6 +1996,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-05",
     "valid_to": null
+  },
+  {
+    "fqdn": "trade-kamagra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-08-18",
+    "valid_to": "2022-09-18"
   },
   {
     "fqdn": "triplecafebar.cz",
