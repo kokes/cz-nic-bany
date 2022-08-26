@@ -834,6 +834,36 @@
     "valid_to": "2022-09-22"
   },
   {
+    "fqdn": "email1-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email2-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email3-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email4-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email9-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "emanuele.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -1986,6 +2016,30 @@
     "valid_to": "2022-09-18"
   },
   {
+    "fqdn": "online1-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online2-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online4-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online5-ib-fio.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "online-ceskaposta-com.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-15",
@@ -2920,6 +2974,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "www-mpvs.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-08-26",
+    "valid_to": "2022-09-26"
   },
   {
     "fqdn": "zahradamoje.cz",
