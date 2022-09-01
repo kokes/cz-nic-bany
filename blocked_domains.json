@@ -1,5 +1,11 @@
 [
   {
+    "fqdn": "02906.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "100mega-distr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-10-15",
@@ -27,6 +33,12 @@
     "fqdn": "123topeni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "75534.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-01",
     "valid_to": null
   },
   {
@@ -190,6 +202,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-18",
     "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "badgateway.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-01",
+    "valid_to": null
   },
   {
     "fqdn": "bagry-moravka.cz",
@@ -1786,6 +1804,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-09",
     "valid_to": "2022-09-09"
+  },
+  {
+    "fqdn": "mpsv-platby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-01",
+    "valid_to": null
   },
   {
     "fqdn": "mpsv-platit.cz",
