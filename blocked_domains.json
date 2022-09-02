@@ -126,12 +126,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "atcm42-prague.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-24",
-    "valid_to": "2022-09-18"
-  },
-  {
     "fqdn": "at-computers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-12-28",
