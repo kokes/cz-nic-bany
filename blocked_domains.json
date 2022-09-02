@@ -1200,6 +1200,12 @@
     "valid_to": "2022-09-18"
   },
   {
+    "fqdn": "id-bank-mpvs.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-09-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "iglife.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
