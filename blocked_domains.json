@@ -1836,12 +1836,6 @@
     "valid_to": "2022-09-04"
   },
   {
-    "fqdn": "mpvs-web.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-08-03",
-    "valid_to": "2022-09-03"
-  },
-  {
     "fqdn": "ms-malse.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
