@@ -1806,6 +1806,12 @@
     "valid_to": "2022-09-29"
   },
   {
+    "fqdn": "mpvs-bydleni-id.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "ms-malse.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
