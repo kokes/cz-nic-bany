@@ -1776,6 +1776,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-bank-id.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-02",
@@ -1800,6 +1806,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-prihlaseni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpvs-bydleni.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-08-29",
@@ -1810,6 +1822,12 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-05",
     "valid_to": null
+  },
+  {
+    "fqdn": "mpvs-id-bank.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-06",
+    "valid_to": "2022-10-06"
   },
   {
     "fqdn": "ms-malse.cz",
