@@ -1224,12 +1224,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpsv-orgcz.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-08-09",
-    "valid_to": "2022-09-09"
-  },
-  {
     "fqdn": "mpsv-platby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-01",
