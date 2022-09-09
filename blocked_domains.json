@@ -192,12 +192,6 @@
     "valid_to": "2022-09-22"
   },
   {
-    "fqdn": "bearpawoutlet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "bezheureky.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2016-12-05",
@@ -378,12 +372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "converseczsleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "countryall.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -423,12 +411,6 @@
     "fqdn": "dahatv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "demoniabotyeshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
     "valid_to": null
   },
   {
@@ -538,12 +520,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
-  },
-  {
-    "fqdn": "eccoczeshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
   },
   {
     "fqdn": "ekotracto.cz",
@@ -762,12 +738,6 @@
     "valid_to": "2022-09-22"
   },
   {
-    "fqdn": "hikeboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "hkslaviaplzen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -784,12 +754,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
-  },
-  {
-    "fqdn": "hokaoutlet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
   },
   {
     "fqdn": "hotelpodspalovem.cz",
@@ -1095,12 +1059,6 @@
     "fqdn": "lesenitisnov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "levne-generika.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
     "valid_to": null
   },
   {
@@ -1704,12 +1662,6 @@
     "valid_to": "2022-09-22"
   },
   {
-    "fqdn": "salomoneshopcz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "sendsro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -1866,12 +1818,6 @@
     "valid_to": "2022-09-18"
   },
   {
-    "fqdn": "tommyhilfigereshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "toonwood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -1986,24 +1932,6 @@
     "valid_to": "2022-09-22"
   },
   {
-    "fqdn": "viagra-eshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "viagra-levne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vibramoutlet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "vinarstvicarkov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
@@ -2025,18 +1953,6 @@
     "fqdn": "vivobarefootsleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vivobarefootslevy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vivobarefootvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-01",
     "valid_to": null
   },
   {
