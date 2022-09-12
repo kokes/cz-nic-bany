@@ -30,6 +30,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "25645.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "75534.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-01",
@@ -1701,6 +1707,12 @@
     "fqdn": "sileneceny.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sklipeknechory.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-12",
     "valid_to": null
   },
   {
