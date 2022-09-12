@@ -282,12 +282,6 @@
     "valid_to": "2022-09-19"
   },
   {
-    "fqdn": "ceskaposta-index.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-12",
-    "valid_to": "2022-09-12"
-  },
-  {
     "fqdn": "ceskaposta-infofin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-11",
@@ -796,12 +790,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
-  },
-  {
-    "fqdn": "ib-airbank.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-08-12",
-    "valid_to": "2022-09-12"
   },
   {
     "fqdn": "id-bank-mpvs.cz",
