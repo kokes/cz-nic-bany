@@ -858,6 +858,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "izolace-barton.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "jaknadiety.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2019-06-24",
@@ -1476,6 +1482,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pneumacik.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "pneu-svet.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2017-11-24",
@@ -1804,6 +1816,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
+  },
+  {
+    "fqdn": "svetovakasinaonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-12",
+    "valid_to": null
   },
   {
     "fqdn": "taojoga-bohemia.cz",
