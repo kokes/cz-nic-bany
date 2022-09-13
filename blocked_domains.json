@@ -282,6 +282,12 @@
     "valid_to": "2022-09-19"
   },
   {
+    "fqdn": "ceskaposta-index.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-infofin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-11",
@@ -520,6 +526,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
+  },
+  {
+    "fqdn": "edlekarnapilulky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
   },
   {
     "fqdn": "ekotracto.cz",
@@ -790,6 +802,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-22",
     "valid_to": "2022-09-22"
+  },
+  {
+    "fqdn": "ib-airbank.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
   },
   {
     "fqdn": "id-bank-mpvs.cz",
@@ -1560,6 +1578,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "problemysholkama.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "procdn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-02-28",
@@ -1902,6 +1926,12 @@
     "valid_to": "2022-09-18"
   },
   {
+    "fqdn": "upshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "u-studny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
@@ -2062,6 +2092,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-18",
     "valid_to": "2022-09-18"
+  },
+  {
+    "fqdn": "zhnf.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-13",
+    "valid_to": null
   },
   {
     "fqdn": "zichainterier.cz",
