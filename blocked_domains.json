@@ -1608,6 +1608,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pruspevek-na-bydleni.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-14",
+    "valid_to": "2022-10-14"
+  },
+  {
     "fqdn": "purple-dog.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
