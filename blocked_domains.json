@@ -2064,12 +2064,6 @@
     "valid_to": "2022-09-18"
   },
   {
-    "fqdn": "web-ibs-fio.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-08-14",
-    "valid_to": "2022-09-14"
-  },
-  {
     "fqdn": "wudang-foto-kungfu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-06-02",
