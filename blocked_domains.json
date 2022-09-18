@@ -2094,12 +2094,6 @@
     "valid_to": "2022-09-22"
   },
   {
-    "fqdn": "zenavtisni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "zenskyprincip.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-08-18",
