@@ -1338,6 +1338,12 @@
     "valid_to": "2022-09-22"
   },
   {
+    "fqdn": "shophunter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "shop-lidl.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-10-17",
