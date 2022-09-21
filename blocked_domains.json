@@ -1446,6 +1446,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sms-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-21",
+    "valid_to": "2022-10-21"
+  },
+  {
     "fqdn": "ssrp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-19",
