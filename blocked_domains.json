@@ -1446,6 +1446,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "smsinfo-mpsv.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2022-09-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "sms-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-21",
