@@ -4944,6 +4944,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pomoc-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-27",
+    "valid_to": "2022-10-27"
+  },
+  {
     "fqdn": "porcelanosagrupo.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-06-19",
