@@ -4314,6 +4314,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gapp-cabtech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "gtamj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
