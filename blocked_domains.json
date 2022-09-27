@@ -4086,6 +4086,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceske-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-27",
+    "valid_to": "2022-10-27"
+  },
+  {
     "fqdn": "cihs.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2022-07-26",
@@ -4992,6 +4998,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pusobnost-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-27",
+    "valid_to": "2022-10-27"
+  },
+  {
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
@@ -5158,6 +5170,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-26",
     "valid_to": "2022-10-26"
+  },
+  {
+    "fqdn": "socialni-sluzba-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-09-27",
+    "valid_to": "2022-10-27"
   },
   {
     "fqdn": "spinamba-casino.cz",
