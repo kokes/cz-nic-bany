@@ -4452,54 +4452,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kamagra-kamagra.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-levne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-original.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-partner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-trade1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-trade2.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagra-trade3.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagratrade.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "kardioprachatice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-27",
@@ -4593,6 +4545,12 @@
     "fqdn": "michalkovardluzi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-07-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mineraly.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-29",
     "valid_to": null
   },
   {
@@ -4743,6 +4701,12 @@
     "fqdn": "neoplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-04-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nintendoswitchcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-09-29",
     "valid_to": null
   },
   {
@@ -5202,12 +5166,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "trade-kamagra.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "trmobile.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-06-05",
@@ -5253,12 +5211,6 @@
     "fqdn": "vaclavekjiri.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vagabondboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-19",
     "valid_to": null
   },
   {
