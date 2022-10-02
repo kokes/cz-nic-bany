@@ -5082,6 +5082,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-id.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-info.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-22",
@@ -5104,6 +5110,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-29",
     "valid_to": "2022-10-29"
+  },
+  {
+    "fqdn": "mpsv-platit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-02",
+    "valid_to": null
   },
   {
     "fqdn": "mpsv-pomoc.cz",
@@ -5157,6 +5169,12 @@
     "fqdn": "mpvs-id.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpvs-oline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-02",
     "valid_to": null
   },
   {
