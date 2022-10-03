@@ -3744,6 +3744,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "aktivovat-idmpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
+    "fqdn": "aktualizacefirem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
     "fqdn": "americanminihorses.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -5052,6 +5064,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "moonbootcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
     "fqdn": "morganadesign.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -5314,6 +5332,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
+  },
+  {
+    "fqdn": "off-whitetenisky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
   },
   {
     "fqdn": "ok4inovace.cz",
@@ -5964,6 +5988,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "underarmour-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
     "fqdn": "underarmourhovr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-20",
@@ -6106,6 +6136,24 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
     "valid_to": null
+  },
+  {
+    "fqdn": "web1-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
+    "fqdn": "web2-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
+  },
+  {
+    "fqdn": "web-ibs-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-03",
+    "valid_to": "2022-11-03"
   },
   {
     "fqdn": "within-temptation.cz",
