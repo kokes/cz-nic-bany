@@ -4776,6 +4776,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "information-id-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-10-05",
+    "valid_to": "2022-11-05"
+  },
+  {
     "fqdn": "inov-8praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-20",
