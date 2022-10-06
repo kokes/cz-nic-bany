@@ -5184,12 +5184,6 @@
     "valid_to": "2022-10-26"
   },
   {
-    "fqdn": "mpvs-id-bank.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-06",
-    "valid_to": "2022-10-06"
-  },
-  {
     "fqdn": "mpvs-id.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-08",
@@ -5206,12 +5200,6 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-26",
     "valid_to": "2022-10-26"
-  },
-  {
-    "fqdn": "mpvs-org-cz.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-06",
-    "valid_to": "2022-10-06"
   },
   {
     "fqdn": "ms-malse.cz",
