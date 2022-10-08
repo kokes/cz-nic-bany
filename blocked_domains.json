@@ -4176,12 +4176,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceska-post.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "ceske-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-27",
