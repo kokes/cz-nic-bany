@@ -4794,6 +4794,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "i-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-10-10",
+    "valid_to": "2022-11-10"
+  },
+  {
     "fqdn": "information-id-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-10-05",
