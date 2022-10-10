@@ -1296,6 +1296,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "45792.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "4646.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
@@ -3858,6 +3864,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "averda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "badgateway.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-01",
@@ -4245,6 +4257,12 @@
     "fqdn": "czechyachtteam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cz-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-10",
     "valid_to": null
   },
   {
@@ -5229,6 +5247,12 @@
     "fqdn": "myblendit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-07-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "my-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-10",
     "valid_to": null
   },
   {
