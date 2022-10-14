@@ -5280,6 +5280,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-orgcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-platby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-01",
