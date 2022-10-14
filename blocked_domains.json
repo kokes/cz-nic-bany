@@ -5232,6 +5232,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-10-14",
+    "valid_to": "2022-11-14"
+  },
+  {
     "fqdn": "mpsv-bank-id.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-06",
