@@ -3906,12 +3906,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autosedlec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "averda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-10",
