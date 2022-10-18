@@ -1,11 +1,5 @@
 [
   {
-    "fqdn": "02906.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "100mega-distr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-10-15",
@@ -507,12 +501,6 @@
     "fqdn": "25588.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "25645.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-12",
     "valid_to": null
   },
   {
@@ -3912,12 +3900,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "badgateway.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "bagry-moravka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -4950,12 +4932,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "izolace-barton.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "jahodak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-13",
@@ -5232,21 +5208,9 @@
     "valid_to": "2022-11-14"
   },
   {
-    "fqdn": "mpsv-bank-id.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpsv-ceska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mpsv-cz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-02",
     "valid_to": null
   },
   {
@@ -5274,21 +5238,9 @@
     "valid_to": "2022-11-10"
   },
   {
-    "fqdn": "mpsv-org.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpsv-orgcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mpsv-platby.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-01",
     "valid_to": null
   },
   {
@@ -5308,12 +5260,6 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-23",
     "valid_to": "2022-10-23"
-  },
-  {
-    "fqdn": "mpsv-prihlaseni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-06",
-    "valid_to": null
   },
   {
     "fqdn": "mpsv-sms.cz",
@@ -6012,12 +5958,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sklipeknechory.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "sklo-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -6153,12 +6093,6 @@
     "fqdn": "svazptp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "svetovakasinaonline.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-12",
     "valid_to": null
   },
   {
