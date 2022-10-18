@@ -4518,12 +4518,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "edlekarnapilulky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "edtrb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
@@ -5652,12 +5646,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pneumacik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "pneu-svet.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2017-11-24",
@@ -6201,12 +6189,6 @@
     "fqdn": "underarmourhovr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "upshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-13",
     "valid_to": null
   },
   {
