@@ -6156,12 +6156,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sms-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-21",
-    "valid_to": "2022-10-21"
-  },
-  {
     "fqdn": "socialni-platby-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-26",
