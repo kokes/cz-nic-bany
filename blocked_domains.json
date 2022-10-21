@@ -3810,6 +3810,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "animesonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "anteny-mladaboleslav.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -4506,6 +4512,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "downloadhub.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "dphoto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -4704,6 +4716,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "evesleep.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "ewsbn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
@@ -4737,6 +4755,12 @@
     "fqdn": "filmyhd.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-12-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "financni-platby-mpvs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
     "valid_to": null
   },
   {
@@ -4845,6 +4869,12 @@
     "fqdn": "gtsnd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hceskaposta-orgfinans.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
     "valid_to": null
   },
   {
@@ -5286,6 +5316,12 @@
     "valid_to": "2022-11-03"
   },
   {
+    "fqdn": "mooris.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "morganadesign.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -5356,6 +5392,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-23",
     "valid_to": "2022-10-23"
+  },
+  {
+    "fqdn": "mpsv-posta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
+    "valid_to": null
   },
   {
     "fqdn": "mpsv-sms.cz",
@@ -5709,6 +5751,12 @@
     "fqdn": "parfemytop.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "parfumado.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
     "valid_to": null
   },
   {
@@ -6297,6 +6345,12 @@
     "fqdn": "teorie.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "the-body-shop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-21",
     "valid_to": null
   },
   {
