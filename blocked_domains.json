@@ -5358,12 +5358,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpsv-info.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-22",
-    "valid_to": "2022-10-22"
-  },
-  {
     "fqdn": "mpsv-onlin-id-platby.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-10-10",
