@@ -5364,12 +5364,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpsv-pomoc.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-23",
-    "valid_to": "2022-10-23"
-  },
-  {
     "fqdn": "mpsv-posta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-21",
@@ -5380,12 +5374,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-06",
     "valid_to": null
-  },
-  {
-    "fqdn": "mpsv-socialni-platby.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-23",
-    "valid_to": "2022-10-23"
   },
   {
     "fqdn": "mpvs-bydleni.cz",
