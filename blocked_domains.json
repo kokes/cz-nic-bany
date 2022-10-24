@@ -450,6 +450,12 @@
     "valid_to": "2022-11-11"
   },
   {
+    "fqdn": "24post-mpvs.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-10-24",
+    "valid_to": "2022-11-24"
+  },
+  {
     "fqdn": "24zverimex.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
@@ -5376,12 +5382,6 @@
     "valid_to": "2022-11-10"
   },
   {
-    "fqdn": "mpsv-orgcz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpsv-platby-online.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-29",
@@ -5595,12 +5595,6 @@
     "fqdn": "obklady-kimmel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "obuvcroc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-06-13",
     "valid_to": null
   },
   {
