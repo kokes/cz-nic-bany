@@ -4254,6 +4254,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-q.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceske-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-27",
@@ -5355,6 +5361,12 @@
     "fqdn": "mpsv-id.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-info.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-24",
     "valid_to": null
   },
   {
@@ -6657,6 +6669,12 @@
     "fqdn": "zhbinance.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zhy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-24",
     "valid_to": null
   },
   {
