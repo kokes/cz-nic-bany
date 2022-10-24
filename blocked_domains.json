@@ -4914,6 +4914,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id-aktivovat-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "id-bank-mpvs.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-02",
@@ -5638,6 +5644,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-29",
     "valid_to": "2022-10-29"
+  },
+  {
+    "fqdn": "opicapital.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-24",
+    "valid_to": null
   },
   {
     "fqdn": "opravy-bagru.cz",
