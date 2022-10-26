@@ -5388,6 +5388,12 @@
     "valid_to": "2022-11-10"
   },
   {
+    "fqdn": "mpsv-platby-id-bank.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-platby-online.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-09-29",
@@ -6199,15 +6205,15 @@
   },
   {
     "fqdn": "socialni-platby-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-26",
-    "valid_to": "2022-10-26"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-26",
+    "valid_to": null
   },
   {
     "fqdn": "socialni-sluzba-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-27",
-    "valid_to": "2022-10-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-26",
+    "valid_to": null
   },
   {
     "fqdn": "spacebox.cz",
