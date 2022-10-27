@@ -6162,12 +6162,6 @@
     "valid_to": "2022-11-03"
   },
   {
-    "fqdn": "urgomedical.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "ut-tu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
