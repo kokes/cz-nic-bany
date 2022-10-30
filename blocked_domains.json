@@ -4410,12 +4410,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dostat-od-id-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-09-30",
-    "valid_to": "2022-10-30"
-  },
-  {
     "fqdn": "dosvetla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
