@@ -4224,6 +4224,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceske-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "chalupa-hojava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -4407,6 +4413,12 @@
     "fqdn": "domystavime.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dostat-od-id-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-31",
     "valid_to": null
   },
   {
@@ -5244,6 +5256,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-platby-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-platby-sms.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
@@ -5520,6 +5538,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-mpsv-org.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "online-platbympsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-10-26",
@@ -5649,6 +5673,12 @@
     "fqdn": "podcastcomakoule.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2019-06-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pomoc-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-10-31",
     "valid_to": null
   },
   {
