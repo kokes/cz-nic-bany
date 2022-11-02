@@ -5874,6 +5874,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sazka24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "sdhhostenice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
