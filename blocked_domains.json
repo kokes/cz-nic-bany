@@ -96,6 +96,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aktualizacefirem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "americanminihorses.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -1257,6 +1263,12 @@
     "fqdn": "mpsv-ceska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-cz-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-05",
     "valid_to": null
   },
   {
