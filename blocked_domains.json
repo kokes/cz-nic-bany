@@ -96,6 +96,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aktivovat-idmpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "aktualizacefirem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-05",
