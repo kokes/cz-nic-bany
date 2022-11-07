@@ -1206,12 +1206,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mladeznachod.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "mobiltec.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-08-11",
