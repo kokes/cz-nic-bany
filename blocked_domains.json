@@ -246,6 +246,12 @@
     "valid_to": "2022-11-11"
   },
   {
+    "fqdn": "24mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "24post-mpvs.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-10-24",
@@ -2004,6 +2010,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dive-hurghada.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "dlazdime.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -2286,6 +2298,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ghianika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "gibosms.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -2301,6 +2319,12 @@
     "fqdn": "gtfckd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "guardys.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
     "valid_to": null
   },
   {
@@ -3681,6 +3705,12 @@
     "fqdn": "varimevam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vase-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
     "valid_to": null
   },
   {
