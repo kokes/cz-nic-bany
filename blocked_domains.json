@@ -1848,6 +1848,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceska-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskapocta-platby-instant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
@@ -2109,6 +2115,12 @@
     "fqdn": "dumuvody.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "e-brands.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
     "valid_to": null
   },
   {
@@ -2814,6 +2826,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-pomoc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-posta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-21",
@@ -2823,6 +2841,12 @@
     "fqdn": "mpsv-sms.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-socialni-platby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-09",
     "valid_to": null
   },
   {
