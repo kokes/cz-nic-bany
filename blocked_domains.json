@@ -2400,22 +2400,10 @@
     "valid_to": "2022-11-12"
   },
   {
-    "fqdn": "id-portal-online-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-10",
-    "valid_to": "2022-11-10"
-  },
-  {
     "fqdn": "i-kucharka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "i-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-10",
-    "valid_to": "2022-11-10"
   },
   {
     "fqdn": "inform-ceskaposta.cz",
@@ -2758,12 +2746,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
     "valid_to": null
-  },
-  {
-    "fqdn": "mpsv-onlin-id-platby.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-10",
-    "valid_to": "2022-11-10"
   },
   {
     "fqdn": "mpsv-platby-id-bank.cz",
