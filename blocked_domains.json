@@ -216,12 +216,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "24ceska-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-11",
-    "valid_to": "2022-11-11"
-  },
-  {
     "fqdn": "24mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-09",
