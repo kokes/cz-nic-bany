@@ -1002,6 +1002,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "75461.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "7557.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -1341,6 +1347,12 @@
     "fqdn": "9457.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "94673.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
     "valid_to": null
   },
   {
@@ -2322,6 +2334,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "infompsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "inform-ceskaposta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
@@ -2523,6 +2541,12 @@
     "fqdn": "linguapro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "link-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
     "valid_to": null
   },
   {
