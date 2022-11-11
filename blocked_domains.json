@@ -2322,13 +2322,31 @@
     "valid_to": "2022-11-12"
   },
   {
+    "fqdn": "id-portal-online-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "i-kucharka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
   },
   {
+    "fqdn": "i-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "infompsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "information-id-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-11",
     "valid_to": null
@@ -2685,6 +2703,12 @@
     "fqdn": "mpsv-info.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-onlin-id-platby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-11",
     "valid_to": null
   },
   {
