@@ -2250,12 +2250,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "id-mpsv-org.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-12",
-    "valid_to": "2022-11-12"
-  },
-  {
     "fqdn": "id-portal-online-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-11",
