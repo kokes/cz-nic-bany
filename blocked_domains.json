@@ -2298,6 +2298,12 @@
     "valid_to": "2022-12-10"
   },
   {
+    "fqdn": "lonlinel-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-11-14",
+    "valid_to": "2022-12-14"
+  },
+  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
