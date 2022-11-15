@@ -546,12 +546,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "5635.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "5675.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -601,12 +595,6 @@
   },
   {
     "fqdn": "5948.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "5962.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
     "valid_to": null
@@ -697,12 +685,6 @@
   },
   {
     "fqdn": "6917.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "6926.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
     "valid_to": null
@@ -972,12 +954,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "8391.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "8459.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -1141,12 +1117,6 @@
   },
   {
     "fqdn": "9844.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "9853.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
     "valid_to": null
