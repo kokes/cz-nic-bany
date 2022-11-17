@@ -1668,12 +1668,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ghianika.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "gpdevelop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
