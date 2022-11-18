@@ -294,6 +294,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "4158.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "4167.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -2320,6 +2326,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-11-15",
     "valid_to": "2022-12-15"
+  },
+  {
+    "fqdn": "online-l-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-18",
+    "valid_to": null
   },
   {
     "fqdn": "online-mpsv-org.cz",
