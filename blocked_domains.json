@@ -816,6 +816,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "9452.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "9455.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -1537,12 +1543,6 @@
   },
   {
     "fqdn": "fotosumperk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "foxguide.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
