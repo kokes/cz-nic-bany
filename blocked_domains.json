@@ -1068,6 +1068,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id24-mpsv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-11-22",
+    "valid_to": "2022-12-22"
+  },
+  {
     "fqdn": "id-aktivovat-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-24",
