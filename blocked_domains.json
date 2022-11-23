@@ -456,6 +456,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "botyuggsleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "bydlenidoubravcice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -1866,9 +1872,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "puma-boty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rabbunda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-23",
     "valid_to": null
   },
   {
