@@ -276,12 +276,6 @@
     "valid_to": "2022-11-27"
   },
   {
-    "fqdn": "bankid-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-25",
-    "valid_to": "2022-11-25"
-  },
-  {
     "fqdn": "bankovnigarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
