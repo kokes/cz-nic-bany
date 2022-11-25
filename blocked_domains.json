@@ -1326,12 +1326,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpvs-id-bank.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpvs-id.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-08",
@@ -1725,12 +1719,6 @@
     "fqdn": "programklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pruspevek-na-bydleni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-14",
     "valid_to": null
   },
   {
