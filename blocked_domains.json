@@ -24,12 +24,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "1292.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "24ceska-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-14",
@@ -42,33 +36,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "3714.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "4158.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "5148.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "5916.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "6911.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
     "valid_to": null
   },
   {
@@ -87,12 +57,6 @@
     "fqdn": "94673.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "9844.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
     "valid_to": null
   },
   {
