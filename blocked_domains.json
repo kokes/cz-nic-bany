@@ -36,6 +36,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "24post-mpvs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "4158.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-18",
@@ -219,6 +225,12 @@
     "fqdn": "balansfest.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bankid-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
     "valid_to": null
   },
   {
@@ -783,6 +795,12 @@
     "fqdn": "id-bank-mpvs.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-09-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "id-mpsv-org.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
     "valid_to": null
   },
   {
@@ -1386,6 +1404,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-lmpsvl.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2022-11-28",
+    "valid_to": "2022-12-28"
+  },
+  {
     "fqdn": "online-mpsv-org.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-31",
@@ -1393,8 +1417,8 @@
   },
   {
     "fqdn": "online-platbympsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-10-26",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
     "valid_to": null
   },
   {
@@ -1527,6 +1551,12 @@
     "fqdn": "porcelanosagrupo.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-06-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "post-mpvs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
     "valid_to": null
   },
   {
