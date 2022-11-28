@@ -564,18 +564,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "email4-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "email9-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "emanuele.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -1380,27 +1368,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "online1-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "online2-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "online4-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "online5-ib-fio.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-08-26",
+    "fqdn": "online-idbanc-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-11-28",
     "valid_to": null
   },
   {
