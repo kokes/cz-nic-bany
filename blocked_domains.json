@@ -816,6 +816,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idlinc-mpsv.cz",
+    "reason": "",
+    "valid_from": "2022-11-29",
+    "valid_to": "2022-12-29"
+  },
+  {
     "fqdn": "id-mpsv-org.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-28",
