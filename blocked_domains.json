@@ -84,6 +84,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alpinning-fitbox.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "americanminihorses.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -882,6 +888,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "italskakrmiva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "ixosafe.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2015-09-17",
@@ -999,6 +1011,12 @@
     "fqdn": "kpsskonicka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "krmiva-morava.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-01",
     "valid_to": null
   },
   {
@@ -1389,6 +1407,12 @@
     "fqdn": "nejlepsitabak.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2021-03-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nemovitostchorvatsko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-01",
     "valid_to": null
   },
   {
