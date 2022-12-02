@@ -330,12 +330,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceskaposta-q.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "chalupa-hojava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -870,21 +864,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "kamenictvi-litovel.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "kap-stredocesky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "karolinasvetoborna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
     "valid_to": null
   },
   {
@@ -1095,12 +1077,6 @@
     "fqdn": "michalkovardluzi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-07-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "milenecky-azyl-jihlava.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
     "valid_to": null
   },
   {
@@ -1638,12 +1614,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sd-offices.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "sejla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -2001,12 +1971,6 @@
     "fqdn": "zelenyranc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zhy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-24",
     "valid_to": null
   },
   {
