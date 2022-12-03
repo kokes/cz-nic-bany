@@ -384,12 +384,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dahatv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "dangelo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
