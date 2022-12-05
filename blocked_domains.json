@@ -738,12 +738,6 @@
     "valid_to": "2022-12-22"
   },
   {
-    "fqdn": "id-bank-mpvs.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-09-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "idlinc-mpsv.cz",
     "reason": "",
     "valid_from": "2022-11-29",
