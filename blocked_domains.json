@@ -60,6 +60,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "24link-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "24mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-09",
@@ -1564,6 +1570,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-11-28",
     "valid_to": "2022-12-28"
+  },
+  {
+    "fqdn": "onlinempsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2022-12-08",
+    "valid_to": null
   },
   {
     "fqdn": "online-platbympsv.cz",
