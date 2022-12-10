@@ -1236,12 +1236,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lmpvsl.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-11-10",
-    "valid_to": "2022-12-10"
-  },
-  {
     "fqdn": "lonlinel-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-11-14",
