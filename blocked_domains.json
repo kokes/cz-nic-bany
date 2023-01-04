@@ -636,6 +636,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "crocslevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "cukrarnalinda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -972,6 +978,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hi-teceshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "hkslaviaplzen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -1287,6 +1299,12 @@
     "fqdn": "lmpsvl-platby.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "longchampkabelka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-04",
     "valid_to": null
   },
   {
@@ -1962,6 +1980,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sanukeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "satraglobal-cesab.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-15",
@@ -2307,6 +2331,12 @@
     "fqdn": "vitraze-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivobarefootczeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-04",
     "valid_to": null
   },
   {
