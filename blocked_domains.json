@@ -1674,6 +1674,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-manual-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "onlinempsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-08",
@@ -1713,6 +1719,12 @@
     "fqdn": "orl2021.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "osakillers.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-06",
     "valid_to": null
   },
   {
@@ -2073,6 +2085,12 @@
     "fqdn": "skocte.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skstceloznice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-06",
     "valid_to": null
   },
   {
