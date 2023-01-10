@@ -1104,6 +1104,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id-org-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "i-kucharka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
