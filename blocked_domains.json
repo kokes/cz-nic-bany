@@ -1368,6 +1368,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lmpvsl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "longchampkabelka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
