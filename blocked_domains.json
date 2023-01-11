@@ -1920,9 +1920,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "prihlasit-se-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "prirodni-detoxikace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevek-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-11",
     "valid_to": null
   },
   {
@@ -1947,12 +1959,6 @@
     "fqdn": "programklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prosvojetice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
