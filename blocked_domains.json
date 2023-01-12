@@ -978,12 +978,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gov-mpvs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-12",
-    "valid_to": "2023-01-12"
-  },
-  {
     "fqdn": "gpdevelop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -1540,12 +1534,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
     "valid_to": null
-  },
-  {
-    "fqdn": "mqsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-12",
-    "valid_to": "2023-01-12"
   },
   {
     "fqdn": "ms-malse.cz",
