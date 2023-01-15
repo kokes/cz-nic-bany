@@ -402,12 +402,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "automaticke-dobijeni-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-15",
-    "valid_to": "2023-01-15"
-  },
-  {
     "fqdn": "autoznalectvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-15",
@@ -1536,12 +1530,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "online-pro-vas-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-15",
-    "valid_to": "2023-01-15"
-  },
-  {
     "fqdn": "onlines-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
@@ -2188,12 +2176,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
     "valid_to": null
-  },
-  {
-    "fqdn": "vkladmpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-15",
-    "valid_to": "2023-01-15"
   },
   {
     "fqdn": "vkostrava.cz",
