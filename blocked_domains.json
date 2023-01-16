@@ -648,12 +648,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dobiti-z-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-16",
-    "valid_to": "2023-01-16"
-  },
-  {
     "fqdn": "doklad-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-20",
@@ -826,12 +820,6 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-12-14",
     "valid_to": null
-  },
-  {
-    "fqdn": "finorgmpvs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-16",
-    "valid_to": "2023-01-16"
   },
   {
     "fqdn": "firestarter2022.cz",
@@ -2092,12 +2080,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "vaai-aktivaci-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-16",
-    "valid_to": "2023-01-16"
   },
   {
     "fqdn": "vaclavsafar.cz",
