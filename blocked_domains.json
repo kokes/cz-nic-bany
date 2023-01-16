@@ -54,9 +54,27 @@
     "valid_to": null
   },
   {
+    "fqdn": "24693.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "24857.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "26837.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "27845.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -114,9 +132,27 @@
     "valid_to": null
   },
   {
+    "fqdn": "47569.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "52369.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "53782.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "56473.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -141,6 +177,18 @@
     "fqdn": "62573.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "65398.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "67238.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -204,6 +252,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "79246.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "81395.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
@@ -240,6 +294,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "87916.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "89523.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
@@ -261,6 +321,12 @@
     "fqdn": "96273.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "96327.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -648,6 +714,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dobiti-z-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "doklad-mpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-20",
@@ -819,6 +891,12 @@
     "fqdn": "filmyhd.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-12-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "finorgmpvs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -1333,8 +1411,8 @@
   },
   {
     "fqdn": "mpsv-id.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-12-09",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
@@ -2091,6 +2169,12 @@
     "fqdn": "uzlatebrany.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vaai-aktivaci-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-16",
     "valid_to": null
   },
   {
