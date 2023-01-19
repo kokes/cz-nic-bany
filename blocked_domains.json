@@ -204,6 +204,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "68571.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "69827.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
@@ -1692,6 +1698,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pktoz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "platebni-ceskaposta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
@@ -1743,6 +1755,12 @@
     "fqdn": "potvrditid-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-10-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "potvrdit-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-19",
     "valid_to": null
   },
   {
@@ -1809,6 +1827,12 @@
     "fqdn": "pusobnost-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pu-sp20.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-19",
     "valid_to": null
   },
   {
@@ -2313,6 +2337,12 @@
     "fqdn": "vytvarnehratky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "web-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-19",
     "valid_to": null
   },
   {
