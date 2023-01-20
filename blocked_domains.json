@@ -510,6 +510,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "banki-cz-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "bankidmpvs.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-22",
@@ -717,6 +723,12 @@
     "fqdn": "dobiti-z-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "doklad-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
     "valid_to": null
   },
   {
@@ -1035,6 +1047,12 @@
     "fqdn": "id24-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "identitaobcana-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
     "valid_to": null
   },
   {
@@ -2202,6 +2220,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vaseid-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "vase-ordermpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-21",
@@ -2301,6 +2325,12 @@
     "fqdn": "vypalovani-plechu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vyplnit-formular-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
     "valid_to": null
   },
   {
