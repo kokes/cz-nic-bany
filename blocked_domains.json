@@ -510,12 +510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "banki-cz-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
-  },
-  {
     "fqdn": "bankidmpvs.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-22",
@@ -724,12 +718,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
     "valid_to": null
-  },
-  {
-    "fqdn": "doklad-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
   },
   {
     "fqdn": "domaci-kino.cz",
@@ -1048,12 +1036,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
     "valid_to": null
-  },
-  {
-    "fqdn": "identitaobcana-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
   },
   {
     "fqdn": "idlinc-mpsv.cz",
@@ -2220,12 +2202,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vaseid-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
-  },
-  {
     "fqdn": "vase-ordermpsv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2022-12-21",
@@ -2326,12 +2302,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "vyplnit-formular-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
   },
   {
     "fqdn": "vytvarnehratky.cz",
