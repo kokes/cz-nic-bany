@@ -1411,9 +1411,9 @@
   },
   {
     "fqdn": "mpbilni-klicmpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-20",
-    "valid_to": "2023-01-20"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-20",
+    "valid_to": null
   },
   {
     "fqdn": "mpsv-id.cz",
