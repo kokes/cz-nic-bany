@@ -510,12 +510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bankidmpvs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-22",
-    "valid_to": "2023-01-22"
-  },
-  {
     "fqdn": "bankovnigarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
@@ -580,12 +574,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
     "valid_to": null
-  },
-  {
-    "fqdn": "bydleni-mpsv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2022-12-22",
-    "valid_to": "2023-01-22"
   },
   {
     "fqdn": "bytylovcicky.cz",
