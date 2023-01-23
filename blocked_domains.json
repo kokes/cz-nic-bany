@@ -858,6 +858,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "euceskaposta.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-01-23",
+    "valid_to": "2023-02-23"
+  },
+  {
     "fqdn": "euromodul.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-15",
@@ -1546,6 +1552,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
     "valid_to": null
+  },
+  {
+    "fqdn": "on-ceskaposta.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-01-23",
+    "valid_to": "2023-02-23"
   },
   {
     "fqdn": "ondrejmlejnek.cz",
