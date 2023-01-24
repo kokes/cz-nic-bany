@@ -390,6 +390,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aplikaci-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "arami.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-04-12",
@@ -507,6 +513,12 @@
     "fqdn": "banki-cz-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bankidmpvs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
     "valid_to": null
   },
   {
@@ -1164,6 +1176,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "klicembankovni-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "kompletvse.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-06-23",
@@ -1377,6 +1395,12 @@
     "fqdn": "miolane.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mobilnimpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
     "valid_to": null
   },
   {
@@ -2109,6 +2133,12 @@
     "fqdn": "transaction-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "transferring-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
     "valid_to": null
   },
   {
