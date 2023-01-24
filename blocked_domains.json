@@ -1986,12 +1986,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "smarticon.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-02-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "smsinfo-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
