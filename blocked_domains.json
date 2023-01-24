@@ -576,6 +576,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bydleni-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "bytylovcicky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
