@@ -474,6 +474,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "automaticke-dobijeni-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "autoznalectvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-15",
@@ -1923,12 +1929,6 @@
     "fqdn": "sanukeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "satraglobal-cesab.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
     "valid_to": null
   },
   {
