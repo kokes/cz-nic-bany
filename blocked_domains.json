@@ -1350,12 +1350,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lonlinel-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-12-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
@@ -1458,21 +1452,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpsv-id.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpsvpost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mpvs-platby-id.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-08",
     "valid_to": null
   },
   {
@@ -1884,12 +1866,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pusobnost-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-12-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "pu-sp20.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-19",
@@ -1917,12 +1893,6 @@
     "fqdn": "redecanais.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rekreacenachate.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-12-12",
     "valid_to": null
   },
   {
