@@ -504,12 +504,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autoznalectvi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "babrno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -729,12 +723,6 @@
     "fqdn": "detail-rattan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dieselgasperformance.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
     "valid_to": null
   },
   {
@@ -2223,12 +2211,6 @@
     "fqdn": "udrzovaciprace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "unikart.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
     "valid_to": null
   },
   {
