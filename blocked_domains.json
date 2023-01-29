@@ -1164,12 +1164,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jsdhboskovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "kadernictvivera.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
