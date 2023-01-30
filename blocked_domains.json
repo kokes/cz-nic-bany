@@ -78,6 +78,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "2850.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "28936.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
@@ -159,6 +165,12 @@
     "fqdn": "58936.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "5972.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -636,9 +648,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "cariumaboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-praha.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-06-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "chacosandaly.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -840,6 +864,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eccobotysleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "ekostav2000.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-28",
@@ -873,6 +903,36 @@
     "fqdn": "elpo-jevicko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email1-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email2-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email3-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email4-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "email9-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -993,6 +1053,12 @@
     "fqdn": "gtfckd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gymsharkcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -1356,6 +1422,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lululemonoutlet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "lumo-zamecnictvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -1536,9 +1608,27 @@
     "valid_to": null
   },
   {
+    "fqdn": "nikebotyvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "nikeobuvstore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nikeshopcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "northfaceczeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -1611,6 +1701,30 @@
     "fqdn": "onegast.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online1-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online2-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online4-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online5-ib-fio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -2292,6 +2406,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vessieshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "vetrna-plan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -2325,6 +2445,12 @@
     "fqdn": "vivobarefootczeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivobarefooteshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
