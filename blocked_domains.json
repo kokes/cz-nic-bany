@@ -696,6 +696,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "conversesleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "countryall.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -2118,6 +2124,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "skechersprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "sklo-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -2244,6 +2256,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tevasandaly.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "thenorthfacecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-08",
@@ -2364,6 +2382,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vanscz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "varimevam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -2391,6 +2415,12 @@
     "fqdn": "vasmpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vejaeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
