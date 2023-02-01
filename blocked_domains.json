@@ -1446,6 +1446,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lonlinemp-svl.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-01",
+    "valid_to": "2023-03-04"
+  },
+  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
