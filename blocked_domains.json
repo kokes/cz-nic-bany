@@ -1284,6 +1284,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "komarek-system.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2023-02-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "komareksystem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
@@ -2416,6 +2422,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
     "valid_to": null
+  },
+  {
+    "fqdn": "vasemp-a-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-01",
+    "valid_to": "2023-03-04"
   },
   {
     "fqdn": "vase-portalmpsv.cz",
