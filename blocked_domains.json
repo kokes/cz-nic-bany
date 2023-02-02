@@ -21366,6 +21366,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "asicsczshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "at-computers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2016-12-28",
@@ -21558,6 +21564,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "boty-docmartens.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "botyicebugeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
@@ -21565,6 +21577,18 @@
   },
   {
     "fqdn": "botylowashop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "botypalladiumprague.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "botypikolinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
@@ -22830,6 +22854,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "inov-8cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "internet234.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -22989,6 +23019,18 @@
     "fqdn": "jordanboty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "josefseibelobuv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "josefseibelvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
     "valid_to": null
   },
   {
@@ -24066,6 +24108,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nikelevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "nikeobuvstore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
@@ -24834,6 +24882,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "prispeveklmp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-02",
+    "valid_to": "2023-03-05"
+  },
+  {
     "fqdn": "prispevek-mpa-sv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-01-18",
@@ -24892,6 +24946,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
     "valid_to": null
+  },
+  {
+    "fqdn": "pruvodce-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-02",
+    "valid_to": "2023-03-05"
   },
   {
     "fqdn": "prvnivirtualnioperator.cz",
@@ -25656,6 +25716,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "timberland-boty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "tklpf.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26302,6 +26368,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "vyzvump-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-02",
+    "valid_to": "2023-03-05"
   },
   {
     "fqdn": "w131.cz",
