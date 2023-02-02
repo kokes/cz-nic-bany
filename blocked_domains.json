@@ -2676,6 +2676,12 @@
     "valid_to": "2023-03-04"
   },
   {
+    "fqdn": "24-mpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-02",
+    "valid_to": "2023-03-05"
+  },
+  {
     "fqdn": "2501.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
