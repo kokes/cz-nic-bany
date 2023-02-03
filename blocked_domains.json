@@ -24000,6 +24000,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "persolczechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "pfesw.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
