@@ -23256,6 +23256,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "lnovinkylmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-03",
+    "valid_to": "2023-03-06"
+  },
+  {
+    "fqdn": "lnovinky-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-03",
+    "valid_to": "2023-03-06"
+  },
+  {
     "fqdn": "longchampkabelka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
@@ -23848,6 +23860,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-30",
     "valid_to": null
+  },
+  {
+    "fqdn": "online-cr-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-03",
+    "valid_to": "2023-03-06"
   },
   {
     "fqdn": "onlineid-mpsv.cz",
