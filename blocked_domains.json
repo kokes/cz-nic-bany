@@ -25140,12 +25140,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "thinhtopancut.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "timberland-boty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26145,12 +26139,6 @@
     "fqdn": "zahradamoje.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2014-07-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zako-cube.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
