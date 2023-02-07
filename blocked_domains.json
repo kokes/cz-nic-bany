@@ -21342,6 +21342,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "arcteryxbunda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "argos-agents.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-10",
@@ -22014,6 +22020,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "differment.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "dipservice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -22572,6 +22584,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "groundiesboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "growshopmost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -22597,6 +22615,12 @@
   },
   {
     "fqdn": "gymsharkleginy-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gymsharkshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-07",
     "valid_to": null
@@ -23643,6 +23667,12 @@
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lowabotyslevy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
@@ -25617,6 +25647,12 @@
     "fqdn": "superlaky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "suprabotylevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
