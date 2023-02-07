@@ -22122,6 +22122,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dopebunda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "dosvetla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -22587,6 +22593,12 @@
     "fqdn": "gymsharkcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gymsharkleginy-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
@@ -24309,6 +24321,12 @@
     "fqdn": "onlines-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onrunningvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
@@ -26283,6 +26301,12 @@
     "fqdn": "versacecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vessiboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
