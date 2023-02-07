@@ -24144,6 +24144,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinkymp-a-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-07",
+    "valid_to": "2023-03-10"
+  },
+  {
     "fqdn": "novinkympasv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-02",
@@ -24808,6 +24814,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
     "valid_to": null
+  },
+  {
+    "fqdn": "portalymp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-07",
+    "valid_to": "2023-03-10"
   },
   {
     "fqdn": "posta-ceska24.cz",
