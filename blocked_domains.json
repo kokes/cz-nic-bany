@@ -24360,6 +24360,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "onlinewebsitede.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "onrunningvyprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-07",
@@ -26415,6 +26421,12 @@
     "fqdn": "vitraze-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivobarefootboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-08",
     "valid_to": null
   },
   {
