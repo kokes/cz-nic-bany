@@ -21222,6 +21222,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "accounts-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-08",
+    "valid_to": "2023-03-11"
+  },
+  {
     "fqdn": "adidassleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -22858,6 +22864,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "internet-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-08",
+    "valid_to": "2023-03-11"
   },
   {
     "fqdn": "iportalmp-sv24i.cz",
