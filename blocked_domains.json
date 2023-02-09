@@ -22452,12 +22452,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "firestarter2022.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "fitness-corso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -26473,12 +26467,6 @@
   },
   {
     "fqdn": "vlkvostrave.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vlkzostravy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-10",
     "valid_to": null
