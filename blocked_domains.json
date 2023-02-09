@@ -24954,6 +24954,12 @@
     "valid_to": "2023-02-18"
   },
   {
+    "fqdn": "prispevek-na-bydlenl.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-09",
+    "valid_to": "2023-03-11"
+  },
+  {
     "fqdn": "privos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -25792,6 +25798,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-01-25",
     "valid_to": "2023-02-25"
+  },
+  {
+    "fqdn": "termsofuse-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-09",
+    "valid_to": "2023-03-11"
   },
   {
     "fqdn": "teva-praha.cz",
