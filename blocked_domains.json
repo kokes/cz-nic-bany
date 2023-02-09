@@ -24828,6 +24828,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "portalcrmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-09",
+    "valid_to": "2023-03-11"
+  },
+  {
     "fqdn": "portalymp-sv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-07",
