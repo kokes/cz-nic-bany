@@ -22854,6 +22854,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "inkasovat-platbu.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-10",
+    "valid_to": "2023-03-12"
+  },
+  {
     "fqdn": "inov-8cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -24934,6 +24940,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-11",
     "valid_to": null
+  },
+  {
+    "fqdn": "prijmoutmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-10",
+    "valid_to": "2023-03-12"
   },
   {
     "fqdn": "prispeveklmp-sv.cz",
