@@ -22896,12 +22896,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "iste.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "istylephone.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2017-02-20",
