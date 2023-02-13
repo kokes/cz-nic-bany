@@ -25254,6 +25254,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "registrovat-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-13",
+    "valid_to": "2023-03-13"
+  },
+  {
     "fqdn": "relaxit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
