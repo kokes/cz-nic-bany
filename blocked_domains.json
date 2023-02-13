@@ -26574,12 +26574,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "web-m-p-v-s.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-01-13",
-    "valid_to": "2023-02-13"
-  },
-  {
     "fqdn": "weeks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
