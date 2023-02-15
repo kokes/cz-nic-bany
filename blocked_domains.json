@@ -22152,6 +22152,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dostat-mp-a-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-15",
+    "valid_to": "2023-03-15"
+  },
+  {
     "fqdn": "dosvetla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -26410,6 +26416,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-30",
     "valid_to": null
+  },
+  {
+    "fqdn": "vejit-do-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-15",
+    "valid_to": "2023-03-15"
   },
   {
     "fqdn": "ventec-reality.cz",
