@@ -21336,6 +21336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aplikovatmp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-15",
+    "valid_to": "2023-03-15"
+  },
+  {
     "fqdn": "aquachiara.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
