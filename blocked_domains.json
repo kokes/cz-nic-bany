@@ -21510,6 +21510,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bancid24mpvs.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
+  },
+  {
     "fqdn": "banki-cz-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
@@ -26638,6 +26644,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-15",
     "valid_to": "2023-03-15"
+  },
+  {
+    "fqdn": "vyhled-na-mp-vs.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "vypalovani-plechu.cz",
