@@ -21846,6 +21846,12 @@
     "valid_to": "2023-03-06"
   },
   {
+    "fqdn": "cr-mp-vs-id.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
+  },
+  {
     "fqdn": "crocslevne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
@@ -23662,6 +23668,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-11",
     "valid_to": null
+  },
+  {
+    "fqdn": "lmpvsonlinel.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "lmzkt.cz",
