@@ -22176,6 +22176,12 @@
     "valid_to": "2023-03-15"
   },
   {
+    "fqdn": "dostat-se-z-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
+  },
+  {
     "fqdn": "dosvetla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -23716,6 +23722,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
     "valid_to": null
+  },
+  {
+    "fqdn": "lonlinecsasl-mp-vs.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-16",
+    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "lonlinemp-svl.cz",
