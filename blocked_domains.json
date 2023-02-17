@@ -26706,6 +26706,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "web-m-p-v-s.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "weeks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -27249,6 +27255,12 @@
     "fqdn": "zlebyfilm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zlutamrkev.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-17",
     "valid_to": null
   },
   {
