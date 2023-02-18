@@ -24936,12 +24936,6 @@
     "valid_to": "2023-03-10"
   },
   {
-    "fqdn": "posta-ceska24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "post-cr-mp-vs.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-16",
