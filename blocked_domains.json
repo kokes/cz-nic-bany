@@ -25656,6 +25656,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "socialni-platby-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "sofcongroup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
