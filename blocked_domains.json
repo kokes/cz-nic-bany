@@ -12564,6 +12564,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "66623.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "6664.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
