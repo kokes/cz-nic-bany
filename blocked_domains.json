@@ -25914,9 +25914,21 @@
     "valid_to": "2023-03-05"
   },
   {
+    "fqdn": "prispevek-mpa-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "prispevek-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevek-na-bydleni-online-mp-a-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-22",
     "valid_to": null
   },
   {
