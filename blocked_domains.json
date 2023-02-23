@@ -22242,6 +22242,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "automaty123.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "autoservis-kapos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -22533,6 +22539,12 @@
     "fqdn": "castraromana.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cavisa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
     "valid_to": null
   },
   {
@@ -23631,6 +23643,12 @@
     "fqdn": "housatko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hraciautomatyonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
     "valid_to": null
   },
   {
@@ -25974,6 +25992,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "protocenizdarma.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "prozivotvrovnovaze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -27264,6 +27288,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "uschovnu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "utgp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -27501,6 +27531,12 @@
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vischy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
     "valid_to": null
   },
   {
@@ -27807,6 +27843,12 @@
     "fqdn": "xxl-lutz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xxllutz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-02-23",
     "valid_to": null
   },
   {
