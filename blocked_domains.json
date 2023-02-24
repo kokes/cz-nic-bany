@@ -27546,6 +27546,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "socialnim-mp-sv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-24",
+    "valid_to": "2023-03-24"
+  },
+  {
     "fqdn": "socialni-platby-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
