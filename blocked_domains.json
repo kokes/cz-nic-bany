@@ -24288,12 +24288,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fraterova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "frederiksgroup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -28173,12 +28167,6 @@
     "fqdn": "udmt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "udrzovaciprace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-20",
     "valid_to": null
   },
   {
