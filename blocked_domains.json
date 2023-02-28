@@ -24150,6 +24150,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eportalmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-28",
+    "valid_to": "2023-03-28"
+  },
+  {
     "fqdn": "ergotron.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-12-19",
@@ -26278,6 +26284,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-06",
     "valid_to": "2023-03-08"
+  },
+  {
+    "fqdn": "online-csszmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-28",
+    "valid_to": "2023-03-28"
   },
   {
     "fqdn": "onlineid-mpsv.cz",
@@ -28426,6 +28438,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "vecimp-svck.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-02-28",
+    "valid_to": "2023-03-28"
   },
   {
     "fqdn": "vejaeshop.cz",
