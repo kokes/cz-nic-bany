@@ -22933,9 +22933,9 @@
   },
   {
     "fqdn": "accounts-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-08",
-    "valid_to": "2023-03-11"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "adidassleva.cz",
@@ -22987,9 +22987,9 @@
   },
   {
     "fqdn": "aktivovatmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-10",
-    "valid_to": "2023-03-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "aktualizacefirem.cz",
@@ -24703,9 +24703,9 @@
   },
   {
     "fqdn": "inkasovat-platbu.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-10",
-    "valid_to": "2023-03-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "inov-8cz.cz",
@@ -24715,9 +24715,9 @@
   },
   {
     "fqdn": "internet-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-08",
-    "valid_to": "2023-03-11"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "ippw.cz",
@@ -24847,15 +24847,15 @@
   },
   {
     "fqdn": "jit-do-mp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-10",
-    "valid_to": "2023-03-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "jit-na-odbaveni.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-10",
-    "valid_to": "2023-03-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "jjpp.cz",
@@ -26107,9 +26107,9 @@
   },
   {
     "fqdn": "novinkymp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-07",
-    "valid_to": "2023-03-10"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "novinkympasv.cz",
@@ -26803,9 +26803,9 @@
   },
   {
     "fqdn": "portalymp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-07",
-    "valid_to": "2023-03-10"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "post-cr-mp-vs.cz",
@@ -26905,9 +26905,9 @@
   },
   {
     "fqdn": "prihlaseni-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-07",
-    "valid_to": "2023-03-10"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "prihlasit-se-mpsv.cz",
@@ -26917,9 +26917,9 @@
   },
   {
     "fqdn": "prijmoutmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-10",
-    "valid_to": "2023-03-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "prispeveklmp-sv.cz",
@@ -28633,9 +28633,9 @@
   },
   {
     "fqdn": "vypoctymp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-08",
-    "valid_to": "2023-03-11"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-01",
+    "valid_to": null
   },
   {
     "fqdn": "vytvarnehratky.cz",
