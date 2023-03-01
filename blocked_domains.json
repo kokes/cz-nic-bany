@@ -24648,6 +24648,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idcsszmpasv.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-01",
+    "valid_to": "2023-04-01"
+  },
+  {
     "fqdn": "identita-mp-vs.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-16",
