@@ -27558,12 +27558,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sleva-vodafone.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-01-30",
-    "valid_to": "2023-03-02"
-  },
-  {
     "fqdn": "slimngo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
