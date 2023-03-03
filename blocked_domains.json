@@ -25524,12 +25524,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lmp-a-svll.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-01-31",
-    "valid_to": "2023-03-03"
-  },
-  {
     "fqdn": "lmpsvl-platby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
@@ -25894,6 +25888,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "mp-sv-eportal.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-03",
+    "valid_to": "2023-04-03"
   },
   {
     "fqdn": "mpsv-platba.cz",
@@ -26422,12 +26422,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "overitmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-01-31",
-    "valid_to": "2023-03-03"
   },
   {
     "fqdn": "p45.cz",
