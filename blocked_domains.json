@@ -25530,6 +25530,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lmp-a-svll.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "lmpsvl-platby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
@@ -26433,6 +26439,12 @@
     "fqdn": "oszmetodika.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "overitmpasv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-03",
     "valid_to": null
   },
   {
@@ -27567,6 +27579,12 @@
     "fqdn": "skxz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sleva-vodafone.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-03",
     "valid_to": null
   },
   {
