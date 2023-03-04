@@ -3408,12 +3408,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "24imp-svl.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
-  },
-  {
     "fqdn": "24-mpasv.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-02",
@@ -23694,12 +23688,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cz-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
-  },
-  {
     "fqdn": "czuso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-30",
@@ -24376,18 +24364,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
     "valid_to": null
-  },
-  {
-    "fqdn": "givmp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
-  },
-  {
-    "fqdn": "givmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
   },
   {
     "fqdn": "gkut.cz",
@@ -25608,12 +25584,6 @@
     "valid_to": "2023-03-16"
   },
   {
-    "fqdn": "lonlinemp-svl.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
-  },
-  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
@@ -25624,12 +25594,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-07",
     "valid_to": null
-  },
-  {
-    "fqdn": "lpostlmpasvl.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
   },
   {
     "fqdn": "lpzd.cz",
@@ -28456,12 +28420,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
     "valid_to": null
-  },
-  {
-    "fqdn": "vasemp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-01",
-    "valid_to": "2023-03-04"
   },
   {
     "fqdn": "vase-portalmpsv.cz",
