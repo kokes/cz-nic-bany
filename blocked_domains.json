@@ -3408,12 +3408,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "24-mpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
-  },
-  {
     "fqdn": "2501.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26124,12 +26118,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "novinkympasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
-  },
-  {
     "fqdn": "noze-noze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -26946,12 +26934,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "prispeveklmp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
-  },
-  {
     "fqdn": "prispevek-mpa-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-22",
@@ -27022,12 +27004,6 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-20",
     "valid_to": "2023-03-20"
-  },
-  {
-    "fqdn": "pruvodce-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
   },
   {
     "fqdn": "ptaciraj.cz",
@@ -27574,12 +27550,6 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-03",
     "valid_to": "2023-04-03"
-  },
-  {
-    "fqdn": "sluzbymp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
   },
   {
     "fqdn": "sluzeb-mpasv.cz",
@@ -28674,12 +28644,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vyzvump-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
-  },
-  {
     "fqdn": "w131.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -29404,12 +29368,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
     "valid_to": null
-  },
-  {
-    "fqdn": "ziskatmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-02",
-    "valid_to": "2023-03-05"
   },
   {
     "fqdn": "zklpt.cz",
