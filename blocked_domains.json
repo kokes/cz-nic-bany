@@ -27720,6 +27720,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "spustiteportal.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-06",
+    "valid_to": "2023-04-06"
+  },
+  {
     "fqdn": "sputnikturista.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
