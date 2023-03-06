@@ -27606,6 +27606,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sluzbyeportal.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-06",
+    "valid_to": "2023-04-06"
+  },
+  {
     "fqdn": "sluzby-idcssz.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-03",
