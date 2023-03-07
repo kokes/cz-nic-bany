@@ -25854,6 +25854,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpasv24-eportal.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-07",
+    "valid_to": "2023-04-07"
+  },
+  {
     "fqdn": "mpasv24eportal.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-07",
