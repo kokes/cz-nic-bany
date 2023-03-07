@@ -26796,6 +26796,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pojistence-online.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-07",
+    "valid_to": "2023-04-07"
+  },
+  {
     "fqdn": "pojistenceonline.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-06",
