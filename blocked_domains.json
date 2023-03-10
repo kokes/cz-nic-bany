@@ -24222,12 +24222,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "euromodul.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "euro-mont.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2023-02-06",
@@ -25749,12 +25743,6 @@
     "fqdn": "mezyh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mgracing.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-15",
     "valid_to": null
   },
   {
