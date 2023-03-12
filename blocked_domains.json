@@ -27030,12 +27030,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "programklima.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "pro-tebe-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
