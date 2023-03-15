@@ -23064,12 +23064,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aplikovatmp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
-  },
-  {
     "fqdn": "aquachiara.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
@@ -23950,12 +23944,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-07",
     "valid_to": null
-  },
-  {
-    "fqdn": "dostat-mp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
   },
   {
     "fqdn": "dostat-se-z-mp-sv.cz",
@@ -27690,12 +27678,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "souhlasit-s-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
-  },
-  {
     "fqdn": "sousedevkostarice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-10",
@@ -28374,12 +28356,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "uplatnit-zde-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
-  },
-  {
     "fqdn": "uplup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -28560,12 +28536,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vejit-do-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
-  },
-  {
     "fqdn": "ventec-reality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -28714,12 +28684,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "vybratv-mp-a-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-15",
-    "valid_to": "2023-03-15"
   },
   {
     "fqdn": "vyhled-na-mp-vs.cz",
