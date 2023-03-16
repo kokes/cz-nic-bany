@@ -22998,6 +22998,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "akceptovat.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-16",
+    "valid_to": "2023-04-16"
+  },
+  {
     "fqdn": "akceptovat-online.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-20",
@@ -26896,6 +26902,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-02-20",
     "valid_to": "2023-03-20"
+  },
+  {
+    "fqdn": "prejit-prijimat.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-16",
+    "valid_to": "2023-04-16"
   },
   {
     "fqdn": "pre-mpasv.cz",
