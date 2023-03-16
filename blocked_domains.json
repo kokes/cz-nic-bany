@@ -23232,12 +23232,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bancid24mpvs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
     "fqdn": "banki-cz-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
@@ -23598,28 +23592,10 @@
     "valid_to": null
   },
   {
-    "fqdn": "crid-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
     "fqdn": "cr-mp-a-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
     "valid_to": null
-  },
-  {
-    "fqdn": "cr-mp-vs-id.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
-    "fqdn": "crmpvs-id.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "crocslevne.cz",
@@ -23946,10 +23922,10 @@
     "valid_to": null
   },
   {
-    "fqdn": "dostat-se-z-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
+    "fqdn": "dostat-mp-a-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-16",
+    "valid_to": null
   },
   {
     "fqdn": "dosvetla.cz",
@@ -24396,12 +24372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gov-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
     "fqdn": "gov-mpvs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -24664,12 +24634,6 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-01",
     "valid_to": "2023-04-01"
-  },
-  {
-    "fqdn": "identita-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "identitaobcana-mpsv.cz",
@@ -25548,12 +25512,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lmpvsonlinel.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
     "fqdn": "lmzkt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -25582,12 +25540,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-04",
     "valid_to": null
-  },
-  {
-    "fqdn": "lonlinecsasl-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "lonlinemp-svl.cz",
@@ -25660,12 +25612,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
-  },
-  {
-    "fqdn": "lvyhled-na-mp-vsl.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "lzpt.cz",
@@ -25900,6 +25846,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
     "valid_to": null
+  },
+  {
+    "fqdn": "mp-sv-psani.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-16",
+    "valid_to": "2023-04-16"
   },
   {
     "fqdn": "mpvs-platba.cz",
@@ -26850,12 +26802,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "post-cr-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
-  },
-  {
     "fqdn": "post-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
@@ -27654,6 +27600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "souhlasit-s-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "sousedevkostarice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-10",
@@ -28332,6 +28284,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "uplatnit-zde-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-03-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "uplup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -28660,12 +28618,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
     "valid_to": null
-  },
-  {
-    "fqdn": "vyhled-na-mp-vs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-16",
-    "valid_to": "2023-03-16"
   },
   {
     "fqdn": "vypalovani-plechu.cz",
