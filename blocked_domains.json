@@ -26904,6 +26904,12 @@
     "valid_to": "2023-03-20"
   },
   {
+    "fqdn": "prejit-na-platby.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-16",
+    "valid_to": "2023-04-16"
+  },
+  {
     "fqdn": "prejit-prijimat.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-16",
