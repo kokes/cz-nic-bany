@@ -24144,6 +24144,12 @@
     "valid_to": "2023-04-03"
   },
   {
+    "fqdn": "eportaicssz.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-03-16",
+    "valid_to": "2023-04-16"
+  },
+  {
     "fqdn": "eportal-cssz.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-01",
