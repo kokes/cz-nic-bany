@@ -25488,30 +25488,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "llm11.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "llm12.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "llm13.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "llm14.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "lmp-a-svll.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-03",
@@ -29059,54 +29035,6 @@
   },
   {
     "fqdn": "ymd10.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd20.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd21.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd22.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd23.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd25.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd26.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ymd27.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-23",
     "valid_to": null
