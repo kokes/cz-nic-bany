@@ -25452,18 +25452,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "login-firmy.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
-  },
-  {
-    "fqdn": "login-szn.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
-  },
-  {
     "fqdn": "lonlinecsasl-mp-vs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-21",
@@ -25726,12 +25714,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
     "valid_to": null
-  },
-  {
-    "fqdn": "mpasvweb.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
   },
   {
     "fqdn": "mpbilni-klicmpsv.cz",
@@ -26134,12 +26116,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-21",
     "valid_to": null
-  },
-  {
-    "fqdn": "onlineportal-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
   },
   {
     "fqdn": "online-prempvs.cz",
@@ -27402,12 +27378,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sluzeb-mpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
-  },
-  {
     "fqdn": "smsinfo-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-03",
@@ -27418,18 +27388,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
     "valid_to": null
-  },
-  {
-    "fqdn": "socialnim-lmp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
-  },
-  {
-    "fqdn": "socialnim-mp-sv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-24",
-    "valid_to": "2023-03-24"
   },
   {
     "fqdn": "socialni-platby-mpsv.cz",
