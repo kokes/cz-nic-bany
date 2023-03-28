@@ -24108,12 +24108,6 @@
     "valid_to": "2023-04-01"
   },
   {
-    "fqdn": "eportalmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
-  },
-  {
     "fqdn": "ergotron.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2023-03-27",
@@ -26094,12 +26088,6 @@
     "valid_to": "2023-04-03"
   },
   {
-    "fqdn": "online-csszmpasv.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
-  },
-  {
     "fqdn": "onlineeportalcssz.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-01",
@@ -26622,12 +26610,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "portalcrmpasv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
-  },
-  {
     "fqdn": "portalymp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
@@ -26794,12 +26776,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-22",
     "valid_to": null
-  },
-  {
-    "fqdn": "prispevek-na-bydlenl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
   },
   {
     "fqdn": "privos.cz",
@@ -27696,12 +27672,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "termsofuse-mp-sv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
-  },
-  {
     "fqdn": "tfhu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -28282,12 +28252,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
     "valid_to": null
-  },
-  {
-    "fqdn": "vecimp-svck.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-02-28",
-    "valid_to": "2023-03-28"
   },
   {
     "fqdn": "veja-cz.cz",
