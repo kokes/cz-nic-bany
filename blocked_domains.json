@@ -4866,12 +4866,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "314260.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "3144.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
