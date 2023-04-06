@@ -23676,12 +23676,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "csszeportalonline.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
-  },
-  {
     "fqdn": "ctnu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26826,12 +26820,6 @@
     "valid_to": "2023-04-07"
   },
   {
-    "fqdn": "pojistenceonline.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
-  },
-  {
     "fqdn": "polml.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -27016,18 +27004,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
     "valid_to": null
-  },
-  {
-    "fqdn": "prihlasit-cssz.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
-  },
-  {
-    "fqdn": "prihlasit-eportal.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
   },
   {
     "fqdn": "prihlasit-se-mpsv.cz",
@@ -27750,12 +27726,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sluzbyeportal.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
-  },
-  {
     "fqdn": "sluzbymp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-06",
@@ -27850,12 +27820,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
     "valid_to": null
-  },
-  {
-    "fqdn": "spustiteportal.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-06",
-    "valid_to": "2023-04-06"
   },
   {
     "fqdn": "sputnikturista.cz",
