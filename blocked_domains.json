@@ -23550,15 +23550,33 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskaposta-id.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskaposta-praha.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-06-14",
     "valid_to": null
   },
   {
+    "fqdn": "ceska-posta-psani.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "chalupa-hojava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "chance-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
     "valid_to": null
   },
   {
@@ -24196,6 +24214,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2023-03-16",
     "valid_to": "2023-04-16"
+  },
+  {
+    "fqdn": "eportal24-cssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
   },
   {
     "fqdn": "ertfd.cz",
@@ -27006,6 +27030,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "prihlasitcsszid.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prihlasit-eportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "prihlasit-se-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-11",
@@ -27726,6 +27762,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sluzbyeportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "sluzbymp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-06",
@@ -27819,6 +27861,12 @@
     "fqdn": "sportvysledky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "spustiteportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
     "valid_to": null
   },
   {
