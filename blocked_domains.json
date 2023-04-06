@@ -7848,6 +7848,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "445234.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "4453.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26262,6 +26268,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "olenka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "ondrejmlejnek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -26439,6 +26451,12 @@
     "fqdn": "p824.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "paketstorch.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-06",
     "valid_to": null
   },
   {
