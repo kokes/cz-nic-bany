@@ -28554,12 +28554,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "varimevam.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "vaseid-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
