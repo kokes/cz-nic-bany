@@ -23616,6 +23616,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "csszeportalonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cssz-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "ctnu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -24588,6 +24600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idcsszmpasv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "identita-mp-vs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-21",
@@ -24597,6 +24615,12 @@
     "fqdn": "identitaobcana-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ideportalcssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
     "valid_to": null
   },
   {
@@ -25734,6 +25758,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mp-sv-eportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "mp-sv-onlinepsani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-06",
@@ -26082,7 +26112,19 @@
     "valid_to": null
   },
   {
+    "fqdn": "onlinecssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "online-csszmpasv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onlineeportalcssz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-08",
     "valid_to": null
@@ -26715,6 +26757,12 @@
     "fqdn": "prihlaseni-mp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prihlasit-cssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
     "valid_to": null
   },
   {
@@ -27351,6 +27399,12 @@
     "fqdn": "sluzbyeportal.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sluzby-idcssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
     "valid_to": null
   },
   {
