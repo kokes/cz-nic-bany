@@ -23046,18 +23046,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "all-star.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "all-stargame.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "alva-ecs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
