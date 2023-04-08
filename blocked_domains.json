@@ -24168,12 +24168,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "evapavlova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "f46.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -24651,12 +24645,6 @@
     "fqdn": "internet-mp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ipoi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-05",
     "valid_to": null
   },
   {
