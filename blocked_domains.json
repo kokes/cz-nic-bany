@@ -24120,6 +24120,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "eportal-cssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "eportalmpasv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "ertfd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -26070,6 +26082,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-csszmpasv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "onlineid-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-11",
@@ -27642,6 +27660,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "termsofuse-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "tfhu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -28215,6 +28239,12 @@
     "fqdn": "vcku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vecimp-svck.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-08",
     "valid_to": null
   },
   {
