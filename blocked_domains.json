@@ -23232,12 +23232,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bagsvalentino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "balansfest.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -23397,6 +23391,12 @@
     "fqdn": "bublinasen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-23",
+    "valid_to": null
+  },
+  {
+    "fqdn": "burtoncz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
     "valid_to": null
   },
   {
@@ -23880,6 +23880,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dopesnowbundy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "dostat-mp-a-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-16",
@@ -24279,6 +24285,18 @@
     "fqdn": "gben.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "geoxczeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "geoxoutletonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
     "valid_to": null
   },
   {
@@ -25590,6 +25608,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "montecbundy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "morganadesign.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -26862,12 +26886,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "raybancz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "rdza.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -27981,6 +27999,12 @@
     "fqdn": "vaclavsafar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vacushapeopatov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
     "valid_to": null
   },
   {
