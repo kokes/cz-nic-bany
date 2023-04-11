@@ -24558,12 +24558,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hugobossczeshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "hugopribyl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -24594,12 +24588,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "id24-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "idcsszmpasv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-08",
@@ -24627,12 +24615,6 @@
     "fqdn": "ideportal-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "idlinc-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
@@ -25608,12 +25590,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "merrellbotypraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "mesicnikvetina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
@@ -25773,12 +25749,6 @@
     "fqdn": "mp-sv-platby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mpsvpost.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
@@ -26136,12 +26106,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "online-lmpsvl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "online-manual-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-06",
@@ -26169,12 +26133,6 @@
     "fqdn": "online-pro-vas-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "onlines-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
@@ -27420,12 +27378,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "smsinfo-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "smzeg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
@@ -27843,12 +27795,6 @@
     "fqdn": "traktorsou-borovnik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "transaction-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
@@ -29091,12 +29037,6 @@
     "fqdn": "zhuyr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zhy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-03",
     "valid_to": null
   },
   {
