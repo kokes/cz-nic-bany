@@ -25266,6 +25266,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "legerobotyeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "lekarnanaobilnimtrhu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
