@@ -1566,6 +1566,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "1672.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "1678.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -23514,6 +23520,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "com-ac.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-ea.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "connect-travel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -25938,6 +25956,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "obchod-feng-shui.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "obklady-kimmel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-10-20",
@@ -27051,6 +27075,18 @@
     "fqdn": "sdrtg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "secure-runecsape.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "secure-runescape.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
     "valid_to": null
   },
   {
