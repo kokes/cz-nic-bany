@@ -4122,12 +4122,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "2850.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "2852.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -23406,12 +23400,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bydleni2023-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "bydleniumalvazinek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -23679,12 +23667,6 @@
     "fqdn": "cz-mp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czuso.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
@@ -24225,12 +24207,6 @@
     "fqdn": "fpim.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fppro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
     "valid_to": null
   },
   {
@@ -26454,6 +26430,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pojistenceonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "polml.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -27282,12 +27264,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sofcongroup.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "souhlasit-s-mp-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-16",
@@ -27471,12 +27447,6 @@
     "fqdn": "taxisporda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "t-brand.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-01-30",
     "valid_to": null
   },
   {
