@@ -23106,12 +23106,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "arcteryxbunda.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "argos-agents.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-10",
@@ -23772,12 +23766,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "differment.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "dipservice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -24324,12 +24312,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "groundiesboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "growshopmost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -24354,21 +24336,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "gymsharkleginy-cz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "gymsharkoutlet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gymsharkshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
     "valid_to": null
   },
   {
@@ -25404,12 +25374,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lowabotyslevy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "lpostlmpasvl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-06",
@@ -26022,15 +25986,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "onlinewebsitede.cz",
+    "fqdn": "onrunningbotypraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "onrunningvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
+    "valid_from": "2023-04-12",
     "valid_to": null
   },
   {
@@ -27414,12 +27372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "suprabotylevne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "suxn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
@@ -28086,12 +28038,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vessiboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "veterina-tabery.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
@@ -28161,12 +28107,6 @@
     "fqdn": "vitraze-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vivobarefootboty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-02-08",
     "valid_to": null
   },
   {
