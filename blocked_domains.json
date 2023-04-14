@@ -30510,12 +30510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "milostnepletky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "ministerstvoprace-prispevky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -32649,12 +32643,6 @@
     "fqdn": "promocodius.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "proneverne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
     "valid_to": null
   },
   {
@@ -35082,18 +35070,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "uchylnavidea.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "uchylnevidea.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "ucrad.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -35553,12 +35529,6 @@
     "fqdn": "videoskolam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vidka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-03-20",
     "valid_to": null
   },
   {
