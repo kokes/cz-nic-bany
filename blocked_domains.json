@@ -24702,12 +24702,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "akceptovat.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
-  },
-  {
     "fqdn": "akceptovat-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-21",
@@ -27294,12 +27288,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "eportaicssz.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
-  },
-  {
     "fqdn": "eportal24-cssz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-06",
@@ -29850,12 +29838,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lceskapostaonlinel.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
-  },
-  {
     "fqdn": "lcr-mp-a-sv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
@@ -30760,12 +30742,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-01",
     "valid_to": null
-  },
-  {
-    "fqdn": "mp-sv-psani.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
   },
   {
     "fqdn": "mrcourser.cz",
@@ -32494,18 +32470,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
-  },
-  {
-    "fqdn": "prejit-na-platby.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
-  },
-  {
-    "fqdn": "prejit-prijimat.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-03-16",
-    "valid_to": "2023-04-16"
   },
   {
     "fqdn": "pre-mpasv.cz",
