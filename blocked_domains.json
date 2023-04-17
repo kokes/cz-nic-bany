@@ -27288,6 +27288,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eportaicssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "eportal24-cssz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-06",
@@ -29859,6 +29865,12 @@
     "fqdn": "laucik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lceskapostaonlinel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-17",
     "valid_to": null
   },
   {
