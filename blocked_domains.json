@@ -6426,6 +6426,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "3656.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "3659.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
