@@ -35238,6 +35238,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ultraceny.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2023-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "umdt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-02",
