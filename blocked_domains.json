@@ -11658,12 +11658,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "spolekvyrobcuhmyzu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-10-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "spolvin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-19",
