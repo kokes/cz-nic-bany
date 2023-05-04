@@ -7620,6 +7620,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jomasporteshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "jrsu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-02-21",
@@ -8787,6 +8793,12 @@
     "fqdn": "ministerstvoprace-prispevky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mizuno-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-04",
     "valid_to": null
   },
   {
@@ -13119,6 +13131,12 @@
     "fqdn": "y356.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-03-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "y55.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-04",
     "valid_to": null
   },
   {
