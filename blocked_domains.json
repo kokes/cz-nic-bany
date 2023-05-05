@@ -2952,12 +2952,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aktualizacefirem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "aktuallne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
