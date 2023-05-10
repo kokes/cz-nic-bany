@@ -5082,6 +5082,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eporatal-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "eportaicssz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-17",
@@ -7602,6 +7608,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpasv24-eportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpasv24eportal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpressionmedia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -8646,6 +8664,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pojistence-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "pojistenceonline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-12",
@@ -9009,6 +9033,12 @@
     "fqdn": "promocodius.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "propojistencecssz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-10",
     "valid_to": null
   },
   {
