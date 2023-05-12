@@ -7926,6 +7926,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nikebotysleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "nikido-spa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
