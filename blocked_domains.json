@@ -3732,6 +3732,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "botyolang.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "boucer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7023,6 +7029,18 @@
     "fqdn": "liptovskymikulas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "livescore1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "liveskor.cz",
+    "reason": "rozhodnutí soudu/RS",
+    "valid_from": "2023-05-12",
     "valid_to": null
   },
   {
@@ -10851,6 +10869,12 @@
     "fqdn": "ucs-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ugglevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-12",
     "valid_to": null
   },
   {
