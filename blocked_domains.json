@@ -3024,6 +3024,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "akceptovat.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "akdsopel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -9852,6 +9858,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "prejit-na-platby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "prejit-prijimat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-17",
@@ -9921,6 +9933,12 @@
     "fqdn": "prirodni-mosty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevek-na-bydlenl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-17",
     "valid_to": null
   },
   {
