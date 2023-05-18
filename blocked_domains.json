@@ -4620,12 +4620,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "csobs.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-04-18",
-    "valid_to": "2023-05-18"
-  },
-  {
     "fqdn": "cssd-tabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-19",
@@ -13030,12 +13024,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
-  },
-  {
-    "fqdn": "ziveflrmy.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-04-18",
-    "valid_to": "2023-05-18"
   },
   {
     "fqdn": "zivotpes.cz",
