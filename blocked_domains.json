@@ -10554,12 +10554,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vkostrava.cz",
-    "reason": "rozhodnutí soudu/RS",
-    "valid_from": "2015-07-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "vladablbu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
