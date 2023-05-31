@@ -54,6 +54,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "17258.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "1-sportovni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -72,6 +78,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "37681.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "4158.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2022-11-18",
@@ -87,6 +99,18 @@
     "fqdn": "4jawa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "53786.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "85236.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-05-31",
     "valid_to": null
   },
   {
