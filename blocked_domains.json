@@ -1302,6 +1302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "com-aa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "comap-control.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1311,6 +1317,12 @@
     "fqdn": "combohemic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-ca.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
     "valid_to": null
   },
   {
