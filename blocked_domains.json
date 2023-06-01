@@ -1308,6 +1308,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "com-a.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "comap-control.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1326,15 +1332,141 @@
     "valid_to": null
   },
   {
+    "fqdn": "com-cc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-c.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-ee.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-fr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "comicesty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
+    "fqdn": "com-i.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-js.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-l.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-ll.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "communityrlp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-n.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-o.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-oo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-or.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-os.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-rr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-rs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-s.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-ss.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-t.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-v.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-x.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-z.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
     "valid_to": null
   },
   {
@@ -5190,6 +5322,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pneunebe.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "pneu-servis-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
@@ -6111,6 +6249,12 @@
     "fqdn": "simplebeauty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skechers-vyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-01",
     "valid_to": null
   },
   {
