@@ -3432,6 +3432,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kofola-soutez.cz",
+    "reason": "rozhodnutí soudu/RS",
+    "valid_from": "2023-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "kojicinaramek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
