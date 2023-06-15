@@ -1308,6 +1308,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cnb24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2023-06-15",
+    "valid_to": "2023-07-15"
+  },
+  {
     "fqdn": "cojevpn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
