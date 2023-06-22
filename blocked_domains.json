@@ -5622,6 +5622,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "on-ceskaposta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-06-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "ondrejcelustka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
