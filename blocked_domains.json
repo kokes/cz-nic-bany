@@ -42,12 +42,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "123movies4u.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2022-03-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "16personalities.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
