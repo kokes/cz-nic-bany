@@ -2268,6 +2268,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dowgielewi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "dracicezkadane.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
@@ -7149,6 +7155,12 @@
     "fqdn": "restauracezlatalod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "reviznitechnici-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-07",
     "valid_to": null
   },
   {
