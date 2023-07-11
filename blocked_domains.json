@@ -1500,12 +1500,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cihs.cz",
-    "reason": "rozhodnutí soudu/RS",
-    "valid_from": "2022-07-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "cilita.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
