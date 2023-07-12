@@ -1344,6 +1344,24 @@
     "valid_to": null
   },
   {
+    "fqdn": "caterpillarpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "caterpillarsleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cateshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "cb247.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
@@ -3306,6 +3324,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gymsharkczshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "gyn-petrakova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3705,6 +3729,12 @@
     "fqdn": "ilustrace7.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ilustrace88.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
     "valid_to": null
   },
   {
@@ -4425,6 +4455,12 @@
     "fqdn": "kreatiffestival.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kreativniprace7.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-12",
     "valid_to": null
   },
   {
