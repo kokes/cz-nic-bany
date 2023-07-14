@@ -3252,6 +3252,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "goldengooseboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "goodflight.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
@@ -4872,6 +4878,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "login-firmy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "login-szn.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
@@ -5445,6 +5463,12 @@
     "fqdn": "monolithproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "montecbunda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-15",
     "valid_to": null
   },
   {
