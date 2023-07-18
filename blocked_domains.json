@@ -492,6 +492,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "asicsczeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "asicspraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "asijskedivky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6099,6 +6111,12 @@
     "fqdn": "oksvatba.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "olivercabell.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-18",
     "valid_to": null
   },
   {
