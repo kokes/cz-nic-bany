@@ -2244,12 +2244,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "domaci-kino.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2014-11-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "domaci-nakupy.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-04-29",
@@ -3555,12 +3549,6 @@
     "fqdn": "hrysdetmi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hshop.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2014-11-10",
     "valid_to": null
   },
   {
@@ -7839,12 +7827,6 @@
     "fqdn": "shopmanie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sileneceny.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2015-02-25",
     "valid_to": null
   },
   {
