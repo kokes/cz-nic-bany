@@ -3528,6 +3528,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hotsex.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "housebrand.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5013,6 +5019,12 @@
     "fqdn": "magmarealax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "magz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-20",
     "valid_to": null
   },
   {
@@ -9510,6 +9522,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "wbuy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "webfashion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-05",
@@ -9657,6 +9675,12 @@
     "fqdn": "xxl-fosny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xxx-pic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-20",
     "valid_to": null
   },
   {
