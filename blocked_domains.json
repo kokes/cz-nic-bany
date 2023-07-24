@@ -2208,6 +2208,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "doctormartens.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "dodiry.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7095,6 +7101,12 @@
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "quay-australia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-24",
     "valid_to": null
   },
   {
