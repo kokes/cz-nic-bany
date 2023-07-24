@@ -360,6 +360,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "altra-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "alza-pro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6129,6 +6135,12 @@
     "fqdn": "onemeter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "oneractive.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-24",
     "valid_to": null
   },
   {
