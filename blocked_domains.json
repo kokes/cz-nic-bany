@@ -6618,12 +6618,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pneu-svet.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2017-11-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "podcastcomakoule.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2019-06-24",
@@ -9333,12 +9327,6 @@
     "fqdn": "vsedobetonu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vsedum.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2019-06-26",
     "valid_to": null
   },
   {
