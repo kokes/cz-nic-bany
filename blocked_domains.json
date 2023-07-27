@@ -9402,6 +9402,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vivo-barefoot-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "vladablbu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
