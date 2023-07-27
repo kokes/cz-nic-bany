@@ -1116,12 +1116,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "botyolang.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "botypikolinoseshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-07",
@@ -5874,12 +5868,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nikebotysleva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "nikido-spa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7878,12 +7866,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skechers-vyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "sketeparky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -9018,12 +9000,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ugglevne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "ukaplickyrejdice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -9177,12 +9153,6 @@
     "fqdn": "vaclavpolansky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vacushapeopatov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-11",
     "valid_to": null
   },
   {
