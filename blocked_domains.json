@@ -12,12 +12,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "0326.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "100mega-distr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-10-15",
@@ -78,12 +72,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "45847.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "4doors.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
@@ -99,12 +87,6 @@
     "fqdn": "4jawa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "50216.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-05",
     "valid_to": null
   },
   {
@@ -4638,12 +4620,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ldmp-a-sv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "leadrfox.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6000,6 +5976,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "obchod-vsb.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "obfond.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-22",
@@ -6867,12 +6849,6 @@
     "fqdn": "principalproduction.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prispevek-na-bydlenl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-05-17",
     "valid_to": null
   },
   {
