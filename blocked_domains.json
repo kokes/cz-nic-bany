@@ -4458,6 +4458,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "longchampcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-07-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "lottoland.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2015-03-06",
