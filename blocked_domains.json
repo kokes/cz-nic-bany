@@ -2040,12 +2040,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elektroskladem.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2014-03-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "elenx.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
