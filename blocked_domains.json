@@ -966,6 +966,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bugattiboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "bugisek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1443,6 +1449,12 @@
     "fqdn": "confor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "conversevyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
     "valid_to": null
   },
   {
@@ -2880,6 +2892,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "huntereshopcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "huskov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3315,6 +3333,12 @@
     "fqdn": "kaufmat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kedscz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
     "valid_to": null
   },
   {
@@ -5418,6 +5442,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "puma-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "pychologie-koucovani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5778,6 +5808,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "samsonitecz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "samusng.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5799,6 +5835,12 @@
     "fqdn": "santiagoschoice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sanukpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-14",
     "valid_to": null
   },
   {
