@@ -3804,12 +3804,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "liveskor.cz",
-    "reason": "rozhodnutí soudu/RS",
-    "valid_from": "2023-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "livevitalpoint.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
