@@ -3228,12 +3228,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jomasporteshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-05-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "jrtv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
