@@ -1416,12 +1416,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-s.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "com-ss.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-01",
