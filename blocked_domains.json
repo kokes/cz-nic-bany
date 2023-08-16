@@ -438,6 +438,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "audioplaneta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "aunis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -1614,6 +1620,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dannerboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "dannercz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-20",
@@ -2724,6 +2736,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hellyhanseneshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "helpforenglih.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3417,6 +3435,12 @@
     "fqdn": "komareksystem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-01-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "komis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-16",
     "valid_to": null
   },
   {
