@@ -1392,12 +1392,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-os.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "com-rr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-01",
