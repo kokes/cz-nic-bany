@@ -3132,12 +3132,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "istylephone.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2017-02-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "iudnes.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4172,13 +4166,13 @@
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-21",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-08-21",
     "valid_to": null
   },
   {
@@ -4203,12 +4197,6 @@
     "fqdn": "mobilizuzeme.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mobiltec.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2016-08-11",
     "valid_to": null
   },
   {
