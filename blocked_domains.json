@@ -5112,12 +5112,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "prlhlaseni.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2023-07-25",
-    "valid_to": "2023-08-25"
-  },
-  {
     "fqdn": "pro-android.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-08-09",
