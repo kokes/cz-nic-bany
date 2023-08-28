@@ -258,6 +258,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "altracz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "alza-pro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -777,6 +783,12 @@
     "fqdn": "bigfarm-goodgame.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "billabongstores.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-28",
     "valid_to": null
   },
   {
@@ -2475,6 +2487,12 @@
     "fqdn": "genderovarovnost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "geoxcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-28",
     "valid_to": null
   },
   {
@@ -6993,6 +7011,12 @@
     "fqdn": "visitbritainshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vivaiaobuv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-28",
     "valid_to": null
   },
   {
