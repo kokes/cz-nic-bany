@@ -3510,12 +3510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lacne-nakupy.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2015-02-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "lafa-grill.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
