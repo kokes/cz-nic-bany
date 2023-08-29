@@ -4022,13 +4022,13 @@
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-21",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-08-21",
     "valid_to": null
   },
   {
@@ -4275,6 +4275,12 @@
     "fqdn": "naprvnimiste.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "narex-makita-bosch.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2023-08-29",
     "valid_to": null
   },
   {
