@@ -3692,13 +3692,13 @@
   {
     "fqdn": "longchampcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-07-31",
     "valid_to": null
   },
   {
     "fqdn": "longchampcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-07-31",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
@@ -3882,12 +3882,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mazlivamaserka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "mbenzon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4022,13 +4016,13 @@
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-08-21",
     "valid_to": null
   },
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-21",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
@@ -4423,12 +4417,6 @@
   },
   {
     "fqdn": "nikido-spa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nilfisk-prodejna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
@@ -5527,12 +5515,6 @@
   },
   {
     "fqdn": "rubmaps.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rubynailsprague.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
