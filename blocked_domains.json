@@ -5520,12 +5520,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rugo.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2018-06-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "ruzbacky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
