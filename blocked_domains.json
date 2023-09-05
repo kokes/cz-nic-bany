@@ -60,6 +60,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "413.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "4heatlh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -69,6 +75,24 @@
     "fqdn": "4jawa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "5922.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "658954.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "8858.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
     "valid_to": null
   },
   {
@@ -567,6 +591,12 @@
     "fqdn": "b2bservis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "baaboo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
     "valid_to": null
   },
   {
@@ -1740,6 +1770,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dlazbykd.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "dlouha-louka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
@@ -1755,6 +1791,12 @@
     "fqdn": "dobremistoujezdec.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dobryauta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
     "valid_to": null
   },
   {
@@ -2844,6 +2886,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hraciautomatycz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "hravaanglictina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3252,6 +3300,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kamnarstvi-svec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "kampdy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3582,6 +3636,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kvregion.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "kynolgie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3780,15 +3840,21 @@
     "valid_to": null
   },
   {
-    "fqdn": "longchampcz.cz",
+    "fqdn": "l-o.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-09-05",
     "valid_to": null
   },
   {
     "fqdn": "longchampcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "longchampcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
@@ -4130,13 +4196,13 @@
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-23",
+    "valid_from": "2023-08-21",
     "valid_to": null
   },
   {
     "fqdn": "ministerstvo-psv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-08-21",
+    "valid_from": "2023-08-23",
     "valid_to": null
   },
   {
