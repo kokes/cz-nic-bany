@@ -2280,6 +2280,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eurofan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "euro-mont.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-04",
