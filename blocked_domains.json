@@ -42,6 +42,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "1lib.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2023-09-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "1-sportovni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
