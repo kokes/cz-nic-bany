@@ -8010,12 +8010,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "webfashion.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "wednote.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
