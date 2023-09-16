@@ -810,6 +810,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bespechnost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "betonpress30let.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
