@@ -7422,12 +7422,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tytanus.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2014-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "ubytovnagama.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
