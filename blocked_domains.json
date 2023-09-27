@@ -3480,12 +3480,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kompletvse.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2016-06-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "kone-spongilit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
