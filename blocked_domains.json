@@ -936,6 +936,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bosobotyleguano.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "botycrasa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7077,6 +7083,12 @@
     "fqdn": "tomassugar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tomspraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-28",
     "valid_to": null
   },
   {
