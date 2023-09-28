@@ -4986,6 +4986,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pandora-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "panek-venezia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
