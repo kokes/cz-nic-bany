@@ -7104,6 +7104,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "thenorthfacecz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-09-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "theosport-shop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
