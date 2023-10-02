@@ -7968,12 +7968,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "www2-online-rb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "www-alveus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
