@@ -2502,6 +2502,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fkdldlh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "flixtor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3312,6 +3318,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jdllkakjdn.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "jemidomadobre.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4014,6 +4026,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lkiodbad.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "lkurzy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4371,6 +4389,12 @@
     "fqdn": "ministerstvoprace-prispevky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mksoaud.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
     "valid_to": null
   },
   {
@@ -8055,6 +8079,18 @@
     "fqdn": "yesdental.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "youngla.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "yowodka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-03",
     "valid_to": null
   },
   {
