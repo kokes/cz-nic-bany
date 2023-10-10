@@ -480,6 +480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "asossaty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "astrlogiepetranel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -2331,6 +2337,12 @@
     "fqdn": "etikety-zdrarma.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "etniescz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
     "valid_to": null
   },
   {
@@ -4362,6 +4374,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "massimoduttipraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "master-eshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -4818,6 +4836,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nakedtourguide.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "nakupnikosicek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -5259,6 +5283,12 @@
     "fqdn": "panek-venezia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pantofleshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
     "valid_to": null
   },
   {
@@ -6603,6 +6633,12 @@
     "fqdn": "sheineshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sheinsaty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
     "valid_to": null
   },
   {
