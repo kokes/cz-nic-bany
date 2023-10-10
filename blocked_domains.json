@@ -4212,6 +4212,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lornajane-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "lovciklaunu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5256,6 +5262,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "paintballmarines.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "palachova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5709,6 +5721,12 @@
     "fqdn": "poutiteiphony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pozarniuzavery.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-10",
     "valid_to": null
   },
   {
