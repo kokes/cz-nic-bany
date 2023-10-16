@@ -1794,12 +1794,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "decoturf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "defender-global.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4404,12 +4398,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lukaslizanek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "lunamagazin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
@@ -6258,12 +6246,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "quatro-publishing.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "radimvalencik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -7140,12 +7122,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "smartevents.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "smartfarmer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7809,12 +7785,6 @@
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tigerturf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-05",
     "valid_to": null
   },
   {
