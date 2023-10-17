@@ -480,6 +480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "asoloboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "asossaty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -5244,6 +5250,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nikebotyairmax.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "nikido-spa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5307,6 +5319,12 @@
     "fqdn": "o2tc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "obalynatelefon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -6009,6 +6027,12 @@
     "fqdn": "pracihodinka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pragueforyou.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -7257,6 +7281,12 @@
     "fqdn": "solany.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "solasrity.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
