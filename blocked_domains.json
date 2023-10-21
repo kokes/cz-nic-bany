@@ -3438,6 +3438,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jutas.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "jv-medi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
@@ -5853,6 +5859,12 @@
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "profitsim.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-21",
     "valid_to": null
   },
   {
