@@ -564,6 +564,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "auto-spektrum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "autotskolaking.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
@@ -987,6 +993,12 @@
     "fqdn": "bowling-kyje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bridges.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-24",
     "valid_to": null
   },
   {
@@ -4167,6 +4179,12 @@
     "fqdn": "lunamagazin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lunasandalscz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-24",
     "valid_to": null
   },
   {
