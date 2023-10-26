@@ -1296,6 +1296,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "citilink.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "citkev.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1944,6 +1950,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "dvere-koupit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dverenet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "easyport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -2049,6 +2067,12 @@
     "fqdn": "e-kledensko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ekodvere.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
     "valid_to": null
   },
   {
@@ -2850,6 +2874,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "healthshops.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "helenavesela.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
@@ -3606,6 +3636,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "koded.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "kofola-soutez.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2023-06-13",
@@ -4332,6 +4368,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "maxnakup.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "maxorion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-18",
@@ -4743,6 +4785,12 @@
     "fqdn": "najdielektro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "najemi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
     "valid_to": null
   },
   {
@@ -7467,6 +7515,12 @@
     "fqdn": "tescobile.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tevabotystore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-10-26",
     "valid_to": null
   },
   {
