@@ -1164,12 +1164,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cenz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "ceptyprimanapadu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
