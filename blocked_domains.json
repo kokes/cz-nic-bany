@@ -1674,6 +1674,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "detskedekorace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "dev-behind-inventions.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6177,6 +6183,12 @@
     "fqdn": "sami.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "samolepicifolie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-04",
     "valid_to": null
   },
   {
