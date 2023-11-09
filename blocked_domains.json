@@ -882,6 +882,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "botynikecz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "bowling-kyje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3259,8 +3265,8 @@
   },
   {
     "fqdn": "kofola-soutez.cz",
-    "reason": "rozhodnutí soudu/RS",
-    "valid_from": "2023-06-13",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-09",
     "valid_to": null
   },
   {
@@ -5505,6 +5511,12 @@
     "fqdn": "releases.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "replicarolex.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-09",
     "valid_to": null
   },
   {
