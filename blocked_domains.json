@@ -7242,6 +7242,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "uniqlos-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "uradprasce.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
