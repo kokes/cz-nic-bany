@@ -1368,6 +1368,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cryptosvet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "csds-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
