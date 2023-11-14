@@ -7518,6 +7518,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zaracz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "zasilca.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
