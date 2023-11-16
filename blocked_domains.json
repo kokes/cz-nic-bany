@@ -2706,6 +2706,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hynecs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "hyperinzence.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -5535,6 +5541,12 @@
     "fqdn": "rockvoyradio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rolek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-16",
     "valid_to": null
   },
   {
