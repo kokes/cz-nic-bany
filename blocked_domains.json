@@ -1302,6 +1302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cotopaxiallpa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "creaditas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
