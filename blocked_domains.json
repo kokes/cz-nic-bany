@@ -966,18 +966,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "casino-mostbet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "casino-pinup.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "cechoslavakia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1617,6 +1605,12 @@
     "fqdn": "dobremistoujezdec.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dobryprivydelek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-21",
     "valid_to": null
   },
   {
@@ -4026,18 +4020,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mostbet-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "most-bet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "movielibrary.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4773,12 +4755,6 @@
     "fqdn": "pilovepdf.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pin-up-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-16",
     "valid_to": null
   },
   {
