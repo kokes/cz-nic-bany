@@ -4146,6 +4146,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "najemi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "najo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
