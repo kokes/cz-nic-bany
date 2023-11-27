@@ -1692,6 +1692,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "elteco-ups.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "emoirestaurant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -3720,6 +3726,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "moravkaplzen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "morrymerch.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5019,6 +5031,12 @@
     "fqdn": "restaurace-na-jizdarne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "restauracenaplani.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-27",
     "valid_to": null
   },
   {
