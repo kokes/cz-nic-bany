@@ -2766,12 +2766,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "k4s.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "kaba-reklama.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
