@@ -5598,6 +5598,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "solovairboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "soudinfo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
