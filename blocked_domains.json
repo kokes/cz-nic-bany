@@ -30,6 +30,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "24mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1371,6 +1377,12 @@
     "fqdn": "dameelektro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "danielpitek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
@@ -3468,6 +3480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lplatbal-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "luciana.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -3561,6 +3579,12 @@
     "fqdn": "mapteo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "marcel-chladek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
@@ -3708,6 +3732,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mila-linc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "milenecky-azyl-jihlava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
@@ -3849,6 +3879,12 @@
     "fqdn": "mpsv-cz24.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-platby24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
@@ -4737,6 +4773,12 @@
     "fqdn": "poslihovno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "post24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
@@ -7383,6 +7425,12 @@
     "fqdn": "zkustojinak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zlatydavid.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
