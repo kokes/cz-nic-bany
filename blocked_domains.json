@@ -984,12 +984,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aquauniversum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "arami.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-04-12",
@@ -5250,12 +5244,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kaja-foto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "kakava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7680,12 +7668,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "online-oznameni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "onlineplatbympsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-29",
@@ -8067,12 +8049,6 @@
     "fqdn": "petrkopac.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pfgecrf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
@@ -9849,12 +9825,6 @@
     "fqdn": "sladkeosoblazsko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slaviapadel.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
