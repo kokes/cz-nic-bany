@@ -4104,6 +4104,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "grandhotelmozart.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "greatwin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
