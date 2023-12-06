@@ -3630,6 +3630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "faktury-z-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "falaga.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4839,6 +4845,12 @@
     "fqdn": "imissimi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "impsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-06",
     "valid_to": null
   },
   {
@@ -6888,6 +6900,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-platby-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpvs-sms-bydleni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-24",
@@ -8157,6 +8175,18 @@
     "fqdn": "plasmatv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "platby24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "platbyonline-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-06",
     "valid_to": null
   },
   {
