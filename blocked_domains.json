@@ -1668,12 +1668,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bobcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "bobovy-hracky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -7176,12 +7170,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nationalcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "nau-helmets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -12357,18 +12345,6 @@
     "fqdn": "xvhat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xxbet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xxiibet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
     "valid_to": null
   },
   {
