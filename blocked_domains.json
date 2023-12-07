@@ -6816,6 +6816,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mojeid-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "moje-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-24",
@@ -7755,6 +7761,12 @@
     "fqdn": "onlineskolapeceni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onmpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
