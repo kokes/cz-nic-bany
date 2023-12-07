@@ -1194,6 +1194,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autoservis-spesov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "autosery.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1395,6 +1401,12 @@
     "fqdn": "banka-napadu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bankinginmotion.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
@@ -3324,6 +3336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eliasvella.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "elle-ments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -4815,6 +4833,12 @@
     "fqdn": "ikea-cernymost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ikovstavebni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
@@ -7359,6 +7383,12 @@
     "fqdn": "nitkaobchod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nitrocar.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
@@ -11082,6 +11112,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "trailove.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "train-sim.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -12450,6 +12486,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zamestavsro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "zaracz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-14",
@@ -12471,6 +12513,12 @@
     "fqdn": "zasilkovesluzby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zasobyplus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
