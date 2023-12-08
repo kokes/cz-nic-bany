@@ -840,6 +840,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "altisindustry.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "altyn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -7584,6 +7590,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "odp-briketa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "odshulin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -7605,6 +7617,12 @@
     "fqdn": "okaydum.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ok-kola.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-08",
     "valid_to": null
   },
   {
