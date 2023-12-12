@@ -1896,6 +1896,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bydleni-online-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "byeni12.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5019,6 +5025,12 @@
     "fqdn": "ixosafe.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2015-09-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jak-na-to-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -8541,6 +8553,18 @@
     "fqdn": "pripojitwifi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevek-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevku2023mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -12603,6 +12627,12 @@
     "fqdn": "zimnideprese.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ziskat-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
