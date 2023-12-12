@@ -192,6 +192,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "2prosince.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "2prosinec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "30627.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -4104,6 +4116,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gothic4arcania.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "grandhotelmozart.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-05",
@@ -4326,6 +4344,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "harry-winston.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hasicibratcice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "hasici-vitejovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -4374,6 +4404,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "heliosvia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "heliportcafe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -4389,6 +4425,12 @@
     "fqdn": "herbalharmony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "herbasia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -4437,6 +4479,12 @@
     "fqdn": "hhunter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hibiki.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -5934,6 +5982,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ledger-live.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "lekarnaaqua.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -6213,6 +6267,12 @@
     "fqdn": "lukaskudrna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lukatogold.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -7743,6 +7803,12 @@
     "fqdn": "optimal-brikety.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "orbispictusostrov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
@@ -10347,6 +10413,12 @@
     "fqdn": "streetbistroasia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stromodeni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
