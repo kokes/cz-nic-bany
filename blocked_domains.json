@@ -114,6 +114,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "147495.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "16235.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
