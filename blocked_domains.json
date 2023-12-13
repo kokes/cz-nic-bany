@@ -9270,12 +9270,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rosieres.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "roughrp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
