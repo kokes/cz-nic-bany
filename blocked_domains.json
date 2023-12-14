@@ -11070,6 +11070,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "trickaprofotografy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "trikoloraostrov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
