@@ -5868,12 +5868,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "laweb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "lblstudio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
