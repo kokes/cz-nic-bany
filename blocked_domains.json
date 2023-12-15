@@ -198,18 +198,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "2prosince.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "2prosinec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "30627.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
