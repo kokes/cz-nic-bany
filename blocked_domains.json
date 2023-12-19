@@ -8748,6 +8748,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "redwingbotypraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "reewak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
