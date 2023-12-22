@@ -1722,6 +1722,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bobcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "bobovy-hracky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
