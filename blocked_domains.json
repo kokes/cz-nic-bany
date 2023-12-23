@@ -5850,6 +5850,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krajkaasklo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "krajskaveznice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
