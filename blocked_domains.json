@@ -7128,6 +7128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mostbetcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "most-bet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-25",
@@ -8505,6 +8511,12 @@
     "fqdn": "pinecklobouky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pinupcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-25",
     "valid_to": null
   },
   {
