@@ -7128,6 +7128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "montecpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "montessori-srdicko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -9180,6 +9186,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "psychobunnyshoponline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "psychologie-cl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -9291,6 +9303,12 @@
     "fqdn": "rajschlsro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ralphlaurenstore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
     "valid_to": null
   },
   {
