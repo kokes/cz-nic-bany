@@ -2538,6 +2538,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "crmp-a-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "crocuscapital.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -4974,6 +4980,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idmp-a-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "i-endurance.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -5025,6 +5037,12 @@
     "fqdn": "imissimi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "implsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
     "valid_to": null
   },
   {
@@ -6294,6 +6312,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lidmp-a-svl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "lidol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7170,6 +7194,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mp-asv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpeliga.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -7197,6 +7227,12 @@
     "fqdn": "mpsv-platby-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mp-sv-psani.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-26",
     "valid_to": null
   },
   {
