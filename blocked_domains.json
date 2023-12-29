@@ -1050,6 +1050,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "arcadiatelevision.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "arcanatura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -9693,6 +9699,12 @@
     "fqdn": "roughrp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "roy88.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-29",
     "valid_to": null
   },
   {
