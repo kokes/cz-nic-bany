@@ -7116,6 +7116,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "montec-bundy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2023-12-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "montecpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-26",
