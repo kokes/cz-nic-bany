@@ -3006,6 +3006,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dopecz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "dopepraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-26",
@@ -10296,6 +10302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "skims.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "skisport-horka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -11355,6 +11367,12 @@
     "fqdn": "thgshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "thursdayboots.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-04",
     "valid_to": null
   },
   {
