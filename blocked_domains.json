@@ -4242,6 +4242,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "goodwedding.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "gorystolowe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -9915,6 +9921,12 @@
     "fqdn": "sar-dpt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "savoz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-05",
     "valid_to": null
   },
   {
