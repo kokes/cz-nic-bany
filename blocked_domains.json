@@ -8034,6 +8034,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "okaydrogerie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "okaydum.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
