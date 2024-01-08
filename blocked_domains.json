@@ -9072,12 +9072,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "post24-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "posta-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-29",
