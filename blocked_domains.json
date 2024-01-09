@@ -4746,12 +4746,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hibiki.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "hidive.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
