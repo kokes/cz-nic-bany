@@ -10152,12 +10152,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "savoz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-01-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "sbiramefigurky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
