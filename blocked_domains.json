@@ -4032,6 +4032,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fornarinar.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "foryouth.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
