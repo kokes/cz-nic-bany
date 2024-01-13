@@ -8160,12 +8160,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "officeportall365.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "offices365.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
@@ -8469,12 +8463,6 @@
     "fqdn": "pamploc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pance.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
     "valid_to": null
   },
   {
