@@ -1092,12 +1092,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "artsy-fartsy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "ashram.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -3456,12 +3450,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elteco-ups.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "emoirestaurant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -4563,12 +4551,6 @@
     "fqdn": "happy-clothes.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "happy-house.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-30",
     "valid_to": null
   },
   {
@@ -7302,12 +7284,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "moravkaplzen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "morrymerch.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -9684,12 +9660,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "restauracenaplani.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "restauracenaponave.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -10501,12 +10471,6 @@
   },
   {
     "fqdn": "skoladomavejprty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "skola-hokej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
     "valid_to": null
@@ -13435,12 +13399,6 @@
   },
   {
     "fqdn": "zgshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zhn-zlin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
     "valid_to": null
