@@ -5131,9 +5131,9 @@
   },
   {
     "fqdn": "langner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-01-16",
-    "valid_to": "2024-02-16"
+    "valid_to": null
   },
   {
     "fqdn": "lanyzedana.cz",
