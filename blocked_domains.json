@@ -2970,12 +2970,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "faktury-z-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "fansbay.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-04",
@@ -4101,12 +4095,6 @@
     "fqdn": "implsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "impsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-06",
     "valid_to": null
   },
   {
@@ -7344,12 +7332,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "platba-vam-od-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "platonic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
@@ -10473,12 +10455,6 @@
     "fqdn": "vasczak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vase-mpsv-id.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
