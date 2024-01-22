@@ -4272,12 +4272,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jak-na-to-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "jakoslovitmedia.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -5988,12 +5982,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mojeid-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "moje-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-24",
@@ -6954,12 +6942,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "onmpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "opavsky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7638,12 +7620,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "privacycase.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-01-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "privatinkognito.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7971,12 +7947,6 @@
     "fqdn": "regioejet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "regist-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-07",
     "valid_to": null
   },
   {
@@ -9780,12 +9750,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tiskove-zaprave-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "titowood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -11358,12 +11322,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "zenpod.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-01-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "zfp-jagos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-05",
@@ -11397,12 +11355,6 @@
     "fqdn": "zimnideprese.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ziskat-mpsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
