@@ -2970,6 +2970,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "evisu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "evnocestovani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
