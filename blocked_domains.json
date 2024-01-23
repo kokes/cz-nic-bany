@@ -2304,6 +2304,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "digitalventures.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "dipnisiauto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
