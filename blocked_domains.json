@@ -2196,6 +2196,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "csob-platby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "csob-zabezpeceni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "cspm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-30",
@@ -3144,6 +3156,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "estrellakitchen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "etechnik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -4035,6 +4053,12 @@
     "fqdn": "herprehrajto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "herva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-30",
     "valid_to": null
   },
   {
@@ -7941,6 +7965,12 @@
     "fqdn": "pohar-vysociny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pohledniceolomouc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-01-30",
     "valid_to": null
   },
   {
