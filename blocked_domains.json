@@ -7296,6 +7296,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nationalcasinos.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "natoor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
