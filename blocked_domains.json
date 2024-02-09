@@ -7320,6 +7320,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nationalcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "nationalcasinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-08",
@@ -12537,6 +12543,12 @@
     "fqdn": "xxbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xxiibet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-09",
     "valid_to": null
   },
   {
