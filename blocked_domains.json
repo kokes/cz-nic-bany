@@ -3090,6 +3090,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eiffeloptic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "ekines.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
@@ -6015,6 +6021,12 @@
     "fqdn": "led4emh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lekarnakoliste.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-16",
     "valid_to": null
   },
   {
@@ -12108,6 +12120,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "viagra-cena.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "vibramcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
@@ -12657,6 +12675,12 @@
     "fqdn": "www-skradbuza.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xantispharma.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-16",
     "valid_to": null
   },
   {
