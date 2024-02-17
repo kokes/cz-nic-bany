@@ -2298,6 +2298,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cos-eshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "coseshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-20",
