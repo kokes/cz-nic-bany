@@ -3606,6 +3606,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "findmy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "fitboxkladno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-25",
