@@ -6756,6 +6756,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "skechersczechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "skikozakov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
