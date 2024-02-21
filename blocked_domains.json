@@ -5568,18 +5568,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pneuleader.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pneumatikyleader.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "pneunebe.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-06-01",
