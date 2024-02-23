@@ -1146,6 +1146,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bottega-veneta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "botykraza.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3372,12 +3378,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "implsv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "impulsetraining.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
@@ -4203,12 +4203,6 @@
     "fqdn": "libava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lidmp-a-svl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-26",
     "valid_to": null
   },
   {
