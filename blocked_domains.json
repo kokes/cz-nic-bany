@@ -3324,12 +3324,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "idmp-a-sv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "ids-csob.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-02-22",
