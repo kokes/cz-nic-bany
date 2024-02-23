@@ -3294,6 +3294,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ibs-csob.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-02-23",
+    "valid_to": "2024-03-23"
+  },
+  {
     "fqdn": "icdam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
