@@ -2136,6 +2136,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "emfis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "emoirestaurant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -2763,6 +2769,12 @@
     "fqdn": "gladius-security.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gleny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-02-29",
     "valid_to": null
   },
   {
