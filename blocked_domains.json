@@ -5598,6 +5598,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "orad-pelety.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "oriens-store.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
