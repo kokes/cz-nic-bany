@@ -1548,12 +1548,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "crmp-a-sv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "csergo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -4692,12 +4686,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mp-asv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "mpsv-platby-information.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-24",
@@ -5245,12 +5233,6 @@
   },
   {
     "fqdn": "office365doc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "offices365doc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
     "valid_to": null
