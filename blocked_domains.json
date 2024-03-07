@@ -642,12 +642,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "atlasmapy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
@@ -2467,12 +2461,6 @@
   },
   {
     "fqdn": "fitgodrink.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fizyshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
     "valid_to": null
@@ -7038,12 +7026,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sledujute.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "slevoeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -7623,12 +7605,6 @@
     "fqdn": "theoneproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "theosport-shop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
