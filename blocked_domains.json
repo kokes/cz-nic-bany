@@ -7896,12 +7896,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "travelata.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "triade.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
