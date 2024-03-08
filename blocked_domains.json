@@ -4062,6 +4062,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lbfio.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-03-08",
+    "valid_to": "2024-04-08"
+  },
+  {
     "fqdn": "leaked.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
