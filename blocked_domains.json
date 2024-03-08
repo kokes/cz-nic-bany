@@ -4644,6 +4644,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "moje-csob.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "mojedatovascharnka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
