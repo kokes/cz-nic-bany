@@ -2100,12 +2100,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "emessports.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "emfis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-29",
@@ -2523,12 +2517,6 @@
     "fqdn": "flamencoov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "flamingosport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-06",
     "valid_to": null
   },
   {
