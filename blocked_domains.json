@@ -426,12 +426,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "agreementdoc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "agriculturefarming-nkzone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
