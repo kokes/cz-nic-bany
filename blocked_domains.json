@@ -84,9 +84,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "20betbonus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "22betbonus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "22-bet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-13",
     "valid_to": null
   },
   {
@@ -5718,6 +5730,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "playamocasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "playretrogames.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
@@ -6597,6 +6615,12 @@
     "fqdn": "salonjas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sa-maps.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-13",
     "valid_to": null
   },
   {
