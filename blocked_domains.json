@@ -102,12 +102,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "23fp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "25388.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
