@@ -3210,6 +3210,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hugobosspraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "hukvaldska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3286,6 +3292,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-02-22",
     "valid_to": "2024-03-22"
+  },
+  {
+    "fqdn": "idsfio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-14",
+    "valid_to": null
   },
   {
     "fqdn": "igsession.cz",
@@ -4656,6 +4668,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mojeid-csob.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "moje-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-24",
@@ -5379,6 +5397,12 @@
     "fqdn": "onlinemd5.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "online-rb.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-14",
     "valid_to": null
   },
   {
