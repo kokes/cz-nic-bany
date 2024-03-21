@@ -7620,6 +7620,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "thrasher.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "tickeportral.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
