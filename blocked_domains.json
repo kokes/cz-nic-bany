@@ -1446,6 +1446,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "coccinelle-eshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coccinelleeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "coframetal.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -3129,6 +3141,12 @@
     "fqdn": "ibetfor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ibfio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-26",
     "valid_to": null
   },
   {
