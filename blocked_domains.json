@@ -3456,6 +3456,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jayden.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "jazahrada.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
@@ -5253,6 +5259,12 @@
     "fqdn": "obchodtiande.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "obi-ltd.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-26",
     "valid_to": null
   },
   {
