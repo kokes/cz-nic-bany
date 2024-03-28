@@ -3540,6 +3540,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jotteshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "jrtv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
