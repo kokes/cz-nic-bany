@@ -1662,6 +1662,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "darky-darecky-dary.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "dashboardphp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
@@ -2313,6 +2319,12 @@
     "fqdn": "fansbay.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "fapoff.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-29",
     "valid_to": null
   },
   {
