@@ -4698,6 +4698,12 @@
     "valid_to": "2024-04-01"
   },
   {
+    "fqdn": "mojezimy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "monetky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
