@@ -588,12 +588,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "arcadiatelevision.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "arealparaplicko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
