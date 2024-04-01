@@ -4699,9 +4699,9 @@
   },
   {
     "fqdn": "mojeonline-csob.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-03-01",
-    "valid_to": "2024-04-01"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-03-14",
+    "valid_to": null
   },
   {
     "fqdn": "mojezimy.cz",
