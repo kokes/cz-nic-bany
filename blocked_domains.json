@@ -4320,12 +4320,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "milihi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "milioncvicek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-05-16",
