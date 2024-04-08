@@ -7398,6 +7398,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "tenderseznamka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tenderseznamku.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "teorie.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
