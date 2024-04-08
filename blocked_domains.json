@@ -2580,12 +2580,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "goodwedding.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "grandhotelmozart.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-05",
@@ -2805,12 +2799,6 @@
     "fqdn": "herbalharmony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "herbasia.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-12",
     "valid_to": null
   },
   {
