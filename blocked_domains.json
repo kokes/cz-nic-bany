@@ -144,12 +144,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "35245.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "3883678363367guid-0012.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-07",
