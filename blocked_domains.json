@@ -1944,12 +1944,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "e-iglaki.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "eisai.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-06",
@@ -3009,12 +3003,6 @@
     "fqdn": "hugobosspraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hurt-hurt.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-10",
     "valid_to": null
   },
   {
@@ -6867,12 +6855,6 @@
     "fqdn": "skulinek-webasto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "skylinetuning.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-10",
     "valid_to": null
   },
   {
