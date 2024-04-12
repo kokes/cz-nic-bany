@@ -930,12 +930,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "beyli-dental.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "bezdratovesluchatka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
@@ -6852,12 +6846,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skryteodposlechy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "skulinek-webasto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
@@ -8115,12 +8103,6 @@
     "fqdn": "vertnucro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "veryleak.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
