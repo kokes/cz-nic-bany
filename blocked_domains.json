@@ -1236,12 +1236,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "celyfilm1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-01-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "centuryinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
