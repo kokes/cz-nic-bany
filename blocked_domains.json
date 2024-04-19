@@ -7134,6 +7134,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "stradivariuseshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-04-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "streamtape.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
