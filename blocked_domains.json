@@ -282,6 +282,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "93987.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "9589357483272948300284115507lllk-8.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
@@ -2523,6 +2529,12 @@
     "fqdn": "idm-msmt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "id-rb.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-04-30",
     "valid_to": null
   },
   {
