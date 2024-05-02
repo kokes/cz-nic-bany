@@ -3558,6 +3558,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "microkeys.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "milenecky-azyl-jihlava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
