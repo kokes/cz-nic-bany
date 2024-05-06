@@ -1212,6 +1212,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cnb-24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-05-06",
+    "valid_to": "2024-06-06"
+  },
+  {
     "fqdn": "cobydupshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
