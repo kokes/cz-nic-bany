@@ -2346,6 +2346,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "elfbarliquid.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "emoirestaurant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -7311,6 +7317,12 @@
     "fqdn": "vecerekinstruments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vejabotysleva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-17",
     "valid_to": null
   },
   {
