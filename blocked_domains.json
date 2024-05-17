@@ -1200,6 +1200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "asklepionkamyk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "astrobaby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
@@ -4965,6 +4971,12 @@
     "fqdn": "ososliberec.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "osteo-forum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-17",
     "valid_to": null
   },
   {
