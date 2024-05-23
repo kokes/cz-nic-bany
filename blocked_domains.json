@@ -2982,12 +2982,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hoblajz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "hobrod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -3957,12 +3951,6 @@
     "fqdn": "mallik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "malujemeprovas.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -5127,12 +5115,6 @@
     "fqdn": "pokupki.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "polarobchod.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -7308,12 +7290,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vput.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "vrchol-zima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-27",
@@ -7695,12 +7671,6 @@
     "fqdn": "zelenyspor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zimnideprese.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
