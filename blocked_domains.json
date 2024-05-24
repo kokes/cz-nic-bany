@@ -870,6 +870,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "86540.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "865732.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
@@ -2064,6 +2070,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "designate.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "detskaskolka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -2898,6 +2910,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "henshoes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "herbalharmony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -3675,6 +3693,12 @@
     "fqdn": "langner.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "laserta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-24",
     "valid_to": null
   },
   {
