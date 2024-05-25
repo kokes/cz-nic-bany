@@ -2100,6 +2100,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dindyourser.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "dj-lucas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -3183,6 +3189,12 @@
     "fqdn": "impulsetraining.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "infodarqt.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-25",
     "valid_to": null
   },
   {
@@ -4527,6 +4539,12 @@
     "fqdn": "nhmsw.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nichtreply.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-25",
     "valid_to": null
   },
   {
@@ -7383,6 +7401,12 @@
     "fqdn": "webbranchprotectiveio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "webnarsi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-25",
     "valid_to": null
   },
   {
