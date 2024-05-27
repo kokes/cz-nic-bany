@@ -7284,12 +7284,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vrchol-zima.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-27",
-    "valid_to": "2024-05-27"
-  },
-  {
     "fqdn": "vsdll.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
