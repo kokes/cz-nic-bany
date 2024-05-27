@@ -3036,12 +3036,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hpohony.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "hramatost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -3255,12 +3249,6 @@
     "fqdn": "irskostudium.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "iskatel.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -3579,12 +3567,6 @@
     "fqdn": "k-powercare.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "k-pronajmuti.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -4212,12 +4194,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mpvs-sms-bydleni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "mrwhd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -4263,12 +4239,6 @@
     "fqdn": "musicantiquariat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "musicton.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -5661,12 +5631,6 @@
     "fqdn": "rozstani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rozvazimeradost.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
@@ -7509,12 +7473,6 @@
     "fqdn": "xccds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xcell.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
