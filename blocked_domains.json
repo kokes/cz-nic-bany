@@ -1656,6 +1656,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bydleni-online-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "c0se98397836moks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
@@ -1705,8 +1711,8 @@
   },
   {
     "fqdn": "ceskaposta-praha.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2022-06-14",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -3120,6 +3126,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idmp-a-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "id-rb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-30",
@@ -3159,6 +3171,12 @@
     "fqdn": "ilpulito.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "implsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -3744,6 +3762,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lidmp-a-svl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "lifereality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -4130,7 +4154,7 @@
   {
     "fqdn": "moje-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -4185,6 +4209,18 @@
     "fqdn": "mostbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mp-asv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-platby24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -5217,6 +5253,12 @@
     "fqdn": "pripojitwifi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prispevek-mp-sv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -6591,6 +6633,12 @@
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tiskove-zaprave-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
