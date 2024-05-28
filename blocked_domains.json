@@ -2298,12 +2298,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "eiffeloptic.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "eisai.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-06",
