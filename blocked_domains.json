@@ -252,6 +252,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "253967.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
@@ -2460,6 +2466,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "faktury-z-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "falconericz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-12",
@@ -3175,6 +3187,12 @@
   },
   {
     "fqdn": "implsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "impsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-28",
     "valid_to": null
@@ -4158,6 +4176,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mojeid-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "moje-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-28",
@@ -4224,6 +4248,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mpsv-cz24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "mpsv-platby24.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-28",
@@ -4232,7 +4262,13 @@
   {
     "fqdn": "mpsv-platby-information.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-24",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mpsv-platby-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -4746,6 +4782,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "online-post-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "online-rb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-14",
@@ -4767,6 +4809,12 @@
     "fqdn": "onlineshop1.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onmpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -5028,6 +5076,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "platby24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "platbyonline-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "platonic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
@@ -5184,9 +5244,15 @@
     "valid_to": null
   },
   {
+    "fqdn": "post24-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "posta-mpsv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-11-29",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
