@@ -3288,6 +3288,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jak-na-to-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "jakvyucovatfinancnigramotnost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
@@ -5262,6 +5268,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "prispevku2023mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "privatmua.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
@@ -5415,6 +5427,12 @@
     "fqdn": "regioejet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "regist-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
@@ -7098,6 +7116,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vase-mpsv-id.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "vasizahradnici.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-09-15",
@@ -7665,6 +7689,12 @@
     "fqdn": "zelenyspor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ziskat-mpsv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
     "valid_to": null
   },
   {
