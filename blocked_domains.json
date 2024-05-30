@@ -1338,12 +1338,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autosery.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "autotskolaking.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-07-27",
@@ -2691,12 +2685,6 @@
     "fqdn": "gastrorealitypraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gateshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-04-13",
     "valid_to": null
   },
   {
