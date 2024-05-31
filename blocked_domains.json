@@ -1188,6 +1188,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ashia2.cz",
+    "reason": "rozhodnutí jiného OVM",
+    "valid_from": "2024-05-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "ashram.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -6567,6 +6573,18 @@
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "titania2.cz",
+    "reason": "rozhodnutí jiného OVM",
+    "valid_from": "2024-05-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "titaniagame.cz",
+    "reason": "rozhodnutí jiného OVM",
+    "valid_from": "2024-05-31",
     "valid_to": null
   },
   {
