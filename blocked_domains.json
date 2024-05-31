@@ -2244,6 +2244,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "edalnise.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "edenbar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -3459,6 +3465,12 @@
     "fqdn": "kincwood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kissu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-31",
     "valid_to": null
   },
   {
@@ -7239,6 +7251,12 @@
     "fqdn": "vitaraj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vkgyd.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-31",
     "valid_to": null
   },
   {
