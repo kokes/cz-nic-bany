@@ -276,6 +276,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "28697.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "29928380002286lhk-4.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
@@ -4635,6 +4641,12 @@
     "fqdn": "ona-r.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onitsukatiger-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-01",
     "valid_to": null
   },
   {
