@@ -1308,12 +1308,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autodiagnostiky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "autokuze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
