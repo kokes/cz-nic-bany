@@ -1764,12 +1764,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chs-valley-of-darkness.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "cinskebylinky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6651,12 +6645,6 @@
     "fqdn": "tyerdew.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tyntom.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
