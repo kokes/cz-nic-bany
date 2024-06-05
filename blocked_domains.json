@@ -7254,6 +7254,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "www-registr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "www-skradbuza.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
