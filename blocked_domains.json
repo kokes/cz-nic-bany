@@ -1146,9 +1146,33 @@
     "valid_to": null
   },
   {
+    "fqdn": "amonit-podvod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "amonitpodvod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "anniveflo40.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "annovino-podvod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "annovinopodvod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-06",
     "valid_to": null
   },
   {
@@ -1819,9 +1843,9 @@
   },
   {
     "fqdn": "cnb-24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-05-06",
-    "valid_to": "2024-06-06"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-05-28",
+    "valid_to": null
   },
   {
     "fqdn": "cobydupshop.cz",
