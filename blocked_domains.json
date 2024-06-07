@@ -1086,6 +1086,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aldoboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "alert23-userverifcation0nline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
