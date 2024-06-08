@@ -126,6 +126,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "175204.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "178563.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
@@ -588,6 +594,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "539026.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "547618.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
@@ -813,6 +825,12 @@
     "fqdn": "813947.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "81573.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-08",
     "valid_to": null
   },
   {
@@ -1803,6 +1821,12 @@
     "fqdn": "cirkevniskola.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cirkus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-08",
     "valid_to": null
   },
   {
