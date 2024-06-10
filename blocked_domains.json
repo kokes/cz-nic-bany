@@ -3066,12 +3066,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "iskvysocina.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "itcteni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
@@ -3759,12 +3753,6 @@
     "fqdn": "matetodoma.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "maxivyprodeje.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
