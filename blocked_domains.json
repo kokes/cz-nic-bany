@@ -1710,12 +1710,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ceskaposta-praha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "cfvk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-26",
