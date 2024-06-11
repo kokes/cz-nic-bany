@@ -630,6 +630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "578423.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "584719.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
@@ -1185,6 +1191,12 @@
     "fqdn": "antoninburdak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "apolenna.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
@@ -3288,6 +3300,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "k-m-k.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "knihykmaturite.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
@@ -3927,6 +3945,12 @@
     "fqdn": "mostbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "motel-osecek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
