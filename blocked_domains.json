@@ -1050,6 +1050,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "acraftpneu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "aeropilot.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -7095,6 +7101,12 @@
     "fqdn": "zahradr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zahranicni-casina.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
