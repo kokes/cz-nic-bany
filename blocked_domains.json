@@ -1812,6 +1812,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "city-net.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "ckpalmatour.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -1869,6 +1875,12 @@
     "fqdn": "coccinelleeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "com-767794499795672992569.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
@@ -3162,6 +3174,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "johnfrieda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "jordy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-06",
@@ -3624,6 +3642,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "livescore1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "liveskor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-08-15",
@@ -4065,6 +4089,12 @@
     "fqdn": "nabytekprim.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nabyteksbonusem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
@@ -5595,6 +5625,12 @@
     "fqdn": "seucrealrts.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "seucre-runescape.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-11",
     "valid_to": null
   },
   {
