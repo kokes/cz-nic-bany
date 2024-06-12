@@ -1788,6 +1788,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chranles.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "cinskebylinky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1947,6 +1953,24 @@
     "fqdn": "coseshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coworking-jablonec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coworkingjablonec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coworkjablonec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
     "valid_to": null
   },
   {
@@ -5016,6 +5040,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "psidieta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "psmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
@@ -6171,6 +6201,12 @@
     "fqdn": "techtronic.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2019-12-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tedbaker-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-12",
     "valid_to": null
   },
   {
