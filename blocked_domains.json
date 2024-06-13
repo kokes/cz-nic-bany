@@ -318,6 +318,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "32136.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "321487.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
