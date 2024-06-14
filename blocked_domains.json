@@ -2994,12 +2994,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ibfio.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "icdam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
