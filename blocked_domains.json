@@ -1770,6 +1770,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chatanh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "chcemestejnymetr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -2238,6 +2244,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eclass.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "edalnise.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-31",
@@ -2439,6 +2451,12 @@
     "fqdn": "faceapps.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "faceyoung.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
     "valid_to": null
   },
   {
@@ -3300,6 +3318,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kamerujes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "kapradi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3351,6 +3375,18 @@
     "fqdn": "klempirstvi-soudek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "klipzabura.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "klipzatrojku.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
     "valid_to": null
   },
   {
@@ -5859,6 +5895,12 @@
     "fqdn": "skolatv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skylarkmedia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-16",
     "valid_to": null
   },
   {
