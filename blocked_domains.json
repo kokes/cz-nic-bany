@@ -426,6 +426,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "3dsecurit.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-06-19",
+    "valid_to": "2024-07-19"
+  },
+  {
     "fqdn": "41793.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-06",
