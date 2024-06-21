@@ -1914,12 +1914,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-aa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-06-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "com-ca.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-06-01",
