@@ -1674,6 +1674,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "brainfaq.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "brainfuck.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "brnolive.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -6513,6 +6525,12 @@
     "fqdn": "ungfs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "unikova-hra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-06-25",
     "valid_to": null
   },
   {
