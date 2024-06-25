@@ -1560,6 +1560,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bissecurit.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-06-25",
+    "valid_to": "2024-07-25"
+  },
+  {
     "fqdn": "bizzocasino1.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-24",
