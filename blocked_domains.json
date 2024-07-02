@@ -2760,12 +2760,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "henshoes.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "herbalharmony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-17",
