@@ -4578,12 +4578,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pemzu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "penzion-marie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-26",
