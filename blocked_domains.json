@@ -1674,12 +1674,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jedinecnyinterier.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "jessica.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -2520,12 +2514,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ochranaprotivirum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "ochutnejte.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3252,12 +3240,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sdh-cestice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "sdty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -3522,12 +3504,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skolatv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "slevoeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -3741,12 +3717,6 @@
     "fqdn": "system-alert-verification.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tabakapravo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-10-17",
     "valid_to": null
   },
   {
