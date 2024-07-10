@@ -162,12 +162,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "56829.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "578423.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-11",
