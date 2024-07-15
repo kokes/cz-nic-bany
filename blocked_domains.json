@@ -402,12 +402,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ariakatalog.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "army-oto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
