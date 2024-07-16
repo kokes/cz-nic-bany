@@ -3696,6 +3696,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "teveocz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "tfjyu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
