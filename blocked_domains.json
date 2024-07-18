@@ -8442,6 +8442,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "patriotiproevropu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "pavlasvecova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
