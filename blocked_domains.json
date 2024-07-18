@@ -570,6 +570,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alphalete-czechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "alphasolarsystems.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
