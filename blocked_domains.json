@@ -1488,6 +1488,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bis24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-07-19",
+    "valid_to": "2024-08-19"
+  },
+  {
     "fqdn": "bissecurit24.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-07-11",
@@ -5391,6 +5397,12 @@
     "fqdn": "jurisltm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jus1i-ctznsvst.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-19",
     "valid_to": null
   },
   {
