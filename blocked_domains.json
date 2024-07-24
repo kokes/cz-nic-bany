@@ -13044,6 +13044,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zazitkove-darky.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2024-07-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "zbykar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
