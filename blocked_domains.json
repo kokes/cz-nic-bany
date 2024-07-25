@@ -1525,9 +1525,9 @@
   },
   {
     "fqdn": "bissecurit.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-06-25",
-    "valid_to": "2024-07-25"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-09",
+    "valid_to": null
   },
   {
     "fqdn": "bistrounata.cz",
