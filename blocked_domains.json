@@ -960,6 +960,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "auth-helpdesk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "auth-portalv2.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -4188,6 +4194,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "he8lp-de2k.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "heartinyourhands.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -4197,6 +4209,12 @@
     "fqdn": "hedviga-nosalova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hel3pd1sk-port0l.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-31",
     "valid_to": null
   },
   {
@@ -4239,6 +4257,12 @@
     "fqdn": "help-desk7.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "helpdesk-portal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-31",
     "valid_to": null
   },
   {
