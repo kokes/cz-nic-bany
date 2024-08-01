@@ -4824,12 +4824,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jayden.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "jazykovyveletrh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -7854,36 +7848,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pandoraearringsshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pandorajewelryevents.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pandorajewelryoutlet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pandorapendantshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pandoraringshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "panterjavornik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -9363,12 +9327,6 @@
     "fqdn": "salomonczechrepublic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sa-maps.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-03-13",
     "valid_to": null
   },
   {
