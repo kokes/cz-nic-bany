@@ -480,6 +480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "airjordanpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "ajulareality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
