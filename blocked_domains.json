@@ -8376,12 +8376,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "royalzavesy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "rozpocty-staveb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-12",
