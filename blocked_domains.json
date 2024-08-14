@@ -594,6 +594,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "anavivanagroup.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "andelicky-dvur.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
