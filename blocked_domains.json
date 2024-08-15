@@ -768,12 +768,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "asparcover.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "astrosperky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -1989,12 +1983,6 @@
     "fqdn": "cirkevniskola.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "citelum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
     "valid_to": null
   },
   {
@@ -4891,12 +4879,6 @@
   },
   {
     "fqdn": "kotelnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "koucproprofesionaly.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
