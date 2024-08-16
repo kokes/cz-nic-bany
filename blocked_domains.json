@@ -2070,12 +2070,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "companypmx.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-08-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "comra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
@@ -7317,12 +7311,6 @@
     "fqdn": "pmfitnessgym.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pmxcompany.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-08-16",
     "valid_to": null
   },
   {
