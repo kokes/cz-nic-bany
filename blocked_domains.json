@@ -91,9 +91,9 @@
   },
   {
     "fqdn": "24bissecurit.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-07-19",
-    "valid_to": "2024-08-19"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-07-26",
+    "valid_to": null
   },
   {
     "fqdn": "26531.cz",
@@ -1261,9 +1261,9 @@
   },
   {
     "fqdn": "bis24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-07-19",
-    "valid_to": "2024-08-19"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-03",
+    "valid_to": null
   },
   {
     "fqdn": "bissecurit24.cz",
