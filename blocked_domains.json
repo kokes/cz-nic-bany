@@ -2580,6 +2580,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eccoobuv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "e-collegium.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
@@ -2985,6 +2991,12 @@
     "fqdn": "fgwjt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "filaboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
     "valid_to": null
   },
   {
@@ -4932,6 +4944,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lakaibuty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "laktoporadna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -5565,6 +5583,12 @@
     "fqdn": "michaelapeknicova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "michaelkorspraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
     "valid_to": null
   },
   {
@@ -6594,6 +6618,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "osirisshoeoutlets.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "osteo-forum.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-17",
@@ -6759,6 +6789,12 @@
     "fqdn": "penzion-techlovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pepejeanspraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-20",
     "valid_to": null
   },
   {
