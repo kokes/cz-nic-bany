@@ -1878,12 +1878,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chranles.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "christianlouboutinpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-06",
@@ -2037,24 +2031,6 @@
     "fqdn": "coworking-humpolec.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "coworking-jablonec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "coworkingjablonec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "coworkjablonec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-12",
     "valid_to": null
   },
   {
@@ -7413,12 +7389,6 @@
     "fqdn": "prvniklapka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "psidieta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-12",
     "valid_to": null
   },
   {
