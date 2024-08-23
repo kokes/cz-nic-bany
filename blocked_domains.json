@@ -8244,6 +8244,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "slevovykod24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "slovniknareci.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
