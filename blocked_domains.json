@@ -1705,15 +1705,15 @@
   },
   {
     "fqdn": "chase1-loginpage-loading.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-07-23",
-    "valid_to": "2024-08-23"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-02",
+    "valid_to": null
   },
   {
     "fqdn": "chase2-checking-loadpage.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-07-23",
-    "valid_to": "2024-08-23"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-02",
+    "valid_to": null
   },
   {
     "fqdn": "chase3-checking-loadpage.cz",
