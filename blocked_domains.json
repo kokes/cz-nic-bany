@@ -10380,6 +10380,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zasobovanni.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "zaso-landa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
