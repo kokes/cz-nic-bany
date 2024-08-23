@@ -1212,6 +1212,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "billa-import.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "bio-prozivot.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -6540,6 +6546,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pennymarketsro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "penpen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -8874,6 +8886,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tescostores.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "tevabotystore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -10197,6 +10215,12 @@
     "fqdn": "xeroboty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xlcz-nabytek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-23",
     "valid_to": null
   },
   {
