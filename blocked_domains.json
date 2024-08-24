@@ -6408,6 +6408,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "palivarezivo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "palounkova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -9900,6 +9906,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "weit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "wellnessforlove.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -10239,6 +10251,12 @@
     "fqdn": "zaostrenonavitkovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zasilkov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-24",
     "valid_to": null
   },
   {
