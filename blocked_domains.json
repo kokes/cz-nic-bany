@@ -6372,12 +6372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "palivarezivo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-08-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "palounkova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
