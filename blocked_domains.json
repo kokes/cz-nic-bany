@@ -3804,6 +3804,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jakub-brikety.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "janahauser.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -7413,6 +7419,12 @@
     "fqdn": "romodromcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "royalzavesy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
     "valid_to": null
   },
   {
