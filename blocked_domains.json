@@ -510,6 +510,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aloyogapraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "alphalete-czechrepublic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-18",
@@ -1893,6 +1899,12 @@
     "fqdn": "correct-finance.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cotopaxiallpa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
     "valid_to": null
   },
   {
