@@ -5010,6 +5010,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mammutcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "mamynaceste.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
