@@ -258,6 +258,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "87861.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "88932992880002239939938829286lhk-09.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
