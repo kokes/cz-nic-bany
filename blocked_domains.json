@@ -1314,6 +1314,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "botyrieker.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-08-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "botysorelcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
