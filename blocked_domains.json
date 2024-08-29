@@ -1776,12 +1776,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "city-net.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-06-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "clarkseshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
