@@ -3834,6 +3834,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kamagrakoupit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "kamagralevne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-05-28",
@@ -7779,6 +7785,12 @@
     "fqdn": "stolarstvi-stasko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "store-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-01",
     "valid_to": null
   },
   {
