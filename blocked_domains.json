@@ -8964,6 +8964,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "warta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "webjednoduse.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -9339,12 +9345,6 @@
     "fqdn": "zasobovanni.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2024-08-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zazitkove-darky.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2024-07-24",
     "valid_to": null
   },
   {
