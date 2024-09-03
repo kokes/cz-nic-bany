@@ -1128,6 +1128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bis-24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "bis24.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-03",
@@ -1371,6 +1377,12 @@
     "fqdn": "bunnycare.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bwatch24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-03",
     "valid_to": null
   },
   {
