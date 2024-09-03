@@ -1920,12 +1920,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "datazeet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "degris.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-24",
@@ -2995,12 +2989,6 @@
   },
   {
     "fqdn": "hbshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hcsareza.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
@@ -4609,12 +4597,6 @@
   },
   {
     "fqdn": "marcelamelkova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "marcelatour.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
@@ -7243,12 +7225,6 @@
   },
   {
     "fqdn": "sheddy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sheradigital.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
