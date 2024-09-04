@@ -894,12 +894,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aziton.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1179,12 +1173,6 @@
     "fqdn": "bkgarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "blackard.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
     "valid_to": null
   },
   {
@@ -4452,12 +4440,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "luckylandia.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "ludekhovorka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -4513,12 +4495,6 @@
   },
   {
     "fqdn": "mainegorge.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "makiss.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
@@ -6690,12 +6666,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rezidence-veselka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "rfmst.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-01",
@@ -6906,12 +6876,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sauconyeshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "saunazahrada.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -7095,12 +7059,6 @@
     "fqdn": "serv-sec7.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sethmluvi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
     "valid_to": null
   },
   {
@@ -8473,12 +8431,6 @@
   },
   {
     "fqdn": "ulvasrbsko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "umalehostromu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
     "valid_to": null
