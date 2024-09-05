@@ -558,6 +558,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "andelnadeje.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "andreaweddings.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -7632,6 +7638,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "stromky-stesti.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "studaneckeleto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -8619,6 +8631,12 @@
     "fqdn": "vejapraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "velikonocedetem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-05",
     "valid_to": null
   },
   {
