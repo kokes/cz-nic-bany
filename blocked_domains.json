@@ -2742,6 +2742,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gameforge.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "garazi24.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
@@ -4383,6 +4389,12 @@
     "fqdn": "lokalnibedny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "loli.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-06",
     "valid_to": null
   },
   {
