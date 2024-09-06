@@ -1698,12 +1698,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "club77.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "cnchonsa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
