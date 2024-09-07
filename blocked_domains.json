@@ -132,6 +132,12 @@
     "valid_to": "2024-09-12"
   },
   {
+    "fqdn": "3dreserve.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-09-07",
+    "valid_to": "2024-10-07"
+  },
+  {
     "fqdn": "3dsecurit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-09",
