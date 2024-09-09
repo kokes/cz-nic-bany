@@ -954,6 +954,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "banksecure.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-09-09",
+    "valid_to": "2024-10-09"
+  },
+  {
     "fqdn": "barberworld.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
