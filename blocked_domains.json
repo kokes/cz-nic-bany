@@ -2388,6 +2388,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "exekutori-sumperk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "expertia-dev3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-16",
