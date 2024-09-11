@@ -4224,6 +4224,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "loewenkind.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "login-security-protect-team.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
