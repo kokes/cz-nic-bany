@@ -54,6 +54,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "3daktivace.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-09-17",
+    "valid_to": "2024-10-17"
+  },
+  {
+    "fqdn": "3dbezpeci24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-09-17",
+    "valid_to": "2024-10-17"
+  },
+  {
     "fqdn": "3dbezpeci.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2024-09-12",
