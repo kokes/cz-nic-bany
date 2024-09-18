@@ -1224,6 +1224,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "iboga.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "id-rb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-30",
@@ -1296,6 +1302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "janrostlinka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "jazzikaspol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -1305,6 +1317,12 @@
     "fqdn": "jessica.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jiridrevo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-18",
     "valid_to": null
   },
   {
