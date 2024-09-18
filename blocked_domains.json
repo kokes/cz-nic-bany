@@ -3666,6 +3666,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "younglastore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "yourbanked.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
