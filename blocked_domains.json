@@ -222,6 +222,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "airbnbprague.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "airjordanpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-03",
@@ -1044,6 +1050,48 @@
     "valid_to": null
   },
   {
+    "fqdn": "glampingkarlovyvary.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glamping-olomouc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glampingolomouc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glamping-prague.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glampingprague.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glamping-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glampingpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "godstimingisthebestministry.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -1383,6 +1431,12 @@
     "fqdn": "kapradi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "karlovyvaryhotel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
     "valid_to": null
   },
   {
@@ -2289,6 +2343,12 @@
     "fqdn": "poznat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "praguehotelrestaurant.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
     "valid_to": null
   },
   {
