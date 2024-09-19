@@ -1074,6 +1074,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gurroa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "habrservis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
