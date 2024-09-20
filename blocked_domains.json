@@ -630,6 +630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bolle.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "borzoistore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -1152,6 +1158,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "exit1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "exotictropical.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
@@ -1308,6 +1320,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "golfpokertour.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "gomate.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
@@ -1323,6 +1341,12 @@
     "fqdn": "grey256.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gtdriversclub.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
@@ -2341,6 +2365,12 @@
   },
   {
     "fqdn": "nenitojenpsani.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "neovaluto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
     "valid_to": null
@@ -4491,6 +4521,18 @@
     "fqdn": "zmrzkazhor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zoophraha.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-09-20",
+    "valid_to": "2024-10-20"
+  },
+  {
+    "fqdn": "zrejme.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
