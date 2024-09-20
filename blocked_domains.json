@@ -3744,6 +3744,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "teclan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "tecovasbootsstore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -3781,6 +3787,12 @@
   },
   {
     "fqdn": "test-dns.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "textech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
     "valid_to": null
