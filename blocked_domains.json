@@ -534,6 +534,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bellestore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "benefitycaffe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -1344,6 +1350,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "guavashop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "gurroa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
@@ -1890,6 +1902,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lallure.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "larskepler.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -2010,6 +2028,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lineoshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "livescore1.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-11",
@@ -2073,6 +2097,12 @@
     "fqdn": "mapteo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "marco-loretti.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
     "valid_to": null
   },
   {
@@ -2631,6 +2661,12 @@
     "fqdn": "pcdodomu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "peachystore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
     "valid_to": null
   },
   {
@@ -4317,6 +4353,12 @@
     "fqdn": "warta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wasuba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-22",
     "valid_to": null
   },
   {
