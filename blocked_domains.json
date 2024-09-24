@@ -252,6 +252,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ak-bartosova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "aktualreality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2011-10-18",
@@ -1794,6 +1800,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "khaite.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "klaudievesela.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -1911,6 +1923,12 @@
     "fqdn": "lakaibuty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "language21.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -2886,6 +2904,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "president.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "prijdakup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
@@ -3003,6 +3027,12 @@
     "fqdn": "regioejet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "region-ck.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -3522,6 +3552,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "skola21.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "slevoeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -3765,6 +3801,12 @@
     "fqdn": "swiss-sendungsnummer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "syrypresident.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
