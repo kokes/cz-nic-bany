@@ -1266,6 +1266,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gcfrl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "gerberg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -1311,6 +1317,12 @@
     "fqdn": "glampingpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "glass-flowers.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -2817,6 +2829,12 @@
     "fqdn": "pohledniceolomouc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pohlednicepsu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
