@@ -318,6 +318,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "appleopravnapraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "appleoutlet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -462,6 +468,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "azmon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -531,6 +543,12 @@
     "fqdn": "basikova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bastin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -1626,9 +1644,27 @@
     "valid_to": null
   },
   {
+    "fqdn": "iphoneopravnapraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "iphonepointservis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "is-energy-czech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "isenergyczech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -2598,6 +2634,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "opravimeapplevpraze.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "opravytelefonu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -3024,6 +3066,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "quik-set.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "radimvalencik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -3211,18 +3259,6 @@
   },
   {
     "fqdn": "rmauto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "roleta2.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "roleta39.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
     "valid_to": null
@@ -4593,6 +4629,12 @@
     "fqdn": "yummybag.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zachrana-iphone.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
