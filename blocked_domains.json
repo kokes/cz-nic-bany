@@ -258,12 +258,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ak-bartosova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "aktualreality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2011-10-18",
