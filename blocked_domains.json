@@ -258,6 +258,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ai-systems.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "ak-bartosova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -720,6 +726,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "buchan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "budbrass.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -1137,6 +1149,12 @@
     "fqdn": "elektroworl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ellybride.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
@@ -1680,6 +1698,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ifctchain.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "ifds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
@@ -1911,6 +1935,12 @@
     "fqdn": "kangenrumah.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kantei.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
@@ -3177,12 +3207,6 @@
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "projektovyatelier-m.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
