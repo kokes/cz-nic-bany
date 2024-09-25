@@ -384,6 +384,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "atelier111.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
@@ -948,6 +954,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "deprostav.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "detskaskolka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -1005,6 +1017,12 @@
     "fqdn": "drinkware.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "drogerietisnov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
@@ -1710,6 +1728,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "jiridrevo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-18",
@@ -1731,6 +1755,18 @@
     "fqdn": "jobstree.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johann-hochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johannhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
@@ -3573,6 +3609,12 @@
     "fqdn": "skola21.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skoleni-vzv-hk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
