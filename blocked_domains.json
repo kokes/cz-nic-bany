@@ -762,6 +762,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "campamento99.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "carharttpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -921,12 +927,6 @@
     "fqdn": "crypto-com.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ctyr-ka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
@@ -2046,12 +2046,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lahoodky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "lakaibuty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -2880,12 +2874,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "phillscorner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "phishreport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -3522,6 +3510,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "servis8.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "servis-ka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -4020,6 +4014,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tes98.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "tescostores.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-23",
@@ -4191,12 +4191,6 @@
     "fqdn": "tvadovolena.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "twenty7.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
