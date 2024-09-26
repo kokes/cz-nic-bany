@@ -276,6 +276,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alter-med.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "amonit-podvod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-06",
@@ -348,6 +354,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "arovcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "artkomplex.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -387,6 +399,18 @@
     "fqdn": "atelierb3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "atelierpf.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ateliervv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-26",
     "valid_to": null
   },
   {
@@ -489,6 +513,12 @@
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "b2bczech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-26",
     "valid_to": null
   },
   {
@@ -3651,12 +3681,6 @@
     "fqdn": "slevoeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slevovykod24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-08-23",
     "valid_to": null
   },
   {
