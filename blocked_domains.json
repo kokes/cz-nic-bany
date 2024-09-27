@@ -360,12 +360,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "arovcr.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "artkomplex.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -4065,6 +4059,12 @@
     "fqdn": "tolmicovi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tomasp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-27",
     "valid_to": null
   },
   {
