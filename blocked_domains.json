@@ -1110,6 +1110,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "drontejih.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "dtmxsocks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -2250,6 +2256,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "luznicelode.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "luznicerafty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "mammutcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-27",
@@ -2760,6 +2778,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "otavalode.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "outdoorresearchrukavice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -3108,6 +3132,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pujcovnalodiluznice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
@@ -3123,6 +3153,18 @@
     "fqdn": "radimvalencik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "raftingotava.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "raftyotava.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
     "valid_to": null
   },
   {
@@ -4539,6 +4581,12 @@
     "fqdn": "vlnahep.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vltavalode.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-28",
     "valid_to": null
   },
   {
