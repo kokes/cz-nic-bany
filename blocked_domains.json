@@ -4098,12 +4098,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tomasp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "torentfilm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-05",
