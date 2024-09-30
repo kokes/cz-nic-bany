@@ -192,18 +192,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "advokatka-jankova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "advokatkajankova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "aeropilot.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
@@ -411,12 +399,6 @@
     "fqdn": "atelierb3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ateliervv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-26",
     "valid_to": null
   },
   {
