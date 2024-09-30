@@ -3072,12 +3072,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "promo-codes.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "pronajemzidenice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
