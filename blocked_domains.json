@@ -474,12 +474,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autoservisdasny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "autosin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
@@ -2274,6 +2268,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mardox.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "marekiss.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-10-10",
@@ -3405,12 +3405,6 @@
     "fqdn": "scdkey.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "scec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-30",
     "valid_to": null
   },
   {
