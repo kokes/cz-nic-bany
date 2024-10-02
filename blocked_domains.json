@@ -1350,6 +1350,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "flora24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "fundays.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
