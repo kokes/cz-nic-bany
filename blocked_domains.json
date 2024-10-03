@@ -2766,12 +2766,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pankratomu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "parceldetails-tracktrace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
