@@ -2766,6 +2766,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pankratomu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "parceldetails-tracktrace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -2859,6 +2865,12 @@
     "fqdn": "pitvipersunglasses.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pjerlasez.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-03",
     "valid_to": null
   },
   {
@@ -4569,6 +4581,12 @@
     "fqdn": "vyukaplavani.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wakantanka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-03",
     "valid_to": null
   },
   {
