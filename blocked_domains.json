@@ -2514,12 +2514,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nettys.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "newmonsoon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-04-13",
