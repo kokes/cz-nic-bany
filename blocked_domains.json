@@ -73,9 +73,9 @@
   },
   {
     "fqdn": "3dreserve.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-09-07",
-    "valid_to": "2024-10-07"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
   },
   {
     "fqdn": "4zvanuapes.cz",
