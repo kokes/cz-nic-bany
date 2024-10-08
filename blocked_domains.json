@@ -906,12 +906,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fairlandigarden.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "fapoff.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-29",
@@ -3112,6 +3106,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-29",
     "valid_to": null
+  },
+  {
+    "fqdn": "udelivery.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2024-10-08",
+    "valid_to": "2024-11-08"
   },
   {
     "fqdn": "udrastu.cz",
