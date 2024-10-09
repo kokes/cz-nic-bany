@@ -403,9 +403,9 @@
   },
   {
     "fqdn": "banksecure.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-09-09",
-    "valid_to": "2024-10-09"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-09-24",
+    "valid_to": null
   },
   {
     "fqdn": "bara-tm.cz",
@@ -957,12 +957,6 @@
     "fqdn": "gameforge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gameweb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
@@ -2743,12 +2737,6 @@
   },
   {
     "fqdn": "standovenarozeniny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "starefotky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
     "valid_to": null
