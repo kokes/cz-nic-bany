@@ -1440,6 +1440,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kozesiny123.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "kra3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
