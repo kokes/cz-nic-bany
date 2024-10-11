@@ -2952,6 +2952,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ted-bakercz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "teorie.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
