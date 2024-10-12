@@ -192,6 +192,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aicontactor.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "airbag.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
@@ -960,6 +966,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "followboost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "fragolaproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-09",
@@ -1422,6 +1434,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "klikboost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "kouzelnykram.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
@@ -1569,6 +1587,24 @@
     "fqdn": "lifoxy9.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "likeboost24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "likeboost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "likehub.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
     "valid_to": null
   },
   {
@@ -2757,6 +2793,12 @@
     "fqdn": "slavialax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sledujrychle.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-12",
     "valid_to": null
   },
   {
