@@ -2100,12 +2100,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pjerlasez.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "pndinc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
