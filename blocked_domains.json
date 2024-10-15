@@ -240,6 +240,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aplikacenamobil.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "appleopravnapraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -480,9 +486,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "blbninavode.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "blwkrokzakrokem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bnwebzh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-15",
     "valid_to": null
   },
   {
@@ -1365,6 +1383,12 @@
     "fqdn": "klikboost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "knfilters.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-15",
     "valid_to": null
   },
   {
