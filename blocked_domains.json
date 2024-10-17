@@ -348,6 +348,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autoservisdasny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "autosin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
