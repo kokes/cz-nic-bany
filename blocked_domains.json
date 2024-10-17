@@ -43,9 +43,9 @@
   },
   {
     "fqdn": "3daktivace.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-09-17",
-    "valid_to": "2024-10-17"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-02",
+    "valid_to": null
   },
   {
     "fqdn": "3dbezpeci-24.cz",
@@ -55,9 +55,9 @@
   },
   {
     "fqdn": "3dbezpeci24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-09-17",
-    "valid_to": "2024-10-17"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-02",
+    "valid_to": null
   },
   {
     "fqdn": "3dbezpeci.cz",
@@ -2559,6 +2559,12 @@
     "fqdn": "sextant.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sexytino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-17",
     "valid_to": null
   },
   {
