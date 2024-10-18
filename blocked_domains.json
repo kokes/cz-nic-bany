@@ -348,12 +348,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autosin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "azmon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -1818,12 +1812,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "oaza-menu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "obcanu-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
@@ -2869,12 +2857,6 @@
   },
   {
     "fqdn": "trianoncechy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tribratri.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
     "valid_to": null
