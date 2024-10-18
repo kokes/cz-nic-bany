@@ -49,9 +49,9 @@
   },
   {
     "fqdn": "3dbezpeci-24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-09-18",
-    "valid_to": "2024-10-18"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-03",
+    "valid_to": null
   },
   {
     "fqdn": "3dbezpeci24.cz",
@@ -2415,6 +2415,12 @@
     "fqdn": "sec-verfyprofile.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "seikohodinky.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2024-10-18",
     "valid_to": null
   },
   {
