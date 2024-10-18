@@ -264,6 +264,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "artkomplex.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "arvestlogin-help.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
@@ -345,6 +351,12 @@
     "fqdn": "autosalonsvoboda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "autowise.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
     "valid_to": null
   },
   {
@@ -1626,6 +1638,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "medialnivychova2015.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "menuvm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
@@ -1950,6 +1968,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "penzionfarabozidar.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "penzionmlejn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
@@ -2055,6 +2079,12 @@
     "fqdn": "prijedu.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "primaart.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
     "valid_to": null
   },
   {
@@ -2787,6 +2817,12 @@
     "fqdn": "ted-bakercz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "teedesign.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-18",
     "valid_to": null
   },
   {
