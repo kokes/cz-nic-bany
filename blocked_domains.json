@@ -768,12 +768,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "e-collegium.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "efloor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
@@ -2859,12 +2853,6 @@
     "fqdn": "trackingnummer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "trianoncechy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
     "valid_to": null
   },
   {
