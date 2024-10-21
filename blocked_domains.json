@@ -1620,12 +1620,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "menuvm.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "michaelkorspraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -3009,12 +3003,6 @@
     "fqdn": "us3r-0ver6yi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "uscoufal.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-04",
     "valid_to": null
   },
   {
