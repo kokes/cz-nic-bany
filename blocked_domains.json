@@ -3060,6 +3060,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tvadovolena.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "twomates.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
