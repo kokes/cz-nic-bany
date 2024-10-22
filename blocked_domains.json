@@ -228,6 +228,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "akademiemodernihudby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "aktualreality.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2011-10-18",
@@ -453,6 +459,12 @@
     "fqdn": "billa-import.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-23",
+    "valid_to": null
+  },
+  {
+    "fqdn": "binancezh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
@@ -918,6 +930,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "ezpz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "fairlandigarden.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "fapoff.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-03-29",
@@ -1176,6 +1200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "heyi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "hhunter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
@@ -1335,6 +1365,12 @@
     "fqdn": "johnfrieda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jspetrol.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
@@ -2892,6 +2928,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "true-love.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "true-userauth.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
@@ -3123,6 +3165,12 @@
     "fqdn": "velikonocedetem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vemhodohuby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
