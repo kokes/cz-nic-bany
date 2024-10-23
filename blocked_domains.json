@@ -78,6 +78,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "40492.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "4lux.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
@@ -123,6 +129,12 @@
     "fqdn": "93987.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "9589c.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-23",
     "valid_to": null
   },
   {
@@ -1272,12 +1284,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "harrachov-apartman.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "he1pdesk-user.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -1392,18 +1398,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "highland-sport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "highlandsport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "hill-ambulance.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-01",
@@ -1431,12 +1425,6 @@
     "fqdn": "hotel16.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hotelloreta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
@@ -3345,18 +3333,6 @@
     "fqdn": "trackingnummer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "trip-sport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tripsport.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
     "valid_to": null
   },
   {
