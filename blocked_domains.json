@@ -696,12 +696,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cintadeliana.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "circularandco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-18",
@@ -3735,12 +3729,6 @@
     "fqdn": "zachrana-iphone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zachranbody.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
