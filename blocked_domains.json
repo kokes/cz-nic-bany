@@ -36,6 +36,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "22bet-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "32136.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-13",
@@ -1879,6 +1885,12 @@
   },
   {
     "fqdn": "mostbet-app-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-24",
     "valid_to": null
