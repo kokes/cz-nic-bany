@@ -48,6 +48,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "356271.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "3daktivace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-02",
@@ -1485,6 +1491,12 @@
     "fqdn": "jspetrol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "junglist.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-26",
     "valid_to": null
   },
   {
