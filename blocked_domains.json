@@ -876,12 +876,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "electroworid.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "elektrovakci.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
