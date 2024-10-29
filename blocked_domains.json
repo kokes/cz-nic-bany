@@ -204,6 +204,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "afed.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "affinity01fcu-sec01ure.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -297,6 +303,12 @@
     "fqdn": "andelnadeje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "antifa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   },
   {
@@ -645,6 +657,12 @@
     "fqdn": "cbdeshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cblipa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   },
   {
@@ -1842,6 +1860,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "megamail.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "michaelkorspraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -2007,6 +2031,12 @@
     "fqdn": "nejlepsitabak.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2021-03-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "neorealita.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   },
   {
@@ -2565,6 +2595,12 @@
     "fqdn": "rms-plus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "roderika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   },
   {
@@ -3777,6 +3813,12 @@
     "fqdn": "zooprarha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zoufalstvi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   }
 ]
