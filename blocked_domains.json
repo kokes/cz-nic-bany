@@ -1554,6 +1554,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "khujocz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "klaudievesela.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -3387,6 +3393,12 @@
     "fqdn": "valt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vansczechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-29",
     "valid_to": null
   },
   {
