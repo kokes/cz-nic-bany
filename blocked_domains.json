@@ -102,6 +102,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "57614.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-10-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "7marathon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
