@@ -3696,12 +3696,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "woodashop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "woodnote.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-20",
