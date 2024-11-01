@@ -492,12 +492,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "barvir.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "bd265.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
@@ -585,12 +579,6 @@
     "fqdn": "bnwebzh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bormawachs.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
     "valid_to": null
   },
   {
@@ -3276,12 +3264,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "stoyan.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "stromky-stesti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
@@ -3837,6 +3819,18 @@
     "fqdn": "vltavalode.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "volleyball.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "volleyball-nymburk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-01",
     "valid_to": null
   },
   {
