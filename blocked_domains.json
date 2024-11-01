@@ -414,12 +414,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autoprosek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "autosalonsvoboda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-08",
@@ -1419,12 +1413,6 @@
     "fqdn": "hotel16.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hotelloreta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-30",
     "valid_to": null
   },
   {
