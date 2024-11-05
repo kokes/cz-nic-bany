@@ -1902,12 +1902,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lucky2go.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "lukasvecerka-photo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
