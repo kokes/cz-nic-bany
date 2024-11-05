@@ -1236,6 +1236,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "grandmodus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "gtdriversclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -1443,6 +1449,12 @@
     "fqdn": "ifds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "imes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -2166,6 +2178,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ondoliva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "onedrive-live-sharepoint-c835fba35-fe7e-4c4d-8868-7c9ead4a-com.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
@@ -2544,6 +2562,24 @@
     "valid_to": null
   },
   {
+    "fqdn": "renault-selection.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "renaultselection.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "renaultshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "rengly.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -2745,6 +2781,12 @@
     "fqdn": "schroeter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sciencein.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -3060,6 +3102,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "softok.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "sokolovnabistro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -3159,6 +3207,18 @@
     "fqdn": "stromky-stesti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "studiomp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stump.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
