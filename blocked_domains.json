@@ -2406,12 +2406,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pk62.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "planethappy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
