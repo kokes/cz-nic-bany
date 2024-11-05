@@ -468,6 +468,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bburago.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "bd265.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
@@ -2004,6 +2010,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "modelcars.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "mokexapp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-21",
@@ -2157,6 +2169,12 @@
     "fqdn": "neorealita.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "newray.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
