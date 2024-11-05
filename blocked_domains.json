@@ -1176,12 +1176,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "galerievk37.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "gameforge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-06",
@@ -1476,12 +1470,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hrladies.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "icett.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -1719,6 +1707,12 @@
     "fqdn": "kundenservices.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "l337.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -3267,12 +3261,6 @@
     "fqdn": "stavebko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stavebninyvelvary.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
