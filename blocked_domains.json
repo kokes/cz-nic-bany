@@ -1152,6 +1152,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "galerievk37.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "gameforge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-06",
@@ -1237,6 +1243,12 @@
   },
   {
     "fqdn": "grandmodus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "grootfood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
     "valid_to": null
@@ -1428,6 +1440,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hrladies.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "icett.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -1461,6 +1479,18 @@
     "fqdn": "inau.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "incomeservis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "interierysantavy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -2352,6 +2382,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pk62.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "planethappy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3186,6 +3222,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "stavebninyvelvary.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "stdbnkalertgroup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -3231,6 +3273,12 @@
     "fqdn": "suitechsui.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "super-mario.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
