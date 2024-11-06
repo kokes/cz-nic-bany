@@ -1068,12 +1068,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ewy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "exekutori-sumperk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-10",
