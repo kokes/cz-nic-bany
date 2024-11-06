@@ -1518,12 +1518,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "interierysantavy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "intimissimi-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-06",
@@ -1546,6 +1540,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
     "valid_to": null
+  },
+  {
+    "fqdn": "ivansmetana.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2024-11-06",
+    "valid_to": "2025-02-07"
   },
   {
     "fqdn": "ixosafe.cz",
