@@ -354,12 +354,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "atelierb3.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
@@ -3339,12 +3333,6 @@
     "fqdn": "stuttgart-dolmetscher.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sudamed.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-06",
     "valid_to": null
   },
   {
