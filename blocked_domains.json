@@ -1092,6 +1092,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "falconeri-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "famaagentura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -1515,6 +1521,12 @@
     "fqdn": "interierysantavy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "intimissimi-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-06",
     "valid_to": null
   },
   {
