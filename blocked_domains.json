@@ -1986,6 +1986,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mecelium.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "medialnivychova2015.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-04",
