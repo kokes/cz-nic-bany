@@ -288,6 +288,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alphahorizon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "alter-med.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-26",
@@ -669,6 +675,12 @@
     "fqdn": "cblipa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceskamail.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
     "valid_to": null
   },
   {
@@ -1467,12 +1479,6 @@
     "fqdn": "hotinzerce.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hotovetes.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
@@ -2502,6 +2508,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "postamail.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "postemail.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "potrebujisidlo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -2589,6 +2607,12 @@
     "fqdn": "proofnutrition.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prostopost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
     "valid_to": null
   },
   {
