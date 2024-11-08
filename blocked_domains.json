@@ -228,12 +228,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aicontactor.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "airbag.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
@@ -1026,12 +1020,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "followboost.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "fragolaproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -1446,12 +1434,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "klikboost.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "klor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-06",
@@ -1629,24 +1611,6 @@
     "fqdn": "lifoxy9.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "likeboost24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "likeboost.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "likehub.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
     "valid_to": null
   },
   {
@@ -2226,6 +2190,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "prazskamoda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "premyslraban.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2799,12 +2769,6 @@
     "fqdn": "slavialax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sledujrychle.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-12",
     "valid_to": null
   },
   {
