@@ -3426,6 +3426,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vojtamisura.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "volleyball.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -3573,6 +3579,12 @@
     "fqdn": "zachrana-iphone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zachranbody.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-08",
     "valid_to": null
   },
   {
