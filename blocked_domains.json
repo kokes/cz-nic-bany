@@ -1434,12 +1434,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "klor.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "knfilters.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
