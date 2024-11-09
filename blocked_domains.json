@@ -570,6 +570,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "car-rentals.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "cbd-b2b.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
