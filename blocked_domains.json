@@ -468,6 +468,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "blvckparis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "blwkrokzakrokem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -549,6 +555,12 @@
     "fqdn": "ca-elmar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cam4bucks.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-09",
     "valid_to": null
   },
   {
