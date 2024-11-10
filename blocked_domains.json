@@ -696,6 +696,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ctyr-ka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "customizedsouvenirs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -1500,6 +1506,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lahoodky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "lakaibuty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -2079,6 +2091,12 @@
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "phillscorner.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-10",
     "valid_to": null
   },
   {
@@ -3081,6 +3099,12 @@
     "fqdn": "tvarceskekrajiny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
+    "valid_to": null
+  },
+  {
+    "fqdn": "twenty7.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-10",
     "valid_to": null
   },
   {
