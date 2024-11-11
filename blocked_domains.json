@@ -696,12 +696,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ctyr-ka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "customizedsouvenirs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -1362,12 +1356,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jhochreiter.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "jihomusic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-06",
@@ -1383,18 +1371,6 @@
     "fqdn": "jk-obchod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "johann-hochreiter.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "johannhochreiter.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-11",
     "valid_to": null
   },
   {
@@ -1521,12 +1497,6 @@
     "fqdn": "l893222009923000002239379938829286klk-05.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lahoodky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-10",
     "valid_to": null
   },
   {
@@ -1731,12 +1701,6 @@
     "fqdn": "matetodoma.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mecelium.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-07",
     "valid_to": null
   },
   {
@@ -2103,12 +2067,6 @@
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "phillscorner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-10",
     "valid_to": null
   },
   {
@@ -3111,12 +3069,6 @@
     "fqdn": "tvarceskekrajiny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "twenty7.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-10",
     "valid_to": null
   },
   {
