@@ -2772,12 +2772,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skupinovy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "slavialax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
