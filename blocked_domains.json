@@ -1146,6 +1146,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "greendragon168.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "grootfood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
@@ -1299,6 +1305,12 @@
     "fqdn": "ifctchain.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "imes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-12",
     "valid_to": null
   },
   {
@@ -2745,6 +2757,12 @@
     "fqdn": "skoleni-vzv-hk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skupinovy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-12",
     "valid_to": null
   },
   {
