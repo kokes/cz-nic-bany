@@ -180,6 +180,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "adrianatour.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "advokatka-jankova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-19",
@@ -2175,6 +2181,12 @@
     "fqdn": "praguehotelrestaurant.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prague-pubs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-12",
     "valid_to": null
   },
   {
