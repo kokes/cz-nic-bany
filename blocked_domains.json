@@ -2082,6 +2082,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pleaserboty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "pndinc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
