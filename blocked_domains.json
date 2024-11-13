@@ -1170,6 +1170,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "harrachov-apartman.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "harun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -1257,6 +1263,18 @@
     "fqdn": "hhunter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "highland-sport.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "highlandsport.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
     "valid_to": null
   },
   {
@@ -3042,6 +3060,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "trip-sport.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tripsport.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "true-love.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3381,18 +3411,6 @@
     "fqdn": "vojtamisura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "volleyball.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "volleyball-nymburk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
     "valid_to": null
   },
   {
