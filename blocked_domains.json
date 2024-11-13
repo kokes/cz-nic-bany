@@ -36,6 +36,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "306589.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "32136.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-13",
@@ -45,6 +51,12 @@
     "fqdn": "356271.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "357846.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
     "valid_to": null
   },
   {
@@ -96,9 +108,27 @@
     "valid_to": null
   },
   {
+    "fqdn": "568138.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "57614.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "71364.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "7163.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
     "valid_to": null
   },
   {
@@ -2883,6 +2913,12 @@
     "fqdn": "studiomp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sudamed.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
     "valid_to": null
   },
   {
