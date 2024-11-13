@@ -336,12 +336,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "appleopravnapraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "arami.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2018-04-12",
@@ -399,12 +393,6 @@
     "fqdn": "auth-verfyprofile.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "autoexus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-30",
     "valid_to": null
   },
   {
@@ -1992,12 +1980,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "opravimeapplevpraze.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "optimumailbox.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -2301,12 +2283,6 @@
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "quik-set.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
@@ -3543,12 +3519,6 @@
     "fqdn": "younglastore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zachrana-iphone.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-24",
     "valid_to": null
   },
   {
