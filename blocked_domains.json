@@ -60,6 +60,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "36561.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "3daktivace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-02",
@@ -117,6 +123,12 @@
     "fqdn": "57614.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "5780c.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-13",
     "valid_to": null
   },
   {
@@ -2259,12 +2271,6 @@
     "fqdn": "pronajem-privesy-prodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pronajemzidenice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
