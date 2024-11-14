@@ -756,6 +756,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dennes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "dhservice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-07-30",
