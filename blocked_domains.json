@@ -768,12 +768,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "diprint.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "dir-pro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
