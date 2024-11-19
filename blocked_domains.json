@@ -1230,6 +1230,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "grootfood.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "gtdriversclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
