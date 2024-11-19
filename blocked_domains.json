@@ -1860,18 +1860,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mostbet-app-online.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mostbet-cz-login.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "mouyabi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
