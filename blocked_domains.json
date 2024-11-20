@@ -714,6 +714,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chodovia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "chyt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -837,6 +843,12 @@
     "fqdn": "digitalinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "diogen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
@@ -1173,6 +1185,12 @@
     "fqdn": "flyzone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "foucek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
@@ -2182,6 +2200,12 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "obchodpneu.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2024-11-20",
+    "valid_to": "2024-12-20"
   },
   {
     "fqdn": "oberfalzer.cz",
