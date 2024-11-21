@@ -1074,6 +1074,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "euro-media.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "euro-mont.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-09-04",
@@ -1293,6 +1299,12 @@
     "fqdn": "goldengoosepraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "golfandtravel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -2355,6 +2367,12 @@
     "fqdn": "pavro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pedrito.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -3447,6 +3465,12 @@
     "fqdn": "titaniagame.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2024-05-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tjsokolmilicin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
