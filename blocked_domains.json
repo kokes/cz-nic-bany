@@ -66,6 +66,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "35728.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "357846.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-13",
@@ -120,6 +126,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "42708.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "54978.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "568138.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-13",
@@ -153,6 +171,18 @@
     "fqdn": "7marathon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-23",
+    "valid_to": null
+  },
+  {
+    "fqdn": "84551.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "85352.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -867,6 +897,12 @@
     "fqdn": "dekorativka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "denasitist.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -2061,6 +2097,12 @@
     "fqdn": "monados.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "monatura.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -3417,12 +3459,6 @@
     "fqdn": "stromky-stesti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "studio1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
