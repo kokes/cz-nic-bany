@@ -2100,12 +2100,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "monatura.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "monosoke.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
