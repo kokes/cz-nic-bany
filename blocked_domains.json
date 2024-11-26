@@ -552,6 +552,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "bfgh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bfgi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "bigbabiesclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-24",
@@ -1521,6 +1533,12 @@
     "fqdn": "hledamte.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hnonline.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-26",
     "valid_to": null
   },
   {
