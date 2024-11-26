@@ -2514,12 +2514,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pickleballzlin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "pizzerialavita.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2971,12 +2965,6 @@
   },
   {
     "fqdn": "revize-elektro-hromosvody.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "riggler.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
     "valid_to": null
