@@ -1740,6 +1740,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kodkapoints.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "koffee.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
