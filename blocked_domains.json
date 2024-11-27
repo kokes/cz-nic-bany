@@ -3576,6 +3576,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tokaworks.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "topcoder.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
