@@ -60,6 +60,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "32359.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "34140.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "356271.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-26",
@@ -162,9 +174,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "62004.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "71364.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "716130.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-28",
     "valid_to": null
   },
   {
