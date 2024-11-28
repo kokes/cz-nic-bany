@@ -3462,6 +3462,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "studio1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "studiomp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
