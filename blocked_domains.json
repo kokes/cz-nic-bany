@@ -1860,6 +1860,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "legalizacekonopi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "lekarnauzamkubucovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-07",
@@ -3486,6 +3492,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "svobodakonopi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "swiss-sendungsnummer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -3993,6 +4005,12 @@
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vizezmeny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-11-30",
     "valid_to": null
   },
   {
