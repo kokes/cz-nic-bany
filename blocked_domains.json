@@ -144,12 +144,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "43.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "54978.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
