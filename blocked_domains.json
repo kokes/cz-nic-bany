@@ -1668,12 +1668,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jspetrol.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "justmusic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -3645,12 +3639,6 @@
     "fqdn": "trackingnummer.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "true-love.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-22",
     "valid_to": null
   },
   {
