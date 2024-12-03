@@ -540,12 +540,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bd265.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "betbanner.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
