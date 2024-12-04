@@ -2004,6 +2004,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "marsalekmusic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "master-eshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
