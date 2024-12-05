@@ -1170,12 +1170,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dtmxsocks.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "dumanci.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
