@@ -1914,6 +1914,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "komikcast.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "kouzelnykram.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-08-30",
