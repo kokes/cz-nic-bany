@@ -834,6 +834,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "cmeng.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-07",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cmengineering.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "cnbrezervace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-05",
