@@ -1062,12 +1062,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dataselect.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "datatr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2013-07-12",
