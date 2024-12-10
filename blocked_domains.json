@@ -768,12 +768,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cobydupshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "coffeeboy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -975,12 +969,6 @@
     "fqdn": "dakont.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dameelektro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
     "valid_to": null
   },
   {
@@ -1758,12 +1746,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kouzelnykram.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "kra3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -1854,33 +1836,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "letemsvetemelektrem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "letterslately.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "levna-prodejna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "levnechytre.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "levnyklik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
     "valid_to": null
   },
   {
@@ -2076,12 +2034,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "matetodoma.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "mediciman.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -2217,18 +2169,6 @@
     "fqdn": "nadaceoldrichablazicka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nakupnikosicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nakupukral.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
     "valid_to": null
   },
   {
@@ -3234,12 +3174,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "silenstvinanetu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "simpujcka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
@@ -3267,12 +3201,6 @@
     "fqdn": "slavialax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slevoeshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2013-08-30",
     "valid_to": null
   },
   {
