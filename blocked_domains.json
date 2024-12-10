@@ -414,6 +414,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alura-stavebni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "andelnadeje.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
