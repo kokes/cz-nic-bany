@@ -1434,6 +1434,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bozenas-tasky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "bsla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
