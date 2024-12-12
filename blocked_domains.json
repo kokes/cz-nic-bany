@@ -4704,12 +4704,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vojtamisura.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "volleyteam.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-29",
