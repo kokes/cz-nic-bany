@@ -1530,12 +1530,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chyt.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "circularandco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-18",
@@ -2886,12 +2880,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mlauto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "modelcars.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
@@ -4119,12 +4107,6 @@
     "fqdn": "starinvest.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stastova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
     "valid_to": null
   },
   {
