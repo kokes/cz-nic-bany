@@ -1,5 +1,11 @@
 [
   {
+    "fqdn": "081.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "100mega-distr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-02",
@@ -4281,6 +4287,12 @@
     "fqdn": "testio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ticketswapper.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-14",
     "valid_to": null
   },
   {
