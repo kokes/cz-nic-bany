@@ -1542,6 +1542,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chrisantem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-16",
+    "valid_to": "2025-03-16"
+  },
+  {
     "fqdn": "circularandco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-18",
@@ -2602,6 +2608,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
     "valid_to": null
+  },
+  {
+    "fqdn": "ladirna.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-16",
+    "valid_to": "2025-03-16"
   },
   {
     "fqdn": "lakaibuty.cz",
