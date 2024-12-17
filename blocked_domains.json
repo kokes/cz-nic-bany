@@ -1746,6 +1746,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cordivaridesign.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "cotopaxiallpa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-27",
@@ -2076,6 +2082,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fdsdfff.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "festivaldvaraka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
@@ -2394,9 +2406,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "image.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "intimissimi-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "inveniomedia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
     "valid_to": null
   },
   {
@@ -2907,6 +2931,12 @@
     "fqdn": "megamail.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mertova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
     "valid_to": null
   },
   {
