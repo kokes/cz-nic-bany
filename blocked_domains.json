@@ -1212,6 +1212,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ankercz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "aplikacenamobil.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -2943,6 +2949,18 @@
     "fqdn": "monosoke.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbet-app-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbet-cz-login.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-17",
     "valid_to": null
   },
   {
