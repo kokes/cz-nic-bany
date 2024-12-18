@@ -1104,12 +1104,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "advokatka-jankova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "affinity01fcu-sec01ure.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
