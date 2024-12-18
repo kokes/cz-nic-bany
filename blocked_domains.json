@@ -1776,6 +1776,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "czechapartmanvir.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "czechorigin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -1809,6 +1815,12 @@
     "fqdn": "denasitist.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dermapure.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-18",
     "valid_to": null
   },
   {
@@ -2706,6 +2718,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lidovatvorba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "lifoxy10.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
@@ -3249,6 +3267,12 @@
     "fqdn": "optmail-box.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "orsay-eshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-18",
     "valid_to": null
   },
   {
