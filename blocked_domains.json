@@ -2538,6 +2538,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "kamery-domu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kamerydomu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "kantei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
@@ -2553,6 +2565,12 @@
     "fqdn": "katalogholek.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "keletfve.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-19",
     "valid_to": null
   },
   {
