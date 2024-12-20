@@ -3576,6 +3576,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ptes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "pujcovnalodiluznice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -4197,12 +4203,6 @@
     "fqdn": "stromky-stesti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "studio1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-20",
     "valid_to": null
   },
   {
