@@ -4386,6 +4386,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tripscan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "tstop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
