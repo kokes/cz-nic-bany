@@ -2556,6 +2556,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kashi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "katalogholek.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
