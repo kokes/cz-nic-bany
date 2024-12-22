@@ -1398,6 +1398,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bilibili.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "binancezh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
