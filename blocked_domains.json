@@ -3024,6 +3024,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mnisek-lbc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "modnisleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
