@@ -2436,6 +2436,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "icecasino-slot.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "icecasino-win.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "icett.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -3355,6 +3367,12 @@
   },
   {
     "fqdn": "petroglyfarka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pinup-slot.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-24",
     "valid_to": null
@@ -4887,6 +4905,12 @@
     "fqdn": "whippedcream.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "winspark.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
