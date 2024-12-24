@@ -666,6 +666,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "5ra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "61954.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -1251,6 +1257,18 @@
     "fqdn": "arcplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "arisu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "artarka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
@@ -2298,6 +2316,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "harthova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "harun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -3327,6 +3351,12 @@
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "petroglyfarka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
@@ -4509,6 +4539,12 @@
     "fqdn": "ubytovnauzavodiste.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uctoversum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
