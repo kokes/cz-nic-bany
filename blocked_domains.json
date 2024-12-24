@@ -2088,6 +2088,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "ezviz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ezvizlife.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "fairlandigarden.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2469,6 +2481,12 @@
     "fqdn": "image.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "insane.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
