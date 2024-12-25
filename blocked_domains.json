@@ -4296,12 +4296,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sun-off.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "super-mario.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
