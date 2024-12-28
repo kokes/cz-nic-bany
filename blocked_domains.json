@@ -1800,6 +1800,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cr-trade.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "ctyrkolky-ostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -3213,6 +3219,12 @@
     "fqdn": "nocnipodniky.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novak-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-28",
     "valid_to": null
   },
   {
