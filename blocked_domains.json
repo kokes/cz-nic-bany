@@ -1116,12 +1116,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "aclassic.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "activebloom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-04",
@@ -2310,12 +2304,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gomate.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "grandhotelmozart.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-12-05",
@@ -3135,12 +3123,6 @@
     "fqdn": "mynavy-0nline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nabytekprim.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
     "valid_to": null
   },
   {
@@ -4803,12 +4785,6 @@
     "fqdn": "villaplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vinochrastek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-12-20",
     "valid_to": null
   },
   {
