@@ -2184,12 +2184,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fotofilip.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "fragolaproject.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2722,6 +2716,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-16",
     "valid_to": "2025-03-16"
+  },
+  {
+    "fqdn": "ladislavmartinek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-30",
+    "valid_to": null
   },
   {
     "fqdn": "lakaibuty.cz",
