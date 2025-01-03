@@ -2310,6 +2310,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "harthova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "harun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -3033,6 +3039,12 @@
     "fqdn": "michalkovardluzi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-07-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mlauto.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-03",
     "valid_to": null
   },
   {
