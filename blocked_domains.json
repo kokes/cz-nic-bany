@@ -3042,12 +3042,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mlauto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "modnidumpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-31",
