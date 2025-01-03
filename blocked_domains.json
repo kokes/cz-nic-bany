@@ -2460,12 +2460,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "insane.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "intimissimi-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-06",
@@ -2514,6 +2508,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "jiridrevo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-18",
@@ -2529,6 +2529,18 @@
     "fqdn": "jndk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johann-hochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johannhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-03",
     "valid_to": null
   },
   {
