@@ -2202,12 +2202,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gardenhub.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "getfluence.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
@@ -2673,12 +2667,6 @@
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "koumando.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
@@ -3927,12 +3915,6 @@
     "fqdn": "schroeter.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sciencein.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
     "valid_to": null
   },
   {
