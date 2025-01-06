@@ -2688,12 +2688,6 @@
     "valid_to": "2025-03-16"
   },
   {
-    "fqdn": "ladislavmartinek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "lakaibuty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
