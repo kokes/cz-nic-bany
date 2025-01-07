@@ -1800,12 +1800,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "czechapartmanvir.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "czechorigin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
@@ -4059,6 +4053,12 @@
     "fqdn": "seznamka69.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sg-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-07",
     "valid_to": null
   },
   {
