@@ -1362,6 +1362,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bd265.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "bezheureky.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2016-12-05",
