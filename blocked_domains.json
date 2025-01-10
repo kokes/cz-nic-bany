@@ -1848,6 +1848,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dfyne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "digitalinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2496,6 +2502,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "jiridrevo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-18",
@@ -2511,6 +2523,18 @@
     "fqdn": "jndk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johann-hochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "johannhochreiter.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-10",
     "valid_to": null
   },
   {
