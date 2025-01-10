@@ -2892,12 +2892,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "map-breclavsko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "map-eng.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
