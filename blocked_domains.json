@@ -1177,9 +1177,9 @@
   },
   {
     "fqdn": "aktivace-uctu.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-12-12",
-    "valid_to": "2025-01-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2024-12-27",
+    "valid_to": null
   },
   {
     "fqdn": "aktualreality.cz",
