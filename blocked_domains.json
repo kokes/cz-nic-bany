@@ -2886,6 +2886,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "majordomusbrno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "mammutcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-27",
