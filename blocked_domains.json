@@ -1188,6 +1188,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aktivace-cnb.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-01-15",
+    "valid_to": "2025-02-15"
+  },
+  {
     "fqdn": "aktivace-uctu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-27",
