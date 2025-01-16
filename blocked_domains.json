@@ -2448,12 +2448,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "galerie-kodl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "gameforge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-06",
@@ -3714,18 +3708,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nadaceoblazicka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nadaceoldrichablazicka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "nalepnazed.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3846,12 +3828,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "oblazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "odevy-seiler.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3867,18 +3843,6 @@
     "fqdn": "okmovement.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "oldrich-blazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "oldrichblazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
     "valid_to": null
   },
   {
@@ -5055,30 +5019,6 @@
     "fqdn": "solovairpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "soupis-blazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "soupisblazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "soupisoblazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "soupisoldrichblazicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-09",
     "valid_to": null
   },
   {
