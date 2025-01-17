@@ -2388,18 +2388,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "flex-lease.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "flexlease.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "fmovies.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
