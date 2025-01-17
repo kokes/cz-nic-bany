@@ -3258,12 +3258,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lidovatvorba.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "lidskevlasy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3363,12 +3357,6 @@
     "fqdn": "login-security-protect-team.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "loli.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-06",
     "valid_to": null
   },
   {
