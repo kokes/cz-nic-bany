@@ -1320,12 +1320,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "artwise.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "ashia2.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2024-06-17",
