@@ -1698,6 +1698,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "chatgptbot4.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "chatgptbot.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "chemie-shop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
