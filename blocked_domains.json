@@ -5106,6 +5106,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "superlove.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-01-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "super-mario.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
