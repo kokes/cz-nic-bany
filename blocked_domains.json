@@ -2244,12 +2244,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "euro-mont.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2023-09-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "evabar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3777,12 +3771,6 @@
     "fqdn": "nulickova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nununana.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-22",
     "valid_to": null
   },
   {
