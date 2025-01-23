@@ -2778,12 +2778,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "isstechn.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "italissima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -5733,12 +5727,6 @@
     "fqdn": "vonmariberg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vrablik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-23",
     "valid_to": null
   },
   {
