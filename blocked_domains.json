@@ -4770,12 +4770,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "seifert-melnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "seminar-crm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
