@@ -1866,12 +1866,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cr-trade.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "ctyrkolky-ostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
