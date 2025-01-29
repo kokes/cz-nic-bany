@@ -2544,12 +2544,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "helpdesk-user.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2024-02-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "heyi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3570,12 +3564,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mykjloon.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "mynavy-0nline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -3753,12 +3741,6 @@
     "fqdn": "oneractivecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "online-helpdesk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
