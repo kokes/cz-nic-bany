@@ -2280,12 +2280,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "firmchapelngo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "flexicall.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -4482,12 +4476,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "secure-09a-cha-logon.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "secure7c-help.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -4495,12 +4483,6 @@
   },
   {
     "fqdn": "secure8c-help.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "secure-authentication.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
     "valid_to": null
