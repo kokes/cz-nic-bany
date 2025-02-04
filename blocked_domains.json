@@ -2664,12 +2664,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ivansmetana.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2024-11-06",
-    "valid_to": "2025-02-07"
-  },
-  {
     "fqdn": "ixosafe.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2015-09-17",
