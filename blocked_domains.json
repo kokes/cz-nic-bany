@@ -1134,12 +1134,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ajosvatby.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "akcniplavby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
