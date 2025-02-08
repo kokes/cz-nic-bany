@@ -2178,18 +2178,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ezviz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ezvizlife.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "famaagentura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
