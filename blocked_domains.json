@@ -2418,6 +2418,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "heiduk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "help-desk7.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-02-22",
@@ -3327,6 +3333,12 @@
     "fqdn": "modnidumpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "modni-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-11",
     "valid_to": null
   },
   {
