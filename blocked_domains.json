@@ -2130,12 +2130,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "evabrikety.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-07-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "eveltas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-22",
