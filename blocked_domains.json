@@ -1722,12 +1722,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-my-acc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "com-search.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
