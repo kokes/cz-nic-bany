@@ -2046,6 +2046,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "elvy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "embeco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -2841,6 +2847,12 @@
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kovo-rubes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-12",
     "valid_to": null
   },
   {
@@ -3807,6 +3819,12 @@
     "fqdn": "pizzeriapat-mat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plastmodel-msh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-12",
     "valid_to": null
   },
   {
