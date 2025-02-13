@@ -5292,6 +5292,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vnitrnikonto.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-02-13",
+    "valid_to": "2025-03-13"
+  },
+  {
     "fqdn": "vogelavos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
