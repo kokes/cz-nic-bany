@@ -1134,6 +1134,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ajosvatby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "akcniplavby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -2319,12 +2325,6 @@
     "fqdn": "gmpmix.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "godstimingisthebestministry.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
@@ -3579,12 +3579,6 @@
     "fqdn": "oneractivecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "onlinesecure-update.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
@@ -5205,12 +5199,6 @@
     "fqdn": "veronika-slavikova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vertnucro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
