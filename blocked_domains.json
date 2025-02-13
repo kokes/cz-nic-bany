@@ -1308,6 +1308,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "astrokruh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "aterapie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
@@ -3561,6 +3567,12 @@
     "fqdn": "okmovement.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "oldnavycz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-13",
     "valid_to": null
   },
   {
