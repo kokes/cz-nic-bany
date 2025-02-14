@@ -3570,6 +3570,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nununana.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "obcanu-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
