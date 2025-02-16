@@ -3420,12 +3420,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mtb-verifyme.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "mugee.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3681,12 +3675,6 @@
     "fqdn": "panweb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "parceldetails-tracktrace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
@@ -5247,12 +5235,6 @@
     "fqdn": "veronika-slavikova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vf-tm03.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-02-22",
     "valid_to": null
   },
   {
