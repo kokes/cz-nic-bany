@@ -1860,6 +1860,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "delafleur.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "delfinizol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -2385,6 +2391,12 @@
     "fqdn": "gtfckd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gymsharkshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-17",
     "valid_to": null
   },
   {
@@ -3990,6 +4002,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "profaro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -4089,6 +4107,12 @@
     "fqdn": "regulacehladu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rehabilitace-vrsovice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-17",
     "valid_to": null
   },
   {
@@ -4353,6 +4377,12 @@
     "fqdn": "rybaho.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "salinoukolemsveta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-17",
     "valid_to": null
   },
   {
