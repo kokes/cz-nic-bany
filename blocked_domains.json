@@ -3342,12 +3342,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "modni-praha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "modnisleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
