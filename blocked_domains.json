@@ -2142,6 +2142,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "evexracing.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "extremework.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -5469,6 +5475,12 @@
     "fqdn": "ytoo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zachrankakv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-18",
     "valid_to": null
   },
   {
