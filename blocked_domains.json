@@ -2418,12 +2418,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "haowan.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "hcfood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-17",
