@@ -1626,6 +1626,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "casinko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "casino-mostbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-30",
@@ -1707,6 +1713,12 @@
     "fqdn": "ckband.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "codedynamics.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
     "valid_to": null
   },
   {
@@ -2502,6 +2514,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hryvegas.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "huhu-bamboo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -2745,6 +2763,12 @@
     "fqdn": "kashi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kasinko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
     "valid_to": null
   },
   {
@@ -3774,6 +3798,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pikpd.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "pinkmonkey.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -4740,6 +4770,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sugandho.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "super-mario.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
@@ -5181,6 +5217,12 @@
     "fqdn": "vcs1.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vegashry.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-19",
     "valid_to": null
   },
   {
