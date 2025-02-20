@@ -1602,6 +1602,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "campamento99.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "capatka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -2902,6 +2908,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-16",
     "valid_to": "2025-03-16"
+  },
+  {
+    "fqdn": "ladislavmartinek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-20",
+    "valid_to": null
   },
   {
     "fqdn": "laebax.cz",
