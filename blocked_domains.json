@@ -2220,6 +2220,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "frumzicasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "furniture1.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -3354,6 +3360,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nominicasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "novak-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-28",
@@ -3831,6 +3843,12 @@
     "fqdn": "quordlepuzzles.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rabona-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-21",
     "valid_to": null
   },
   {
@@ -5067,6 +5085,12 @@
     "fqdn": "vzpominka1968.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wazamba-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-21",
     "valid_to": null
   },
   {
