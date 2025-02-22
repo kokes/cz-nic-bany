@@ -3090,12 +3090,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "map-logs.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "maps-open.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
