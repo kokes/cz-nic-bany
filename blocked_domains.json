@@ -2448,6 +2448,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idnesekonomika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "id-rb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-04-30",
@@ -3354,6 +3360,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinkykrimi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyosportu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "nulickova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
@@ -3735,6 +3753,12 @@
     "fqdn": "primasexshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "printstar7.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-25",
     "valid_to": null
   },
   {
