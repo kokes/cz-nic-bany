@@ -1,5 +1,11 @@
 [
   {
+    "fqdn": "064566.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "081.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-14",
@@ -18,9 +24,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "11562.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "11871.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "123movies4u.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-27",
     "valid_to": null
   },
   {
@@ -4557,6 +4575,12 @@
     "fqdn": "zdenkastysova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zhjxpc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-02-27",
     "valid_to": null
   },
   {
