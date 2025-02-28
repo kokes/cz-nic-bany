@@ -2214,12 +2214,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kovo-rubes.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "kra3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
