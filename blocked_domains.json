@@ -1152,12 +1152,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "altazar.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2024-11-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "alter-med.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-26",
@@ -2805,12 +2799,6 @@
     "fqdn": "pizzeriapat-mat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "plastmodel-msh.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-12",
     "valid_to": null
   },
   {
