@@ -2076,12 +2076,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jetto-keramika.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "jezkovabouda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-22",
@@ -3213,12 +3207,6 @@
     "fqdn": "royalbait.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rozarka-turnov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-14",
     "valid_to": null
   },
   {
