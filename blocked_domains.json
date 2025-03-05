@@ -3360,12 +3360,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "sobosoft.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "solovairpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
