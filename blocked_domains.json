@@ -1674,12 +1674,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elektro-jih.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "ellybride.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-25",
