@@ -2418,12 +2418,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "map-za.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "mediciman.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -3429,12 +3423,6 @@
     "fqdn": "super-mario.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "svobodakonopi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-30",
     "valid_to": null
   },
   {
