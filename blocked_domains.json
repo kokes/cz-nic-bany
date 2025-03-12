@@ -3954,6 +3954,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zhavenoci.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
