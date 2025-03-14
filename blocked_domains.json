@@ -2046,6 +2046,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "iij.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "inzerce-zdarma.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -2388,6 +2394,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lunakmartin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "luznicelode.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-07",
@@ -2673,6 +2685,12 @@
     "fqdn": "oneractivecz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-07",
+    "valid_to": null
+  },
+  {
+    "fqdn": "osiriscz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
@@ -3507,6 +3525,12 @@
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tiskova-reseni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
