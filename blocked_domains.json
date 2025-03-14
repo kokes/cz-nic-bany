@@ -1854,12 +1854,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fajnveci.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "famaagentura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2673,12 +2667,6 @@
     "fqdn": "music-promotion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "naex.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
