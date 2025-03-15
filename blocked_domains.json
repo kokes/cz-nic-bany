@@ -1248,6 +1248,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autoplace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1935,6 +1941,12 @@
     "fqdn": "gameforge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gdprbezobav.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-15",
     "valid_to": null
   },
   {
