@@ -390,18 +390,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "3daktivace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "3dbezpeci24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "40278.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -1155,12 +1143,6 @@
     "fqdn": "alter-med.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "alura-stavebni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-10",
     "valid_to": null
   },
   {
@@ -2280,12 +2262,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lada-nerudova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "ladirna.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
@@ -2409,12 +2385,6 @@
     "fqdn": "lifoxy9.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "linabellovicova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
@@ -2787,12 +2757,6 @@
     "fqdn": "outdoorresearchrukavice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "panweb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
@@ -3792,6 +3756,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ufac4.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "uhozy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
@@ -3891,12 +3861,6 @@
     "fqdn": "veronaplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "veronika-slavikova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-18",
     "valid_to": null
   },
   {
