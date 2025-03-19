@@ -1416,6 +1416,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cnb-security.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-03-19",
+    "valid_to": "2025-04-19"
+  },
+  {
     "fqdn": "codedynamics.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
