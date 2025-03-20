@@ -1386,12 +1386,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chatarajnochovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "chatgptbot4.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-21",
