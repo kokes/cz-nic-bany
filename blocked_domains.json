@@ -2004,6 +2004,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "jasyko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "jasykodokument.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "jezkovabouda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-22",
@@ -3309,6 +3321,12 @@
     "fqdn": "strechybicenc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "studiojasyko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-22",
     "valid_to": null
   },
   {
