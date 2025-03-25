@@ -2214,6 +2214,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "libira.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "lifoxy10.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
@@ -2703,6 +2709,12 @@
     "fqdn": "pizzeriapat-mat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plastickachirurgieturecko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-25",
     "valid_to": null
   },
   {
@@ -3555,12 +3567,6 @@
     "fqdn": "tyerdew.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ubellagency.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
