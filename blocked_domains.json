@@ -2382,6 +2382,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "melanotanbutiken.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "mertova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-17",
