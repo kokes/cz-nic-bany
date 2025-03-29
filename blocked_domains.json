@@ -1362,6 +1362,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "capitaldns.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "carharttpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -1569,6 +1575,12 @@
     "fqdn": "discoveryplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "divalko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-29",
     "valid_to": null
   },
   {
@@ -2511,6 +2523,12 @@
     "fqdn": "namasaz.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "name-server.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-29",
     "valid_to": null
   },
   {
@@ -3903,6 +3921,12 @@
     "fqdn": "xccds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xcg.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-29",
     "valid_to": null
   },
   {
