@@ -3774,12 +3774,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vizezmeny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "vlcizona.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
