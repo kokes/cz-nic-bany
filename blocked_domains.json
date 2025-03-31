@@ -2382,12 +2382,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "majordomusbrno.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "mamevizi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
@@ -2559,12 +2553,6 @@
     "fqdn": "nbastorepraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nctb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-20",
     "valid_to": null
   },
   {
