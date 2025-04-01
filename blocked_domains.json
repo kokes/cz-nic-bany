@@ -1200,6 +1200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autoplace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1341,12 +1347,6 @@
     "fqdn": "ca-elmar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "cafekampus.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -1677,12 +1677,6 @@
     "fqdn": "elvy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "emustang.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -2019,12 +2013,6 @@
     "fqdn": "idrezervace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "investicnipenezenka.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -2436,12 +2424,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "modernieshop.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "modnidumpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-31",
@@ -2487,12 +2469,6 @@
     "fqdn": "mostbet-prihlaseni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mothers.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -2547,12 +2523,6 @@
     "fqdn": "nbastorepraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nejenkrasna.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -2787,12 +2757,6 @@
     "fqdn": "pohlaviditete.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "polocas.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
@@ -3546,12 +3510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tvorimestranky.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "tyerdea.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
@@ -3855,12 +3813,6 @@
     "fqdn": "whippedcream.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "winrar.cz",
-    "reason": "ostatní",
-    "valid_from": "2025-03-28",
     "valid_to": null
   },
   {
