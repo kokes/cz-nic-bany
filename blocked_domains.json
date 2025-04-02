@@ -1452,19 +1452,7 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-search.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "com-secure.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "coms-search.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
     "valid_to": null
@@ -1791,12 +1779,6 @@
     "fqdn": "filmovyguru.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fmovies.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
     "valid_to": null
   },
   {
