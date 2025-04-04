@@ -1116,12 +1116,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "alkola.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "aloyogapraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-27",
