@@ -1242,6 +1242,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "baoliba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "barberjobs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -1371,6 +1377,12 @@
     "fqdn": "cam4bucks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "caopispoodri.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-05",
     "valid_to": null
   },
   {
@@ -3837,6 +3849,12 @@
     "fqdn": "wellensteynbunda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wget.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-05",
     "valid_to": null
   },
   {
