@@ -1524,18 +1524,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "czechstageorganization.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czechstagetechnology.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "dekorativka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -1671,12 +1659,6 @@
     "fqdn": "elektromobil-dotace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ellybride.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-25",
     "valid_to": null
   },
   {
