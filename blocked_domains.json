@@ -1128,6 +1128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "amf-czech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "antiques.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -1437,6 +1443,12 @@
     "fqdn": "circularandco.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-06-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "clktabor.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
     "valid_to": null
   },
   {
@@ -2718,6 +2730,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "plantsimulation.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "plastickachirurgieturecko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-25",
@@ -3282,6 +3300,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "siemens-plm.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "signed-in.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
@@ -3291,6 +3315,12 @@
     "fqdn": "signs-in.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skalickaryby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
     "valid_to": null
   },
   {
@@ -3351,6 +3381,18 @@
     "fqdn": "startupventures.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stepstav.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "steptechnik.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
     "valid_to": null
   },
   {
@@ -3927,6 +3969,12 @@
     "fqdn": "zlinshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zotavovna-pracov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-08",
     "valid_to": null
   },
   {
