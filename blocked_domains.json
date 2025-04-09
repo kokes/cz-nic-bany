@@ -1464,18 +1464,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "com-help.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "com-secure.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "coms-signal.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
