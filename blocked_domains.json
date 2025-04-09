@@ -1836,6 +1836,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gegcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "gentless.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
@@ -2358,6 +2364,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "malesickyhaj.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "mamevizi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
@@ -2523,6 +2535,12 @@
     "fqdn": "nejsluzba.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "neonatology.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-09",
     "valid_to": null
   },
   {
@@ -2835,6 +2853,12 @@
     "fqdn": "printstar7.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prirodni-leciva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-09",
     "valid_to": null
   },
   {
