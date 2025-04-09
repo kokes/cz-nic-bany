@@ -3180,12 +3180,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "seho.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "serialiky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
