@@ -2377,9 +2377,9 @@
   },
   {
     "fqdn": "m-fio.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-03-11",
-    "valid_to": "2025-04-11"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-03-26",
+    "valid_to": null
   },
   {
     "fqdn": "michaelkorspraha.cz",
