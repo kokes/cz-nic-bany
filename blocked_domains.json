@@ -2010,6 +2010,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "janabudarova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "jezkovabouda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-22",
@@ -3789,6 +3795,12 @@
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vizezmeny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
     "valid_to": null
   },
   {
