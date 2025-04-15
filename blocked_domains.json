@@ -2340,6 +2340,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "majordomusbrno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "malesickyhaj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
