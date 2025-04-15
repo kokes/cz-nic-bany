@@ -3150,6 +3150,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rozhledna-kovarka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "rr01.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3381,6 +3387,18 @@
     "fqdn": "startupventures.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stepstav.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "steptechnik.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-15",
     "valid_to": null
   },
   {
