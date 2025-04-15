@@ -3954,12 +3954,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "zotavovna-pracov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "zoufalstvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-14",
