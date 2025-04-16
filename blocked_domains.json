@@ -1938,12 +1938,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hrbacek-kovani.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "hryvegas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
@@ -2607,12 +2601,6 @@
     "fqdn": "numerolife.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nuovaenergia.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-04",
     "valid_to": null
   },
   {
