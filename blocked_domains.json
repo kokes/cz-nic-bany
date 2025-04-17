@@ -2166,12 +2166,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kontaktni-cocky-eshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
@@ -2592,12 +2586,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nerozbitnesklenice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "newexpress.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-24",
@@ -2823,12 +2811,6 @@
     "fqdn": "plastickachirurgieturecko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "plastovesklenice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
