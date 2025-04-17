@@ -1140,6 +1140,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "antum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "aplikacenamobil.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -1161,6 +1167,12 @@
     "fqdn": "arisu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "artpel-mel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
@@ -1425,6 +1437,12 @@
     "fqdn": "ceskebeskydy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cestovnipojistka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
@@ -1782,6 +1800,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fltrading.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "forddorda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-23",
@@ -2136,6 +2160,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kontaktni-cocky-eshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
@@ -2313,12 +2343,6 @@
     "fqdn": "luciana.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lukasvecerka-photo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
@@ -2562,6 +2586,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nerozbitnesklenice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "newexpress.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-24",
@@ -2787,6 +2817,12 @@
     "fqdn": "plastickachirurgieturecko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plastovesklenice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
@@ -3207,6 +3243,12 @@
     "fqdn": "rr01.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rskconsultplus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
@@ -3759,6 +3801,12 @@
     "fqdn": "vacantes.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vahy-svec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-17",
     "valid_to": null
   },
   {
