@@ -2808,18 +2808,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "penzion-na-hvezde.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "penzionnahvezde.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "pepejeanspraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
