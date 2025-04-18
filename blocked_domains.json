@@ -1386,6 +1386,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "capability.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "capatka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -1431,6 +1437,12 @@
     "fqdn": "casinomostbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-30",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ccholding.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -1590,6 +1602,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dnmcompany.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "dominy.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1653,6 +1671,12 @@
     "fqdn": "dumkamenu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dvere-do-mokra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -2166,6 +2190,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "konopi-izolace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
@@ -2181,6 +2211,12 @@
     "fqdn": "kra3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kral-ges.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -2229,6 +2265,18 @@
     "fqdn": "latkyjano.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lavicky-hokej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lavicky-sportoviste.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -2517,6 +2565,18 @@
     "fqdn": "music-promotion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "my-doma.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mydoma.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -2874,6 +2934,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "postavme-dum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "pouziteiphony.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
@@ -2901,6 +2967,12 @@
     "fqdn": "premyslraban.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prevlekaci-kabiny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -3264,6 +3336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rytr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "salinoukolemsveta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-17",
@@ -3426,6 +3504,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "skolni-skrinky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "skrinky-na-cennosti.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "slavialax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3516,6 +3606,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "taima-tabor.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "talentdesignu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-07",
@@ -3585,6 +3681,12 @@
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tiset.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
@@ -3978,6 +4080,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "wireman.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "wolverinebunda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -4047,6 +4155,12 @@
     "fqdn": "zasvobodnevysokeskoly.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zazemi-sportovist.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
