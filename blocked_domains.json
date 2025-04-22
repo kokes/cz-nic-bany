@@ -1458,12 +1458,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ccholding.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "ceskebeskydy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
@@ -1551,12 +1545,6 @@
     "fqdn": "credit4life.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "csadcl.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
