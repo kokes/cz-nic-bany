@@ -2808,12 +2808,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nx.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "obcanu-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
@@ -3573,12 +3567,6 @@
     "fqdn": "shop-lidl.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "siemens-plm.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-08",
     "valid_to": null
   },
   {
