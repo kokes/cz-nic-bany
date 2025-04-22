@@ -1218,6 +1218,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autokorner.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1533,6 +1539,12 @@
     "fqdn": "credit4life.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "csadcl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -1998,9 +2010,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "hphservis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "hryvegas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hss-schmied.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -2115,6 +2139,12 @@
     "fqdn": "kadernictvifontana.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kaltservis.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -2721,6 +2751,12 @@
     "fqdn": "obcanu-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "oborny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -3939,6 +3975,12 @@
     "fqdn": "v-investor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vipforyou.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
