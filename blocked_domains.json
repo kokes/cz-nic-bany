@@ -1188,12 +1188,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "arpex.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "artpel-mel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -1722,6 +1716,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dvere-vrata.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "eccoobuv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -2208,12 +2208,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kaltservis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "kamagrakoupit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-01",
@@ -2319,6 +2313,12 @@
     "fqdn": "kovo-rubes.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kovove-dvere.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -2814,6 +2814,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "northstav.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "novak-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-28",
@@ -2838,6 +2844,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nx.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "obcanu-mpsv.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-12-02",
@@ -2845,6 +2857,12 @@
   },
   {
     "fqdn": "oborny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ocelove-dvere.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
     "valid_to": null
@@ -3078,6 +3096,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pozarni-dvere.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "pracujvnemecku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
@@ -3183,6 +3207,12 @@
     "fqdn": "pronajem-privesy-prodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "protipozarni-dvere.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -3648,13 +3678,13 @@
     "valid_to": "2025-04-25"
   },
   {
-    "fqdn": "solar-technik.cz",
+    "fqdn": "solid-edge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
-    "fqdn": "solartechnik.cz",
+    "fqdn": "solidedge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
     "valid_to": null
@@ -3666,15 +3696,15 @@
     "valid_to": null
   },
   {
-    "fqdn": "soulee.cz",
+    "fqdn": "sopa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
-    "fqdn": "spmasek.cz",
+    "fqdn": "soulee.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
+    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
@@ -3780,6 +3810,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tecnimetal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "tecovasbootsstore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -3849,6 +3885,12 @@
     "fqdn": "tjsokolmilicin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tom-stolarstvi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -4086,6 +4128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "velocity.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "vemhodohuby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -4311,6 +4359,12 @@
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zlinreal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
