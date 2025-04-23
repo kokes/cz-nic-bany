@@ -2484,12 +2484,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "majordomusbrno.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "malesickyhaj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
@@ -2631,18 +2625,6 @@
     "fqdn": "music-promotion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "my-doma.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mydoma.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
