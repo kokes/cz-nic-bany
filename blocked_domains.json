@@ -1848,12 +1848,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "flexoprint.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "fltrading.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -1863,12 +1857,6 @@
     "fqdn": "forddorda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-23",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fotonaporcelanu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -2769,12 +2757,6 @@
     "fqdn": "nominicasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "northstav.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
@@ -3795,12 +3777,6 @@
     "fqdn": "tjsokolmilicin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tom-stolarstvi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
