@@ -2040,6 +2040,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id-24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-04-23",
+    "valid_to": "2025-05-23"
+  },
+  {
     "fqdn": "idnesekonomika.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
@@ -2763,6 +2769,12 @@
     "fqdn": "numerolife.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nuovaenergia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-23",
     "valid_to": null
   },
   {
