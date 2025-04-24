@@ -2394,12 +2394,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kopemezavas.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
@@ -2940,12 +2934,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "north-dent.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "novak-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-28",
@@ -2985,6 +2973,12 @@
     "fqdn": "ocelove-dvere.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "okrasna-zahrada.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
@@ -3834,6 +3828,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "spinsofglory.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "stanislavs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-01",
@@ -3873,6 +3873,18 @@
     "fqdn": "stranadost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stream-cinema.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "streamcinema.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
@@ -4485,6 +4497,12 @@
     "fqdn": "zerozyro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zhavenoci.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
