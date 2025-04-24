@@ -1284,6 +1284,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "balkan-car.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "bankovnigarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
@@ -2949,6 +2955,18 @@
     "fqdn": "novinkyosportu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyprimo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkytop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
