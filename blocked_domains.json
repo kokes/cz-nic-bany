@@ -1200,6 +1200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "artesia.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "artpel-mel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -1441,6 +1447,12 @@
   },
   {
     "fqdn": "camaradio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "camaro-kolie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
     "valid_to": null
@@ -2151,6 +2163,12 @@
     "fqdn": "heiduk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "heunisch-guss.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
@@ -3894,10 +3912,16 @@
     "valid_to": null
   },
   {
+    "fqdn": "smarteconomic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "smart-fio.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-03-25",
-    "valid_to": "2025-04-25"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-09",
+    "valid_to": null
   },
   {
     "fqdn": "smrtsparte.cz",
@@ -4095,6 +4119,36 @@
     "fqdn": "tesit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "test1-inizio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "test2-inizio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "test3-inizio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "test4-inizio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "test-inizio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
@@ -4611,6 +4665,12 @@
     "fqdn": "zazemi-sportovist.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zeraviny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
