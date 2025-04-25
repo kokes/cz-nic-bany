@@ -1524,12 +1524,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cesketiskarny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "cestovnipojistka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -1611,12 +1605,6 @@
     "fqdn": "credit4life.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "credity.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
@@ -3306,12 +3294,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pradlolozni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "praguewalkingtour.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
@@ -4101,12 +4083,6 @@
     "fqdn": "teorie.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "teplepradlo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
