@@ -1104,6 +1104,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "adapteryskross.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "afrodita-seznamka.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -2298,6 +2304,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jcb-baterie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "jezkovabouda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-22",
@@ -2841,6 +2853,12 @@
     "fqdn": "mtabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mujdyson.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-26",
     "valid_to": null
   },
   {
@@ -3912,6 +3930,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "solight.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "solovairpraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-08-20",
@@ -4659,6 +4683,12 @@
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zkusdyson.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-26",
     "valid_to": null
   },
   {
