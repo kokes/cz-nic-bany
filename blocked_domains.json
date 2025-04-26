@@ -2232,12 +2232,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "id-rb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "idrezervace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-01",
@@ -3693,12 +3687,6 @@
     "fqdn": "rybolov-cestovani-norsko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rychlopis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
