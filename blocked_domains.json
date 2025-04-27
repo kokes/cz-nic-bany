@@ -1344,12 +1344,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bistrotdepapa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "bkgarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
