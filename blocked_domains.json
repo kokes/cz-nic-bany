@@ -1392,18 +1392,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bsla.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bsla-servis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "btea.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
@@ -1737,12 +1725,6 @@
     "fqdn": "drevniky-stojany.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "drevoprodeje.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -3330,21 +3312,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "privesy-zaryby.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "prize-knoflicky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prodej-privesy-pujcovna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
@@ -3372,12 +3342,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pronajem-privesy-prodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "protipozarni-dvere.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
@@ -3399,12 +3363,6 @@
     "fqdn": "pujcovnalodiluznice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pujcovna-privesy-prodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
