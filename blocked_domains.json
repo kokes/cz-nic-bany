@@ -1578,12 +1578,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bmsj.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "bnwebzh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -1825,12 +1819,6 @@
   },
   {
     "fqdn": "djhbx.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dnmcompany.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-29",
     "valid_to": null
@@ -2217,12 +2205,6 @@
     "fqdn": "haban.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hairsalon.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-23",
     "valid_to": null
   },
   {
@@ -3771,6 +3753,12 @@
     "fqdn": "startupventures.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stavebnipracesro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-29",
     "valid_to": null
   },
   {
