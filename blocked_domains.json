@@ -1476,6 +1476,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "autobahn-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "autokorner.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
@@ -1539,6 +1545,12 @@
     "fqdn": "bilibili.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bimi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
@@ -2310,6 +2322,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "instastyle.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "investzlato.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
@@ -2607,6 +2625,12 @@
     "fqdn": "lululemoncz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lumeo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
@@ -3912,6 +3936,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tlapka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "tnrce.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-29",
@@ -4062,6 +4092,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ultrahome.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "umbrail.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
@@ -4071,6 +4107,12 @@
     "fqdn": "umeleckysperk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "urbantrend.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
