@@ -1794,6 +1794,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "denebsoftware.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "dermapure.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -2697,6 +2703,12 @@
     "fqdn": "malesickyhaj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "malvinasoftwares.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
