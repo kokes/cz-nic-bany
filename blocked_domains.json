@@ -1410,12 +1410,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "anomalis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "antiques.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -3285,12 +3279,6 @@
     "fqdn": "quordlepuzzles.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rabona-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-21",
     "valid_to": null
   },
   {
