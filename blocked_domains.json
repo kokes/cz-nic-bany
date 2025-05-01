@@ -1554,12 +1554,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bilovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "bimi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
@@ -3807,18 +3801,6 @@
     "fqdn": "stranadost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stream-cinema.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "streamcinema.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
