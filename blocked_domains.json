@@ -1554,6 +1554,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bilovice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "bimi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
@@ -2478,6 +2484,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kosacek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "kovove-dvere.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
@@ -3315,6 +3327,12 @@
     "fqdn": "quordlepuzzles.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "qwerta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-01",
     "valid_to": null
   },
   {
