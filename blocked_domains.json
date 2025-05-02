@@ -1530,6 +1530,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bauboo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "bd265.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-09",
@@ -1683,12 +1689,6 @@
     "fqdn": "carhartt-wip.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "cartint.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-02",
     "valid_to": null
   },
   {
@@ -3795,6 +3795,12 @@
     "fqdn": "spinsofglory.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "srohned.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-02",
     "valid_to": null
   },
   {
