@@ -2316,12 +2316,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lululemoncz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "lumeo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
