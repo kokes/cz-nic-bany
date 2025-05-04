@@ -2742,12 +2742,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pavel-vecerek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "pavro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
