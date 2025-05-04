@@ -2406,18 +2406,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "minaretnet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "minaretsro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "mobilu-fio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-23",
