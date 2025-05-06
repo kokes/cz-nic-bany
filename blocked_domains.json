@@ -2040,6 +2040,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jcb-baterie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "jezkovabouda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-22",
@@ -2127,12 +2133,6 @@
     "fqdn": "koras.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kovo-rubes.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-06",
     "valid_to": null
   },
   {
