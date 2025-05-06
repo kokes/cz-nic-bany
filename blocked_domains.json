@@ -1140,12 +1140,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "arpex.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "artpel-mel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -1191,12 +1185,6 @@
     "fqdn": "autobahn-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "autokorner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
