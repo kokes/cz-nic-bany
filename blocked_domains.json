@@ -3408,18 +3408,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "strechy-olomouc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "strechyolomouc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "stussycz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-24",
