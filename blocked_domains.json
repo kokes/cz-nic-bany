@@ -1434,12 +1434,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "caserta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "casinko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
@@ -2643,12 +2637,6 @@
     "fqdn": "monados.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "monstery.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -3981,12 +3969,6 @@
     "fqdn": "tytety.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ubytovanimostecko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
