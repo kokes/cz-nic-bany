@@ -4200,12 +4200,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "weeb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "wget.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-05",
