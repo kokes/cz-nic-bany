@@ -2802,6 +2802,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "north-dent.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "novak-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-28",
