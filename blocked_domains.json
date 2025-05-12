@@ -1596,6 +1596,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "detskacek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "dfir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
