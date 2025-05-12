@@ -1686,12 +1686,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dvere-vrata.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "ecatech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
@@ -2280,12 +2274,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kovove-dvere.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "kra3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -2832,12 +2820,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ocelove-dvere.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "okrasna-zahrada.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
@@ -3018,12 +3000,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pozarni-dvere.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "praguewalkingtour.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
@@ -3123,12 +3099,6 @@
     "fqdn": "profizlatnik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "protipozarni-dvere.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
