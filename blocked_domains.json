@@ -1476,21 +1476,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "chongluadao.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "chrisantem.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "chsolutions.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -1539,12 +1527,6 @@
     "fqdn": "cyklokozelka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czechmobile.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -1605,12 +1587,6 @@
     "fqdn": "dfir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dienthoai.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -2082,12 +2058,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "icfix.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "id-24.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2025-04-23",
@@ -2442,12 +2412,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "luadao.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "luciana.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -2505,12 +2469,6 @@
     "fqdn": "martintabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "maytinh.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -3741,12 +3699,6 @@
     "fqdn": "testovanizdarma.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "thaitran.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
