@@ -1590,12 +1590,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dfir.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "digitalinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -1875,12 +1869,6 @@
     "fqdn": "ftmo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "furniture1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
