@@ -1974,6 +1974,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "grizzli.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "gymsharkshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-17",
