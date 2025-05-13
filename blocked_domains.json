@@ -1608,6 +1608,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dnmcompany.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "dominy.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -2253,6 +2259,12 @@
     "fqdn": "koucovani-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-07",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kovo-rubes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
