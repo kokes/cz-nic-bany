@@ -1074,6 +1074,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "aboutmebus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "afrodita-seznamka.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -1605,12 +1611,6 @@
     "fqdn": "discoveryplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dnmcompany.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
@@ -2430,6 +2430,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "linabellovicova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "logopedie-hrave.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-07",
@@ -2466,6 +2472,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "maidpro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "malesickyhaj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
@@ -2493,6 +2505,12 @@
     "fqdn": "martintabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "masopustostrava.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
@@ -2553,6 +2571,12 @@
     "fqdn": "modni-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-07",
+    "valid_to": null
+  },
+  {
+    "fqdn": "modrastuzka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
@@ -2997,6 +3021,12 @@
     "fqdn": "prazskecarodejnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "prdbus.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
@@ -4203,6 +4233,12 @@
     "fqdn": "zajistenydluhopis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zamudio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
