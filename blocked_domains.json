@@ -2154,12 +2154,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "izolinvest.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "jamax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-28",
@@ -3945,6 +3939,12 @@
     "fqdn": "ufac4.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ulajcmanu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-14",
     "valid_to": null
   },
   {
