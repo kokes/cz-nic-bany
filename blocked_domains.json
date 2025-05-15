@@ -1134,6 +1134,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "amiricz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "anomalis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-15",
@@ -2955,12 +2961,6 @@
     "fqdn": "postavme-dum.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pouziteiphony.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
     "valid_to": null
   },
   {
