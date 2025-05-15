@@ -1140,12 +1140,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "anomalis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "antiques.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -2610,12 +2604,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mosec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "mostbet-prihlaseni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-19",
@@ -3102,12 +3090,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pwnd.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
@@ -3369,12 +3351,6 @@
     "fqdn": "satanovaradost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "secop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-15",
     "valid_to": null
   },
   {
