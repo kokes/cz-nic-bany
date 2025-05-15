@@ -1368,18 +1368,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bsla.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bsla-servis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "bucake.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
@@ -1647,12 +1635,6 @@
     "fqdn": "drevenehrackyprodeti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "drevoprodeje.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
     "valid_to": null
   },
   {
@@ -3066,21 +3048,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "privesy-zaryby.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "proche-marek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prodej-privesy-pujcovna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
     "valid_to": null
   },
   {
@@ -3108,12 +3078,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pronajem-privesy-prodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "psychobunny-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
@@ -3129,12 +3093,6 @@
     "fqdn": "psychotherapy-prague.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pujcovna-privesy-prodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-12",
     "valid_to": null
   },
   {
