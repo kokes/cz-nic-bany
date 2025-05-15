@@ -3720,12 +3720,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "thholesov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "tiempoparcial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
