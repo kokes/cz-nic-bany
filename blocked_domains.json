@@ -1326,6 +1326,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bmsj.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "bnwebzh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -1629,6 +1635,12 @@
     "fqdn": "dr-inna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dsdpraktik.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
