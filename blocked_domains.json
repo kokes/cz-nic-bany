@@ -1332,12 +1332,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bmsj.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "bnwebzh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -1881,12 +1875,6 @@
     "fqdn": "filmporno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fitnessexpo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
     "valid_to": null
   },
   {
@@ -3144,12 +3132,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "prazskecarodejnice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "prdbus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-13",
@@ -4291,12 +4273,6 @@
   },
   {
     "fqdn": "volvocizek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "volvodilycizek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-01",
     "valid_to": null
