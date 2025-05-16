@@ -1380,6 +1380,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bylinkovaskolka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "ca-elmar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -2277,6 +2283,12 @@
     "fqdn": "laba.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "labik-grafika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
