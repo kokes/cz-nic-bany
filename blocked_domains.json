@@ -2850,12 +2850,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "newexpress.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "nezapomenkoupit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
