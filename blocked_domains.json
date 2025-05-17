@@ -2328,12 +2328,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kouzelnykratom.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "kovo-rubes.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-13",
@@ -2829,12 +2823,6 @@
     "fqdn": "nasex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nejlepsikratom.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-17",
     "valid_to": null
   },
   {
