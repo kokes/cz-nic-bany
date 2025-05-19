@@ -1266,12 +1266,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "93987.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "94821.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
