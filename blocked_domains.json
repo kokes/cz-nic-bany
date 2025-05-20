@@ -2016,12 +2016,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ecatech.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "edalinice.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2025-05-09",
