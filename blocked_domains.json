@@ -3048,6 +3048,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "meteouniqa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "m-fio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-26",
@@ -3132,6 +3138,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mojeuniqa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "mokexapp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-21",
@@ -3207,6 +3219,12 @@
     "fqdn": "my-security.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "myuniqa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-20",
     "valid_to": null
   },
   {
