@@ -600,12 +600,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "57614.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-10-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "5780c.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-13",
@@ -1518,12 +1512,6 @@
     "valid_to": "2025-06-19"
   },
   {
-    "fqdn": "codedynamics.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "cordivari.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-27",
@@ -1623,12 +1611,6 @@
     "fqdn": "digitalinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "discoveryplus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
     "valid_to": null
   },
   {
@@ -1923,12 +1905,6 @@
     "fqdn": "gegcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gentless.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-19",
     "valid_to": null
   },
   {
@@ -2928,12 +2904,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "oldnavycz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "oldtimercheck.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
@@ -3919,12 +3889,6 @@
   },
   {
     "fqdn": "topcoder.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "toxa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
     "valid_to": null
