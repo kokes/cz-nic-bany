@@ -2190,12 +2190,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jamax.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "janabudarova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-15",
@@ -2553,12 +2547,6 @@
     "fqdn": "mamevizi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "marekvyborny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
     "valid_to": null
   },
   {
