@@ -2118,12 +2118,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "janabudarova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "janzabrana.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -2427,12 +2421,6 @@
     "fqdn": "lunakmartin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lv1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
     "valid_to": null
   },
   {
@@ -3570,12 +3558,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "smrtsparte.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "sodastreamcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-14",
@@ -4113,12 +4095,6 @@
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2021-04-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vizezmeny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-15",
     "valid_to": null
   },
   {
