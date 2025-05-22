@@ -2646,12 +2646,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mosec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "mostbet-prihlaseni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-19",
