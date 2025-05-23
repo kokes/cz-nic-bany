@@ -1800,12 +1800,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "filmporno.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "fluttershy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
@@ -2035,9 +2029,9 @@
   },
   {
     "fqdn": "id-24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-04-23",
-    "valid_to": "2025-05-23"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-09",
+    "valid_to": null
   },
   {
     "fqdn": "idividendy.cz",
@@ -3699,12 +3693,6 @@
     "fqdn": "tau-ra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "techtronic.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2025-01-27",
     "valid_to": null
   },
   {
