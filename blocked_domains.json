@@ -3780,12 +3780,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tjsokolmilicin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "tlapka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
