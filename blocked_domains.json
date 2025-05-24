@@ -228,6 +228,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "28365.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "28476.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -657,6 +663,12 @@
     "fqdn": "62495.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "62599.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-24",
     "valid_to": null
   },
   {
@@ -4269,6 +4281,12 @@
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ziskat-ted.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-24",
     "valid_to": null
   },
   {
