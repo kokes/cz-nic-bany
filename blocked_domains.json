@@ -1932,6 +1932,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "funkcnipsycholog.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "funkcnipsychologie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "galecka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
