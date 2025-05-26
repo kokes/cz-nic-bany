@@ -1710,12 +1710,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dotaceproelektromobily.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "drakandroll.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
@@ -1773,12 +1767,6 @@
     "fqdn": "elektro-macha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "elektromobil-dotace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
@@ -2077,12 +2065,6 @@
   },
   {
     "fqdn": "happyhashing.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hashmasters.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
     "valid_to": null
