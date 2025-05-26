@@ -1692,6 +1692,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "digitale-vignette-online.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "digitalinvestments.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
