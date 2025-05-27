@@ -2088,12 +2088,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hleb.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "hledamte.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
