@@ -1314,12 +1314,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bagrking.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "balikovaci-lisy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -3447,12 +3441,6 @@
     "fqdn": "rttax.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rukavicovnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
