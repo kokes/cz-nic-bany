@@ -420,6 +420,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "3dpecka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "40278.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -771,6 +777,12 @@
     "fqdn": "65896.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "6.6.4.5.7.9.4.2.7.0.2.4.e164.arpa",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -1164,6 +1176,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "actionbox.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "advvz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-24",
@@ -1263,6 +1281,12 @@
     "fqdn": "ashia2.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2024-06-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "atletikaveseli.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -1641,6 +1665,12 @@
     "fqdn": "czgold.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "degustacemikulov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -2490,6 +2520,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lsstyle.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "luciana.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -2982,6 +3018,30 @@
     "valid_to": null
   },
   {
+    "fqdn": "ostroj-kariera.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ostrojkariera.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ostroj-technology.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ostrojtechnology.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "overlandstorage.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-29",
@@ -3024,9 +3084,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "pecka3d.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "peso-elektroniks.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -3075,6 +3147,12 @@
     "fqdn": "pneunebe.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-06-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pohostenivesklepemikulov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -3213,6 +3291,12 @@
     "fqdn": "prolaktin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pronikolku.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -3450,6 +3534,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "robertschonfeld.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "rodinnafotografie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
@@ -3627,6 +3717,18 @@
     "fqdn": "shop-lidl.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2017-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "singluj.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sklepuhroznu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -4179,6 +4281,12 @@
     "fqdn": "villaplus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vino-simak.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
