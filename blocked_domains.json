@@ -1692,12 +1692,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "denysglam.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "dermapure.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -3084,12 +3078,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pavel-vecerek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "pavro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -4347,12 +4335,6 @@
     "fqdn": "volnyvidea.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "volvocizek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
     "valid_to": null
   },
   {
