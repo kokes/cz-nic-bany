@@ -2928,6 +2928,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinky-krimi.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-05-29",
+    "valid_to": "2025-06-29"
+  },
+  {
     "fqdn": "novinkykrimi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
@@ -3057,6 +3063,12 @@
     "fqdn": "palivov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "paracentrum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
