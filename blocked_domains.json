@@ -1206,12 +1206,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "akcie-zbrojovky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "akifov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
@@ -2199,18 +2193,6 @@
     "fqdn": "iscene.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "it-rekvalifikace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "itrekvalifikace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
     "valid_to": null
   },
   {
