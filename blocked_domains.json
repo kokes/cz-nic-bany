@@ -4392,18 +4392,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "wowpodlahy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "wowsteny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "wowstropy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
@@ -4563,12 +4551,6 @@
     "fqdn": "zoufalstvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zrucny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
