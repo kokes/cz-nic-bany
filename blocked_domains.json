@@ -1662,6 +1662,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "darky4u.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "degustacemikulov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-29",
