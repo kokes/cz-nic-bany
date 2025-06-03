@@ -1452,6 +1452,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bylinkovyvesmir.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "ca-elmar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -1497,6 +1503,12 @@
     "fqdn": "carhartt-wip.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "carodejnysvet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-03",
     "valid_to": null
   },
   {
@@ -2001,6 +2013,12 @@
     "fqdn": "hledamte.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "homeopatieprozivot.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-03",
     "valid_to": null
   },
   {
