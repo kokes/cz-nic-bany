@@ -1902,6 +1902,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "furniture1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "galecka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -4335,12 +4341,6 @@
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ziskat-ted.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-24",
     "valid_to": null
   },
   {
