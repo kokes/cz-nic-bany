@@ -2022,6 +2022,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hairsalon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "happyhashing.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-14",
@@ -3528,6 +3534,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "saj-funky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "salinoukolemsveta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-17",
@@ -3777,6 +3789,12 @@
     "fqdn": "starinvest.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "staroboleveckahospudka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-05",
     "valid_to": null
   },
   {
@@ -4443,12 +4461,6 @@
     "fqdn": "zasvobodnevysokeskoly.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zavrelovafotografie.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
