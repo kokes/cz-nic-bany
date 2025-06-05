@@ -2916,12 +2916,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "onlinekartarka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "openhearttattoo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
