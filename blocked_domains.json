@@ -1890,6 +1890,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fotogeneze.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "fottea.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -4023,6 +4029,18 @@
     "fqdn": "ubytovanimostecko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uctosradosti.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-06",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uctoucto.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-06",
     "valid_to": null
   },
   {
