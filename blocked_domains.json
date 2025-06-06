@@ -1890,12 +1890,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fdout.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "fluttershy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
