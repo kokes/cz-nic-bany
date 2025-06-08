@@ -414,12 +414,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "3dpecka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "40278.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -3093,12 +3087,6 @@
     "fqdn": "pavro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pecka3d.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-08",
     "valid_to": null
   },
   {
