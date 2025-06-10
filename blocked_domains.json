@@ -2640,12 +2640,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "maidpro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "malesickyhaj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-09",
@@ -4695,12 +4689,6 @@
     "fqdn": "zlinreal.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlinshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-04",
     "valid_to": null
   },
   {
