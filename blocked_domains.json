@@ -2154,12 +2154,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "e-massa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "ergo-design.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3102,12 +3096,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mashina.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "masopustostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-13",
@@ -3816,12 +3804,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "profi-print.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -3915,12 +3897,6 @@
     "fqdn": "reklama69.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "reklamni-foto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
     "valid_to": null
   },
   {
@@ -4095,12 +4071,6 @@
     "fqdn": "rodinnafotografie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rodinne-portrety.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
     "valid_to": null
   },
   {
@@ -4521,12 +4491,6 @@
     "fqdn": "tejpuj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tenisarena.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
     "valid_to": null
   },
   {
@@ -4980,21 +4944,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "vstab.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "vyzvavedcu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "wagner-centrum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
     "valid_to": null
   },
   {
