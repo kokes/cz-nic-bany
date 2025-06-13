@@ -1668,6 +1668,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "barebellstycinky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "bauboo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-02",
@@ -3438,6 +3444,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinky-lifestyle.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "novinkyosportu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-25",
@@ -3459,6 +3471,18 @@
     "fqdn": "novinkytops.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinky-tyden.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinky-udalosti.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-13",
     "valid_to": null
   },
   {
