@@ -1698,12 +1698,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bevlava.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "bezheureky.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2016-12-05",
@@ -2214,12 +2208,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "evdoctor.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "eveltas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-22",
@@ -2229,12 +2217,6 @@
     "fqdn": "evexracing.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "evmedic.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
@@ -3855,12 +3837,6 @@
     "fqdn": "rangersband.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "reaktivaceairbagjednotek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-13",
     "valid_to": null
   },
   {
