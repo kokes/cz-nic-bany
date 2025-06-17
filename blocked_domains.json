@@ -1950,6 +1950,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "cviceniblackout.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cviceniskatkou.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "cyklokozelka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
@@ -2445,6 +2457,12 @@
     "fqdn": "hryvegas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hubnutiacviceni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-17",
     "valid_to": null
   },
   {
