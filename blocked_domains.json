@@ -204,12 +204,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "24-karatu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "25914.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -1752,24 +1746,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bohemianventures.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bohemiaventures.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bonusgold.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "borderland.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -1989,12 +1965,6 @@
     "fqdn": "czechbetcasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "czechventures.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
@@ -2220,12 +2190,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "expertgold.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "ezviz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-02",
@@ -2316,18 +2280,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gci.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gcinvest.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "gdprbezobav.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-15",
@@ -2352,51 +2304,15 @@
     "valid_to": null
   },
   {
-    "fqdn": "goldcapital.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "goldcapitalinvest.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "goldcentrum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "goldclearing.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
-    "fqdn": "goldenfuture.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "goldengamescasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "goldexpert.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "goldventures.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
@@ -2601,12 +2517,6 @@
     "fqdn": "instastyle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "investzlato.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
@@ -3147,18 +3057,6 @@
     "fqdn": "moje-bezpecnost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "moje-diamanty.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mojejistota.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
@@ -3750,21 +3648,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "profigold.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "profizlatnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
@@ -4662,12 +4548,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "umeleckysperk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "urbantrend.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
@@ -4998,12 +4878,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "zajistenydluhopis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "zamudio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-13",
@@ -5031,54 +4905,6 @@
     "fqdn": "zhjxpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatnictviostrava.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatoprofit.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatorychle.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatosbonusem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatoseziskem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatoskladem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatybonus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zlatykapital.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-09",
     "valid_to": null
   },
   {
