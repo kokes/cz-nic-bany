@@ -486,12 +486,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "3dpecka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "40278.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -2106,12 +2100,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "emreozenalp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "ergo-design.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3444,12 +3432,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pecka3d.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -3495,12 +3477,6 @@
     "fqdn": "plantsimulation.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "plastickachirurgieturecko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-18",
     "valid_to": null
   },
   {
