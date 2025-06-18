@@ -2106,6 +2106,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "emreozenalp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "ergo-design.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-22",
@@ -3489,6 +3495,12 @@
     "fqdn": "plantsimulation.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plastickachirurgieturecko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-18",
     "valid_to": null
   },
   {
