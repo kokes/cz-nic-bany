@@ -4356,6 +4356,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tones.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "topcoder.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-01",
