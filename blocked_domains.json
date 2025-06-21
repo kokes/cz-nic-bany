@@ -1578,12 +1578,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "astrolozkaonline.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
