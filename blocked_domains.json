@@ -3510,12 +3510,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "portalsvetla.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "postavme-dum.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
@@ -4207,12 +4201,6 @@
   },
   {
     "fqdn": "stream-cinema.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "streamcinema.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-15",
     "valid_to": null
