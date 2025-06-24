@@ -1626,6 +1626,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "balikovaci-lisy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "bankovnigarance.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
@@ -2109,6 +2115,12 @@
     "fqdn": "elektro-macha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "elkoplastpartners.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
@@ -3171,6 +3183,12 @@
     "fqdn": "mzss.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nadrze-na-naftu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
