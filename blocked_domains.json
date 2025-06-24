@@ -1680,6 +1680,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "betonred1.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "betonred-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "bezheureky.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2016-12-05",
@@ -1914,6 +1926,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cosvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "country-ahoj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -1944,6 +1962,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cz-betonred.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "czechbetcasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
@@ -1953,6 +1977,12 @@
     "fqdn": "czgold.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cz-parimatch.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
@@ -3390,6 +3420,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "parimatch2.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "parimatchcz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "patagonia-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-27",
@@ -4701,6 +4743,12 @@
     "fqdn": "wedme.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "westcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
