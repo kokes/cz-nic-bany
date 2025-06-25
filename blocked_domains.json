@@ -486,6 +486,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "3dpecka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "40278.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -2256,6 +2262,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "fios-ib.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "fios-sib.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "fljmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-11",
@@ -3480,6 +3498,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pecka3d.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "pervers.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -3705,12 +3729,6 @@
     "fqdn": "rabona-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "radeks.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-07",
     "valid_to": null
   },
   {
