@@ -2742,12 +2742,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "laserta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "lasocial.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-20",
