@@ -2862,12 +2862,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lsstyle.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "luciana.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
