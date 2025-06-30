@@ -4596,12 +4596,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "novagen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "novak-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-28",
@@ -4665,12 +4659,6 @@
     "fqdn": "numerografie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "numerografka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
     "valid_to": null
   },
   {
