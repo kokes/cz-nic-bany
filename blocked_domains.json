@@ -3336,6 +3336,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id-mfcr.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-07-04",
+    "valid_to": "2025-08-04"
+  },
+  {
     "fqdn": "idmfcr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-07-03",
