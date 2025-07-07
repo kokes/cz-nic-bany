@@ -5946,6 +5946,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "svantnerm.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "svoboda-autoskola.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
