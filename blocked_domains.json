@@ -1320,12 +1320,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "86540.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-05-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "866957.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-11",
@@ -5661,12 +5655,6 @@
     "fqdn": "seznamka69.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sg-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-07",
     "valid_to": null
   },
   {
