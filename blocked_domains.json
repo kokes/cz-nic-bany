@@ -2364,6 +2364,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cos-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "cosvyprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-24",
@@ -4174,6 +4180,12 @@
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2025-06-24",
     "valid_to": "2025-07-24"
+  },
+  {
+    "fqdn": "mfcrbo.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-07-07",
+    "valid_to": "2025-08-07"
   },
   {
     "fqdn": "m-fio.cz",
