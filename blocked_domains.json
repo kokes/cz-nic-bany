@@ -2364,6 +2364,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "edallinice.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-07-08",
+    "valid_to": "2025-08-08"
+  },
+  {
     "fqdn": "edalnices.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-29",
@@ -4332,6 +4338,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "optom.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "ordinace-svandova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4677,6 +4689,12 @@
     "fqdn": "prima-turecko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "primoacquistoczvane.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-08",
     "valid_to": null
   },
   {
