@@ -4758,12 +4758,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pumaeshopcz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "pyjamof.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
