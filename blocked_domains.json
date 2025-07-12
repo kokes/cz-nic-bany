@@ -2646,6 +2646,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fortuna-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "fortuna-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -3141,6 +3147,18 @@
     "fqdn": "kamagrakoupit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kamagralevne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kamagraprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-12",
     "valid_to": null
   },
   {
@@ -5268,9 +5286,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "shoppraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "signs-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sildenafil100mg.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-12",
     "valid_to": null
   },
   {
