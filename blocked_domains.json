@@ -1314,18 +1314,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "all-on-4.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "allon4.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "alphawin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -3186,12 +3174,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "katerinska18.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "keencz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-03",
@@ -3978,6 +3960,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mrps2018.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "ms-fillova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4269,6 +4257,12 @@
     "fqdn": "offenziva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ofuky-oken.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-15",
     "valid_to": null
   },
   {
