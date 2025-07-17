@@ -4806,6 +4806,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pandoracz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "panku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
