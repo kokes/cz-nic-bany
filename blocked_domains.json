@@ -2922,12 +2922,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fdout.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "fezbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4856,7 +4850,7 @@
   {
     "fqdn": "oxfordhouse.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
+    "valid_from": "2025-07-21",
     "valid_to": null
   },
   {
@@ -5336,7 +5330,7 @@
   {
     "fqdn": "relaxsport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
+    "valid_from": "2025-07-21",
     "valid_to": null
   },
   {
