@@ -2352,6 +2352,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "cosmolotua.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cosmolotukraine.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "cos-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-07",
@@ -2907,6 +2919,18 @@
     "fqdn": "favbet-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "favbetua.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "favbetukraine.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
     "valid_to": null
   },
   {
@@ -4596,6 +4620,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ninecasino-hra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "nine-casino-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4935,6 +4965,18 @@
     "fqdn": "parimatchh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "parimatch-ukraine.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "parimatchukraine.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-22",
     "valid_to": null
   },
   {
