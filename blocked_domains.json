@@ -2606,8 +2606,8 @@
   {
     "fqdn": "doxxbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
+    "valid_from": "2025-07-24",
+    "valid_to": "2025-11-24"
   },
   {
     "fqdn": "drakandroll.cz",
