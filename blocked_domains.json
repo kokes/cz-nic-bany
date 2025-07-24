@@ -2682,12 +2682,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ecutuning.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "edaiinice.cz",
     "reason": "dle článku 17 Pravidel registrace",
     "valid_from": "2025-06-26",
@@ -4959,12 +4953,6 @@
     "fqdn": "parimatchh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "parimatch-ukraine.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-22",
     "valid_to": null
   },
   {
