@@ -3564,12 +3564,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kamagrakoupit.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "kamagralevne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-12",
@@ -4281,12 +4275,6 @@
     "fqdn": "michalkovardluzi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-07-13",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mitmetal.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -6105,12 +6093,6 @@
     "fqdn": "stropecekk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stussycz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-24",
     "valid_to": null
   },
   {
