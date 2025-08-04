@@ -1668,6 +1668,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "artwise.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "ashia2.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2024-06-17",
@@ -4848,18 +4854,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "opravy-kytar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "opravykytar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "optickeklamy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5157,12 +5151,6 @@
     "fqdn": "posido-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "postavme-dum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-18",
     "valid_to": null
   },
   {
