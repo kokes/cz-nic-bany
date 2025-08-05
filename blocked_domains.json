@@ -2460,6 +2460,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "damebrko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "darkyodaji.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -3474,12 +3480,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "iscene.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "ixosafe.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2015-09-17",
@@ -3645,6 +3645,12 @@
     "fqdn": "kjvystavnictvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "klamyreklamy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
