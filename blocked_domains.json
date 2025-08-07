@@ -6954,12 +6954,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vyzvavedcu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "vzdynahore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
