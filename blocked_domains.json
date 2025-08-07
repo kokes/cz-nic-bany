@@ -4345,9 +4345,9 @@
   },
   {
     "fqdn": "mfcrbo.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-07-07",
-    "valid_to": "2025-08-07"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-29",
+    "valid_to": null
   },
   {
     "fqdn": "m-fio.cz",
@@ -6273,12 +6273,6 @@
     "fqdn": "stussyshopcz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "svantnerm.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-07",
     "valid_to": null
   },
   {
