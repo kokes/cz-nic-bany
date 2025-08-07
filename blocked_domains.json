@@ -5796,6 +5796,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rybolov-cestovani-norsko.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "saffronindickarestaurace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -7071,12 +7077,6 @@
     "fqdn": "worldconnect.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "wowflowers.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
