@@ -3438,6 +3438,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "japotranzport.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2025-08-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "jardasvoboda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -5085,12 +5091,6 @@
     "fqdn": "potisktricek-opava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pouziteiphony.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-06",
     "valid_to": null
   },
   {
