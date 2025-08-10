@@ -481,9 +481,9 @@
   },
   {
     "fqdn": "3dmfcr.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-07-10",
-    "valid_to": "2025-08-10"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-07-29",
+    "valid_to": null
   },
   {
     "fqdn": "40278.cz",
