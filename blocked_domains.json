@@ -3846,12 +3846,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "idividendy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "id-mfcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-19",
@@ -4443,12 +4437,6 @@
     "fqdn": "laskyplnetasky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "latkyuzizalky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
