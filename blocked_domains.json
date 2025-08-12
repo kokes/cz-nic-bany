@@ -3630,6 +3630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gym-sharkshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "gz88.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
