@@ -7284,6 +7284,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sunsin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "svagrostav.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
