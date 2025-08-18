@@ -5292,6 +5292,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mujvchod-sluzby.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-08-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "myjackpot-casino-free-spiny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
