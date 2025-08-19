@@ -2388,12 +2388,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cetocoen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "chata-horni-becva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -4491,12 +4485,6 @@
     "fqdn": "levne-rucninaradi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "libavsko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
