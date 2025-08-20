@@ -4608,12 +4608,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "loopjazzclub.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "lovci-viru.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
