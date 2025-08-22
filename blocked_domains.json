@@ -2622,12 +2622,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dame-dymku.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "dance-nolimit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -8163,6 +8157,12 @@
     "fqdn": "worldconnect.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wowflowers.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-22",
     "valid_to": null
   },
   {
