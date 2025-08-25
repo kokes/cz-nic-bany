@@ -3702,12 +3702,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "holecgruppe.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "homeopatiepanzo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
