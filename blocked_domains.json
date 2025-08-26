@@ -5436,9 +5436,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinkykriminalita.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "novinky-lifestyle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyolomouc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
     "valid_to": null
   },
   {
@@ -5448,9 +5460,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "novinkyspecialy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "novinkytops.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkytragedie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
     "valid_to": null
   },
   {
@@ -5463,6 +5487,36 @@
     "fqdn": "novinky-udalosti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyutek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyvrazda.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyzbrna.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyzceska.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novinkyzlocin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-26",
     "valid_to": null
   },
   {
