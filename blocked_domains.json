@@ -3324,6 +3324,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "forge-pixel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "fortuna-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-12",
@@ -4569,6 +4575,12 @@
     "fqdn": "lodenice-ostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "loopjazzclub.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-08-27",
     "valid_to": null
   },
   {
