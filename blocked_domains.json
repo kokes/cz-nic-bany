@@ -4488,6 +4488,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "liana-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "libertycasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
