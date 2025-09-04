@@ -5808,12 +5808,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "paleco.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "palivov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-19",
@@ -5841,12 +5835,6 @@
     "fqdn": "panvief.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "papirovetasky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-04",
     "valid_to": null
   },
   {
@@ -7455,12 +7443,6 @@
     "fqdn": "tanasetrebic.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "taskaroku.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-04",
     "valid_to": null
   },
   {
