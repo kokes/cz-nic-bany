@@ -3666,6 +3666,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hasicibestvina.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "havlisuvmlyn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5646,6 +5652,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "okrsekronov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "olden-lady-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5967,6 +5979,12 @@
     "fqdn": "pikpd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pila-sec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-04",
     "valid_to": null
   },
   {
