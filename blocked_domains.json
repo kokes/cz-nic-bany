@@ -3306,12 +3306,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fftrader.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "fios-ib.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-25",
@@ -3453,12 +3447,6 @@
     "fqdn": "frumzi-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ftmo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-10",
     "valid_to": null
   },
   {
