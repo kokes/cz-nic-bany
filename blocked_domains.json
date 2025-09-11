@@ -4242,12 +4242,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "klublyzaru.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "klub-slunecnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -6753,6 +6747,12 @@
     "fqdn": "rvf-brikety.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rvf-cestina.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-11",
     "valid_to": null
   },
   {
