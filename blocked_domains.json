@@ -4999,9 +4999,9 @@
   },
   {
     "fqdn": "mf-24.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-08-12",
-    "valid_to": "2025-09-12"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-02",
+    "valid_to": null
   },
   {
     "fqdn": "mfcr-24.cz",
