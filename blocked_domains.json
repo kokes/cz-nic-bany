@@ -3672,12 +3672,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "happyhashing.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "happyweed.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
@@ -5139,12 +5133,6 @@
     "fqdn": "monro-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "montaze-demontaze.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
