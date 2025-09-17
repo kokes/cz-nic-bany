@@ -3486,6 +3486,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ftmo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "funfunfun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
