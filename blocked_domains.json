@@ -3210,6 +3210,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ettn.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "euzone.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-14",
@@ -3873,6 +3879,12 @@
     "fqdn": "hustejdoktor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hykodesign.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-18",
     "valid_to": null
   },
   {
@@ -6807,6 +6819,12 @@
     "fqdn": "rvf-drevos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rvf-drivi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-18",
     "valid_to": null
   },
   {
