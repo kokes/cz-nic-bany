@@ -6774,6 +6774,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rktechnology.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "rmauto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
