@@ -1824,6 +1824,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "backmed.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "baduk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7209,6 +7215,12 @@
     "fqdn": "slick50.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "slimsecret.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-23",
     "valid_to": null
   },
   {
