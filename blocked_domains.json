@@ -6402,12 +6402,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "prosyner.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "protvojezdravi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
