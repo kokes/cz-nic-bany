@@ -1464,6 +1464,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "actionbox.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-09-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "adelapraha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-04",
@@ -3363,12 +3369,6 @@
     "fqdn": "fcc-cr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fdout.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-21",
     "valid_to": null
   },
   {
