@@ -930,12 +930,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "65896.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "6.6.4.5.7.9.4.2.7.0.2.4.e164.arpa",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-29",
@@ -1773,12 +1767,6 @@
     "fqdn": "autobaterie-santraziny-zlin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "auto-cz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -2823,12 +2811,6 @@
     "fqdn": "dermapure.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "designaquarium.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
