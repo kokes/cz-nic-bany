@@ -2232,6 +2232,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "bs2best.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bs2.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "bspin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4359,6 +4371,12 @@
     "fqdn": "kra33.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kra34.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-01",
     "valid_to": null
   },
   {
@@ -6879,6 +6897,12 @@
     "fqdn": "sdruzeni-slunce.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "secures.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-01",
     "valid_to": null
   },
   {
