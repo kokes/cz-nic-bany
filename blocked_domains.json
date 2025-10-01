@@ -6438,6 +6438,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "radka-drevo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "rady-napady.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
