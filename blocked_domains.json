@@ -6828,6 +6828,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "salomonbotyvyprodej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "saloneknavysocine.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
