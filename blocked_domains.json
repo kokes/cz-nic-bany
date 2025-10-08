@@ -6186,6 +6186,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pouziteiphony.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-08",
+    "valid_to": null
+  },
+  {
     "fqdn": "pragofas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
