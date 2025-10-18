@@ -2550,6 +2550,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "clouddnssolutions.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "cloudwebnet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "clubwash.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -3171,6 +3183,12 @@
     "fqdn": "edalnici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "edomainpoint.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-18",
     "valid_to": null
   },
   {
