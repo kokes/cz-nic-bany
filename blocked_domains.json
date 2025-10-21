@@ -2016,12 +2016,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "betonred1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "betonred3.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-16",
@@ -2031,12 +2025,6 @@
     "fqdn": "bet-onred.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "betonred-cz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
@@ -2772,12 +2760,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cz-betonred.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "czdalnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
@@ -2823,12 +2805,6 @@
     "fqdn": "czedalnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "cz-parimatch.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
@@ -7938,12 +7914,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "stavebninypamiro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "stavebnipracesro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-29",
@@ -8925,12 +8895,6 @@
     "fqdn": "wellnessway.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "westcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-24",
     "valid_to": null
   },
   {
