@@ -3762,12 +3762,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "furniture1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "gabion-ploty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
