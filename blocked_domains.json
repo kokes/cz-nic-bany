@@ -2208,12 +2208,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "botyosiris.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "bozichov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -9057,12 +9051,6 @@
     "fqdn": "youngla.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "younglaczshop.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-16",
     "valid_to": null
   },
   {
