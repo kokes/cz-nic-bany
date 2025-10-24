@@ -4182,12 +4182,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "idnesekonomika.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "idnesonline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5958,12 +5952,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "novinkykrimi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "novinkykriminalita.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
@@ -5979,12 +5967,6 @@
     "fqdn": "novinkyolomouc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "novinkyosportu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-25",
     "valid_to": null
   },
   {
@@ -9087,12 +9069,6 @@
     "fqdn": "ytoo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zachrankakv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-18",
     "valid_to": null
   },
   {
