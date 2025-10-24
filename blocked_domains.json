@@ -2388,6 +2388,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cellumove.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "cenikveskerehozbozi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
