@@ -948,12 +948,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "6.6.4.5.7.9.4.2.7.0.2.4.e164.arpa",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "67538.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -1566,21 +1560,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "airmap.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "akifov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "aktivovat-fio.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-23",
     "valid_to": null
   },
   {
@@ -1647,12 +1629,6 @@
     "fqdn": "andelskaliterarka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "andelskeobrazky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-05",
     "valid_to": null
   },
   {
@@ -1734,12 +1710,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "astrokviti.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
@@ -1773,12 +1743,6 @@
     "fqdn": "autobahn-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "autobarreto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
     "valid_to": null
   },
   {
@@ -1821,12 +1785,6 @@
     "fqdn": "azyly.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "az-za-hrob.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -1893,12 +1851,6 @@
     "fqdn": "barcaaa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "barebellstycinky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-13",
     "valid_to": null
   },
   {
@@ -2262,21 +2214,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "bucake.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "budinadesign.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bylinkovyvesmir.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-03",
     "valid_to": null
   },
   {
@@ -2331,12 +2271,6 @@
     "fqdn": "carhartt-wip.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "carodejnysvet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-03",
     "valid_to": null
   },
   {
@@ -2874,12 +2808,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "delafleur.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "deliobchod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -2895,12 +2823,6 @@
     "fqdn": "denasitist.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "denebsoftware.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
@@ -3150,12 +3072,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dr-inna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "dripcasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -3195,12 +3111,6 @@
     "fqdn": "duelbits-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dusankozisek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-10",
     "valid_to": null
   },
   {
@@ -3288,12 +3198,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elektro-macha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "e-luxus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -3357,12 +3261,6 @@
     "fqdn": "erra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "erwintragatsch.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -3621,12 +3519,6 @@
     "fqdn": "fljmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fluttershy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
@@ -3948,12 +3840,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "haban.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "hairsalon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-05",
@@ -4020,12 +3906,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hldmpkld.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "hledamridice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -4053,12 +3933,6 @@
     "fqdn": "homeopatiepanzo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "homeopatieprozivot.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-03",
     "valid_to": null
   },
   {
@@ -4161,12 +4035,6 @@
     "fqdn": "iceskatingprague6.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "id-24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -4758,12 +4626,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "laba.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "ladirna.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
@@ -5172,12 +5034,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "malvinasoftwares.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "mamazpapirnictvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -5484,12 +5340,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mobilu-fio.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-23",
-    "valid_to": null
-  },
-  {
     "fqdn": "mobira.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-09-18",
@@ -5604,27 +5454,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "motorcheck.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "motorest-milovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "motorrevue.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "motorsport-expo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -5976,12 +5808,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "novinkytops.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "novinkytragedie.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
@@ -6027,12 +5853,6 @@
     "fqdn": "novinkyzlocin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "numerografie.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-05",
     "valid_to": null
   },
   {
@@ -6117,18 +5937,6 @@
     "fqdn": "olden-lady-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "oldtimercheck.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "oldtimerrevue.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -6306,12 +6114,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "paracentrum.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "paradise8.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -6459,12 +6261,6 @@
     "fqdn": "petrixsys.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pikpd.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-19",
     "valid_to": null
   },
   {
@@ -6750,18 +6546,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "proche-marek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
-    "fqdn": "profaro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "profi-sex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -6810,12 +6594,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "psychoterapie1.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "psytrance-radio.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -6861,18 +6639,6 @@
     "fqdn": "rabona-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "radiologieplzen.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "radiorytmus.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
@@ -6945,12 +6711,6 @@
     "fqdn": "recenze-plinko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rehabilitace-vrsovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-17",
     "valid_to": null
   },
   {
@@ -7302,12 +7062,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "salinoukolemsveta.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "sally.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -7317,12 +7071,6 @@
     "fqdn": "salomonbotyvyprodej.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "saloneknavysocine.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
     "valid_to": null
   },
   {
@@ -7569,12 +7317,6 @@
     "fqdn": "simones.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "singluj.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
     "valid_to": null
   },
   {
@@ -8244,12 +7986,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "traveljordan.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "tripscan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-21",
@@ -8616,12 +8352,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "veteranmagazin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "veterinamivet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
@@ -8916,12 +8646,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "winspark.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "wjf.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -9003,12 +8727,6 @@
     "fqdn": "xcoeaseri.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xif.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-24",
     "valid_to": null
   },
   {
