@@ -7218,6 +7218,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rttax.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "rubiconriver.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -8778,6 +8784,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vracenidani24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "vresinabylina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -9147,6 +9159,12 @@
     "fqdn": "zenavobraze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zenith-energie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-24",
     "valid_to": null
   },
   {
