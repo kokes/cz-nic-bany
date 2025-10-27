@@ -8220,6 +8220,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "unicreditgroups.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-10-27",
+    "valid_to": "2025-11-27"
+  },
+  {
     "fqdn": "uniqhotel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
