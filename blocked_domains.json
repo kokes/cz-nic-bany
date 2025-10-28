@@ -1698,12 +1698,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "artwise.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "ashia2.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2024-06-17",
@@ -4092,12 +4086,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "intuitivniporod.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "inzerce-zdarma.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -5184,12 +5172,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "meteouniqa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "mezibulky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5340,12 +5322,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mojeuniqa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-20",
-    "valid_to": null
-  },
-  {
     "fqdn": "mojevybavicka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
@@ -5481,12 +5457,6 @@
     "fqdn": "mykolibri.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "myuniqa.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-20",
     "valid_to": null
   },
   {
