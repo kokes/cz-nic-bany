@@ -4716,6 +4716,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "libuse-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "lifoxy10.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
