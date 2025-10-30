@@ -2268,12 +2268,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "casinko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "casino-ambassador.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
