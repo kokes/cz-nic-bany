@@ -5532,6 +5532,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nect24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-10-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "nejlepsitabak.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2021-03-17",
