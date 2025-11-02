@@ -4308,6 +4308,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kfcmaso.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "kide.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -6735,6 +6741,12 @@
     "fqdn": "revolutioncasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "revolution-train.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-02",
     "valid_to": null
   },
   {
