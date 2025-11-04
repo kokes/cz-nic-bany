@@ -1860,12 +1860,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bavodeal.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "bazarekpupicek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
