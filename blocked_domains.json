@@ -4344,6 +4344,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "klara-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "klub-slunecnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
