@@ -2022,12 +2022,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bimi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "biodynamickevino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -4824,12 +4818,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lumeo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "lupacek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -5511,12 +5499,6 @@
     "fqdn": "nejozon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "nejsluzba.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-14",
     "valid_to": null
   },
   {
