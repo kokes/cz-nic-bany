@@ -2892,12 +2892,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "domaci-posilovna.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "dombydom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -4627,12 +4621,6 @@
   },
   {
     "fqdn": "letnikinostraznice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "levne-rucninaradi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
     "valid_to": null
@@ -6531,12 +6519,6 @@
     "fqdn": "reklama69.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rekonstrukcevp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-09-20",
     "valid_to": null
   },
   {
