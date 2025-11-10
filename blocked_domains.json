@@ -3372,6 +3372,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "femu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "fenixcolor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -3600,6 +3606,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gabella-food.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "gabion-ploty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -3753,6 +3765,12 @@
     "fqdn": "grizzlygym.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "guardix.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
     "valid_to": null
   },
   {
@@ -7704,6 +7722,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "taisia369.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "tajemstviobchodu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
@@ -7941,6 +7965,12 @@
     "fqdn": "tstop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "turboboost.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
     "valid_to": null
   },
   {
@@ -8535,6 +8565,12 @@
     "fqdn": "weissgruppe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wellez.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-10",
     "valid_to": null
   },
   {
