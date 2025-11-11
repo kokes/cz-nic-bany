@@ -2352,6 +2352,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceraves.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "cernahoralastminute.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
