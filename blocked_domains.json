@@ -4806,6 +4806,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "luiaporki.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "lukasvecerka-photo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-24",
