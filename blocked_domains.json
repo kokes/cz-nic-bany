@@ -8112,6 +8112,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vera-sperky.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "verde-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
