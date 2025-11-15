@@ -1932,6 +1932,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "betandreas-czech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "betandreas-slot.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "betano-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -8517,6 +8529,12 @@
     "fqdn": "winegothicclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "wins-park.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-15",
     "valid_to": null
   },
   {
