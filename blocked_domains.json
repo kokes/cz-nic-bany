@@ -2394,12 +2394,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cero3.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "cerveneblato.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4242,12 +4236,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "juristconsult.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-04",
-    "valid_to": null
-  },
-  {
     "fqdn": "jvdomky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -5874,12 +5862,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "orion-reality.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "osaznmei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
@@ -6564,18 +6546,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rekvalifikace-it.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rekvalifikaceit.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "relaxsport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
@@ -7113,12 +7083,6 @@
     "fqdn": "shantiom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "shmarket.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-08",
     "valid_to": null
   },
   {
