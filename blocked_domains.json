@@ -2136,12 +2136,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "borderland.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "bozichov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -2409,12 +2403,6 @@
     "fqdn": "ceskeonlinekasina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ceskykorzar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
@@ -4221,12 +4209,6 @@
     "fqdn": "joker-8-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "josef-vana.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
@@ -6399,12 +6381,6 @@
     "fqdn": "prokrasnetelo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "prolaktin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
     "valid_to": null
   },
   {
