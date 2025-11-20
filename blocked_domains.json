@@ -6018,12 +6018,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "patagonia-cz.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "paysafecard-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
