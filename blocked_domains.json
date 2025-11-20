@@ -2436,6 +2436,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chatlab.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "chaty-lipensko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -5451,6 +5457,12 @@
     "fqdn": "napadyprodomy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "napapijri-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-20",
     "valid_to": null
   },
   {
