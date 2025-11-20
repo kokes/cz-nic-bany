@@ -6060,6 +6060,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "perla-brno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "perlauo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
