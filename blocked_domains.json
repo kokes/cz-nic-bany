@@ -5850,6 +5850,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "orionreality.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-20",
+    "valid_to": null
+  },
+  {
     "fqdn": "osaznmei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
@@ -6207,6 +6213,12 @@
     "fqdn": "polymer-color.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "popflex.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-20",
     "valid_to": null
   },
   {
@@ -7581,12 +7593,6 @@
     "fqdn": "techtle-mechtle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tejpuj.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
