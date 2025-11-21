@@ -2940,12 +2940,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "doxxbet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "drakandroll.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-25",
@@ -3063,12 +3057,6 @@
     "fqdn": "edalnici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "edobirka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-15",
     "valid_to": null
   },
   {
