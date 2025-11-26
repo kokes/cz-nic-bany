@@ -5142,12 +5142,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "milenapraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "mistoveskole.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
