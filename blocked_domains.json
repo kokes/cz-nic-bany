@@ -6912,12 +6912,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "selfieobchod.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "semena-rostliny.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
