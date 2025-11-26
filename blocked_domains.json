@@ -5556,12 +5556,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nocard.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "nocnipodniky.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
