@@ -1644,6 +1644,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "anna-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "antiques.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-18",
@@ -5133,6 +5139,12 @@
     "fqdn": "mikolafashion.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "milenapraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-26",
     "valid_to": null
   },
   {
