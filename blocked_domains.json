@@ -3960,6 +3960,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "illumicati.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "immediatematrix.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
