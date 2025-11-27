@@ -7398,6 +7398,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "stereoplaza.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "stezkabarbora.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -7959,6 +7965,12 @@
     "fqdn": "uniqhotel.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "unocredit.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-27",
     "valid_to": null
   },
   {
