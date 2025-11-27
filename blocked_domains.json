@@ -7945,9 +7945,9 @@
   },
   {
     "fqdn": "unicreditgroups.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2025-10-27",
-    "valid_to": "2025-11-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-15",
+    "valid_to": null
   },
   {
     "fqdn": "uniqhotel.cz",
