@@ -5280,6 +5280,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mostbet-bk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "motocar-service.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
