@@ -3516,12 +3516,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gabella-food.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "gabion-ploty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
