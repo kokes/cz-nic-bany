@@ -6816,6 +6816,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rvf-topeni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-11-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "rybarskepotreby-zima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
