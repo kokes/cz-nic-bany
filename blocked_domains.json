@@ -2520,12 +2520,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "copperalliance.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "cordivari.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-27",
@@ -7062,12 +7056,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "shoppraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "signs-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -7149,12 +7137,6 @@
     "fqdn": "skupinaholki.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slick50.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
