@@ -2130,6 +2130,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "booby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "boomerang-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -6184,6 +6190,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
     "valid_to": null
+  },
+  {
+    "fqdn": "policle.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2025-12-03",
+    "valid_to": "2026-01-03"
   },
   {
     "fqdn": "polymer-color.cz",
