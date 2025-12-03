@@ -3252,6 +3252,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "farmakozihradek.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "farnost-recice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
