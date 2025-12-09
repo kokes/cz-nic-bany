@@ -4488,6 +4488,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kurove-brikety.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2025-12-09",
+    "valid_to": "2026-03-09"
+  },
+  {
     "fqdn": "kvetiny-michaela-tabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
