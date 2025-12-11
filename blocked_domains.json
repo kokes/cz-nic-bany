@@ -3000,6 +3000,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dronynemesis.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2025-12-11",
+    "valid_to": "2026-03-11"
+  },
+  {
     "fqdn": "dsnabytek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
