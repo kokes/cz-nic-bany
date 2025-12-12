@@ -1692,6 +1692,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "arealzahumny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "arminimoda.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -2007,6 +2013,12 @@
     "fqdn": "bezheureky.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2016-12-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "bezkiki.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -3504,6 +3516,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fotbal-litomysl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "fotbalskvizovice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -4122,6 +4140,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "istanbulskaumluva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "italske-bistro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -4281,6 +4305,12 @@
     "fqdn": "kamna-drevo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kamnastepan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -4701,6 +4731,12 @@
     "fqdn": "libira.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-03-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "liborvitatrebon.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -5376,6 +5412,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "motoservis-ondra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "mouyabi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-09-20",
@@ -5751,6 +5793,12 @@
     "fqdn": "nutrinoid.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "obcane-dobrichovic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -6342,6 +6390,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "prazskymed.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "prdbus.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-13",
@@ -6462,6 +6516,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pro-mobilni-domy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "protvojezdravi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -6567,6 +6627,12 @@
     "fqdn": "rankuj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rasocz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -6816,6 +6882,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rozumni2017.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "rozvozjidelmost.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -7023,6 +7095,12 @@
     "fqdn": "serviskrivanek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sesteacher.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
@@ -7554,6 +7632,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "svatbanapapire.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "svatebnidjroman.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7869,6 +7953,12 @@
     "fqdn": "turistika-brdy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tvarovaneplechy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-12",
     "valid_to": null
   },
   {
