@@ -2484,6 +2484,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chebpcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "chili-seminka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -6093,6 +6099,12 @@
     "fqdn": "paysafecard-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pcrjihlava.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-17",
     "valid_to": null
   },
   {
