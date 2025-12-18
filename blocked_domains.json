@@ -4518,6 +4518,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kra46.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "kronopol-podlahy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
