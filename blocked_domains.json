@@ -3228,6 +3228,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eva-plzen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "eveltas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-22",
