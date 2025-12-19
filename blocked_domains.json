@@ -2664,6 +2664,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cybertown.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "czdalnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
@@ -2703,6 +2709,12 @@
     "fqdn": "czechbets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "czech-event-awards.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
     "valid_to": null
   },
   {
@@ -3117,6 +3129,12 @@
     "fqdn": "electrojet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "eltom-orlova.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
     "valid_to": null
   },
   {
@@ -5022,6 +5040,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "manyak.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "marcyne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -5556,6 +5580,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "narexby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "narex-makita-bosch.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-08-29",
@@ -5937,6 +5967,12 @@
     "fqdn": "osaznmei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "osnoviny.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
     "valid_to": null
   },
   {
@@ -6846,6 +6882,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rialto-brno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "rkdm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -7389,6 +7431,12 @@
     "fqdn": "solidedge.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "solnajeskynevbrne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
     "valid_to": null
   },
   {
@@ -8346,6 +8394,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vinorum.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "vinti.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
@@ -8691,6 +8745,12 @@
     "fqdn": "zahradasvitavy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zahradnictvi-lobkowicz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-19",
     "valid_to": null
   },
   {
