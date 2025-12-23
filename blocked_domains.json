@@ -3318,12 +3318,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fairspin3.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "fairspin-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
@@ -8655,12 +8649,6 @@
     "fqdn": "weissgruppe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "westcasinoo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-16",
     "valid_to": null
   },
   {
