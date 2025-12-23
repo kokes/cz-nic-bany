@@ -2088,6 +2088,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bioniqa.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "bistroleharo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -4110,6 +4116,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "instalater-tech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "instastyle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-30",
@@ -4527,6 +4539,12 @@
     "fqdn": "korunkacasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kosmetolege.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-23",
     "valid_to": null
   },
   {
