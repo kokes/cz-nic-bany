@@ -1218,12 +1218,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "82834.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "82914.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -7509,12 +7503,6 @@
     "fqdn": "solcasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "solidedge.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-22",
     "valid_to": null
   },
   {
