@@ -306,12 +306,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "28372.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-09-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "28476.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -417,12 +411,6 @@
     "fqdn": "355923.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "35728.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -1254,12 +1242,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "85352.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "86512.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -1515,12 +1497,6 @@
     "fqdn": "agisaas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "agrotis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -2271,12 +2247,6 @@
     "fqdn": "capability.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "carhartt-wip.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-14",
     "valid_to": null
   },
   {
@@ -6306,12 +6276,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pin-up-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "pixel-ai.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-19",
@@ -6675,12 +6639,6 @@
     "fqdn": "quadcore.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2022-05-03",
-    "valid_to": null
-  },
-  {
-    "fqdn": "quickwin-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
