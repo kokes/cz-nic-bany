@@ -3780,6 +3780,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "gymsharkczstore.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "gym-sharkshop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-12",
@@ -8199,6 +8205,12 @@
     "fqdn": "unibet-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uniccshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2025-12-30",
     "valid_to": null
   },
   {
