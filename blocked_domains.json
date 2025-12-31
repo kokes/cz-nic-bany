@@ -1002,12 +1002,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "716130.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "72869.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -3486,12 +3480,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fortuna-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "fortuna-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -4293,12 +4281,6 @@
     "fqdn": "jvdomky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kamagralevne.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-12",
     "valid_to": null
   },
   {
