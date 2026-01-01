@@ -4554,6 +4554,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "kra48.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "krab2.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "kronopol-podlahy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
