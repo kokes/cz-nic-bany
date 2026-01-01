@@ -3240,6 +3240,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eva-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "eveltas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-01-22",
@@ -5085,6 +5091,12 @@
     "fqdn": "marekbadida.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "marketa-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-01",
     "valid_to": null
   },
   {
@@ -8343,6 +8355,12 @@
     "fqdn": "vegashry.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vera-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-01",
     "valid_to": null
   },
   {
