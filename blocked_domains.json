@@ -2928,6 +2928,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "domazlicepcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "dombydom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
