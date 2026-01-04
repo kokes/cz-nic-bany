@@ -1,11 +1,5 @@
 [
   {
-    "fqdn": "064566.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "100mega-distribution.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2023-11-02",
@@ -513,12 +507,6 @@
     "fqdn": "42517.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "42708.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
@@ -1047,12 +1035,6 @@
     "fqdn": "748316.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "75114.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-21",
     "valid_to": null
   },
   {
