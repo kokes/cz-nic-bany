@@ -5328,6 +5328,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "modaplzen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "moda-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-08",
