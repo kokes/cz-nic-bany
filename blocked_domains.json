@@ -360,12 +360,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "34140.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "34215.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-10",
@@ -2823,12 +2817,6 @@
     "fqdn": "dmoservis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dobracidekujem.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
