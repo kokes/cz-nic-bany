@@ -2118,6 +2118,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "butikzlata.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "bytyuparkuberoun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -2776,6 +2782,24 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-12-10",
     "valid_to": "2026-03-10"
+  },
+  {
+    "fqdn": "divaspin-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "divaspincasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "divaspin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
   },
   {
     "fqdn": "diversitysummit.cz",
@@ -4497,6 +4521,12 @@
     "fqdn": "kvetiny-michaela-tabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kyngs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
     "valid_to": null
   },
   {
@@ -6234,6 +6264,24 @@
     "valid_to": null
   },
   {
+    "fqdn": "plinko-balls.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plinko-bet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plinko-demo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "plinko-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
@@ -6243,6 +6291,12 @@
     "fqdn": "plinkoonline.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "plinko-slot.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-12",
     "valid_to": null
   },
   {
