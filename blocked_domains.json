@@ -1572,6 +1572,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "apwatches.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "aquapark-tropical-islands.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -2523,6 +2529,12 @@
     "fqdn": "credit4life.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2020-05-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "crwwatches.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-15",
     "valid_to": null
   },
   {
@@ -3897,6 +3909,12 @@
     "fqdn": "hschavirov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-31",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hubwatches.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-15",
     "valid_to": null
   },
   {
