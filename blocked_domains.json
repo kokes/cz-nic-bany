@@ -120,6 +120,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "2pi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "307289.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -1158,6 +1164,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "blackpill.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "bnwebzh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-10-15",
@@ -1587,6 +1599,12 @@
     "fqdn": "cocoacasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coinomi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
     "valid_to": null
   },
   {
@@ -3198,6 +3216,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "invites.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "inzerce-zdarma.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -3639,6 +3663,12 @@
     "fqdn": "ksandylindy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ktr24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
     "valid_to": null
   },
   {
@@ -5049,6 +5079,18 @@
     "fqdn": "onlinerally.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onlyhits.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "onlykurvy.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-21",
     "valid_to": null
   },
   {
