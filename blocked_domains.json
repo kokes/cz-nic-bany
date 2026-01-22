@@ -3090,6 +3090,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hutch-house.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "ice-casinos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
