@@ -600,6 +600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "altrarunnings.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "amajcars.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-09",
