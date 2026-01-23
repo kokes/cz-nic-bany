@@ -5070,12 +5070,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "obox.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "ochrannafolieppf.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -5361,6 +5355,12 @@
     "fqdn": "parimatchukraine.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "parimatch-ukr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-23",
     "valid_to": null
   },
   {
