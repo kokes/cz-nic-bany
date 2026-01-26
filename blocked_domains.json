@@ -42,12 +42,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "18268.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "194345.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -147,12 +141,6 @@
     "fqdn": "363743.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "37725.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
     "valid_to": null
   },
   {
