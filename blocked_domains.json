@@ -186,6 +186,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "48391.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "4rabet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -2184,6 +2190,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "eeulf.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "ekotop-krby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -2559,6 +2571,12 @@
     "fqdn": "fmnacestach.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "fmovies.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-27",
     "valid_to": null
   },
   {
@@ -4482,6 +4500,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mnimg.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "moasecae.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
@@ -5805,6 +5829,12 @@
     "fqdn": "prozones.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pruvodceinvesticemi.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-27",
     "valid_to": null
   },
   {
