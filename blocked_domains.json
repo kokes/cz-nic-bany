@@ -1212,6 +1212,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "breclavpcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "brioclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
