@@ -138,12 +138,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "363743.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "396971.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -495,12 +489,6 @@
     "fqdn": "advvz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "af-ro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
