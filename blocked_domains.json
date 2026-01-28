@@ -5946,9 +5946,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "recenzealza.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "recenze-plinko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "refunds.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-28",
     "valid_to": null
   },
   {
