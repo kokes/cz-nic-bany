@@ -2340,6 +2340,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "evobrikety.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "ezviz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-02",
