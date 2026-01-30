@@ -6894,6 +6894,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sumperkpcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "supergra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
