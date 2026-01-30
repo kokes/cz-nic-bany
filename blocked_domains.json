@@ -294,18 +294,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "70082.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "70085.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "732873.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -2082,12 +2070,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "drmartensczshops.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "drogerievelkoobchod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -2175,12 +2157,6 @@
     "fqdn": "edalnici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "edomainpoint.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-18",
     "valid_to": null
   },
   {
@@ -7011,12 +6987,6 @@
     "fqdn": "tajemstviobchodu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "talentdesignu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-12-07",
     "valid_to": null
   },
   {
