@@ -1128,12 +1128,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "blablablachef.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "blackbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-10",
@@ -4740,12 +4734,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "napadyprodomy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "napapijri-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-20",
@@ -5499,12 +5487,6 @@
     "fqdn": "playmaker.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pleione.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
