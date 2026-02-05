@@ -7422,6 +7422,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "uniccshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-05",
+    "valid_to": null
+  },
+  {
     "fqdn": "unicreditgroups.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-15",
