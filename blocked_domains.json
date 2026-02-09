@@ -2892,6 +2892,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "haynes.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "hbwood.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -4611,6 +4617,12 @@
     "fqdn": "motocar-service.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "motorbooks.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-09",
     "valid_to": null
   },
   {
@@ -6969,6 +6981,12 @@
     "fqdn": "tech4betcasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-08",
+    "valid_to": null
+  },
+  {
+    "fqdn": "techbooks.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-09",
     "valid_to": null
   },
   {
