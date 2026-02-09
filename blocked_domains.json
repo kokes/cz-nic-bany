@@ -4782,12 +4782,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "nase-pelety.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-31",
-    "valid_to": null
-  },
-  {
     "fqdn": "nasex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -6198,21 +6192,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "rvf-brikety.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-31",
-    "valid_to": null
-  },
-  {
     "fqdn": "rvf-cestina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rvf-drevo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-31",
     "valid_to": null
   },
   {
@@ -6225,18 +6207,6 @@
     "fqdn": "rvf-drivi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rvf-palivove.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-31",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rvf-pelety.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-31",
     "valid_to": null
   },
   {
