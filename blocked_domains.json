@@ -5694,12 +5694,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "projekty-elektro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "prokrasnetelo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -6936,12 +6930,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "teplovdome.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "testovanizdarma.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
@@ -6963,12 +6951,6 @@
     "fqdn": "t-film.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "thermoexpert.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-11",
     "valid_to": null
   },
   {
@@ -7569,6 +7551,12 @@
     "fqdn": "vlhkehojeni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vmbartos.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-11",
     "valid_to": null
   },
   {
