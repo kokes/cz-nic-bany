@@ -2371,9 +2371,9 @@
   },
   {
     "fqdn": "fin-mfcr.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2026-01-13",
-    "valid_to": "2026-02-13"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-15",
+    "valid_to": null
   },
   {
     "fqdn": "fin-min.cz",
@@ -2425,9 +2425,9 @@
   },
   {
     "fqdn": "f-mfcr.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2026-01-13",
-    "valid_to": "2026-02-13"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-01-15",
+    "valid_to": null
   },
   {
     "fqdn": "fmnacestach.cz",
