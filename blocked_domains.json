@@ -5376,6 +5376,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "pranamat.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "prazskymed.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-12",
