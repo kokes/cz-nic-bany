@@ -6834,6 +6834,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "trebicpcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "trvalakrasa.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
