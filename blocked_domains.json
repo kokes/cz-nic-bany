@@ -7458,12 +7458,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "wjf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "woismnas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
