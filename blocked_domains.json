@@ -6204,12 +6204,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skinnylife.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "skladnicka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
