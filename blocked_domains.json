@@ -3402,12 +3402,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "konopi-izolace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-18",
-    "valid_to": null
-  },
-  {
     "fqdn": "konopiska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
