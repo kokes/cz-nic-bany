@@ -348,6 +348,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "8095.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "8143.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -2748,6 +2754,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hanez.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "happyweed.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
@@ -3855,6 +3867,12 @@
     "fqdn": "lsstyle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ltdqh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-17",
     "valid_to": null
   },
   {
@@ -7509,6 +7527,12 @@
     "fqdn": "xcoeaseri.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "xkkre.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-17",
     "valid_to": null
   },
   {
