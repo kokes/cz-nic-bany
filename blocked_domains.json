@@ -5598,6 +5598,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "projekty-elektro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "prokrasnetelo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -6819,6 +6825,12 @@
     "fqdn": "tepelna-cerpadla-inkor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "teplovdome.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-18",
     "valid_to": null
   },
   {
