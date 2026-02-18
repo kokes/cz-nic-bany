@@ -1704,12 +1704,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "czechbetcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "czechbets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
