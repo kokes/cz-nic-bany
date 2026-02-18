@@ -6630,6 +6630,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "subaru-rnterprise.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "sumperkpcr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-02-06",
