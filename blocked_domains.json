@@ -1338,18 +1338,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "casino-mostbet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-30",
-    "valid_to": null
-  },
-  {
-    "fqdn": "casinomostbet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "casinoshark.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
