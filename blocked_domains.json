@@ -2052,6 +2052,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ecowashcb.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "eczdalnici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
