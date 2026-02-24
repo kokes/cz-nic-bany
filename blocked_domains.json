@@ -4464,9 +4464,69 @@
     "valid_to": null
   },
   {
+    "fqdn": "mostbetapk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetaplikace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetapp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "mostbet-bet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetczech.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetkazyno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetofficial24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbet-official.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetonline24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetprihlaseni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mostbetvyber.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
     "valid_to": null
   },
   {
@@ -6675,6 +6735,12 @@
     "fqdn": "svycarskodovolena.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "sweetbonanza-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-24",
     "valid_to": null
   },
   {
