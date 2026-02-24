@@ -3864,21 +3864,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "ligaotcu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "linina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "liselotte.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -5113,12 +5101,6 @@
   },
   {
     "fqdn": "parimatch-czech.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "parimatchczech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-05",
     "valid_to": null
@@ -6915,12 +6897,6 @@
     "fqdn": "tnrce.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tntsystems.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-21",
     "valid_to": null
   },
   {
