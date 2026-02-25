@@ -2844,6 +2844,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hedrix.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "heiduk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-02-11",
@@ -3534,6 +3540,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "kra30.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kra31.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "kra34.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-01",
@@ -4071,6 +4089,12 @@
     "fqdn": "mamazpapirnictvi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mango-outlet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
     "valid_to": null
   },
   {
@@ -4815,6 +4839,12 @@
     "fqdn": "nominikasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "novak-atelier.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
     "valid_to": null
   },
   {
@@ -7395,6 +7425,12 @@
     "fqdn": "vidmate.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "viktorie-plzen.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-25",
     "valid_to": null
   },
   {
