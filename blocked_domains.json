@@ -6408,12 +6408,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "qcore.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "q-games.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-19",
@@ -7713,12 +7707,6 @@
     "fqdn": "tau-ra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "taxilehky.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-27",
     "valid_to": null
   },
   {
