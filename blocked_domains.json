@@ -8748,6 +8748,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ymdac.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "ynotip-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -8997,6 +9003,12 @@
     "fqdn": "zpravyextra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zqfma.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
