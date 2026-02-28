@@ -2328,6 +2328,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "dum-ukubesu.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "dvere-do-mokra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
@@ -2895,6 +2901,12 @@
     "fqdn": "fljmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "floradekorpraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
@@ -4032,6 +4044,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kosmetikabohunka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "kos-ostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -4110,6 +4128,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kramekucesty.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "krasa-sleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -4170,9 +4194,33 @@
     "valid_to": "2026-03-09"
   },
   {
+    "fqdn": "kvetinarstvi-orchidea.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kvetinovevazby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kvetinykakuska.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "kvetiny-michaela-tabor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kvetiny-zivotem.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
@@ -5364,6 +5412,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nehty-prostejov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "nejlepsitabak.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2021-03-17",
@@ -5913,6 +5967,12 @@
     "fqdn": "pedikura-martina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pedikuramartina.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
@@ -6540,6 +6600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "redflowers.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "refunds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-28",
@@ -6753,6 +6819,12 @@
     "fqdn": "roobet-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rozkveteteno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
@@ -7518,6 +7590,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "studioaneta.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "studiofloris.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7527,6 +7605,12 @@
     "fqdn": "studiolucie-shop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "studioprofi-pedikura.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-28",
     "valid_to": null
   },
   {
