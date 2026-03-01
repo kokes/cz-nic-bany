@@ -1434,12 +1434,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cabaretmanana.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "calella.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -2943,12 +2937,6 @@
     "fqdn": "fond-heidi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fontany-kasny.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -5094,12 +5082,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "modni-praha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "moeta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -6279,12 +6261,6 @@
     "fqdn": "prague-arties.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "praha-mestoprolidi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
