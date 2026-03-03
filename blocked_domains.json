@@ -3780,12 +3780,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "jihlavapcr.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2025-12-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "jiridockalmasaze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -6165,12 +6159,6 @@
     "fqdn": "pokladkadlazby.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "policle.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2025-12-03",
     "valid_to": null
   },
   {
