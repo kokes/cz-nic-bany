@@ -5287,9 +5287,9 @@
   },
   {
     "fqdn": "mycnb.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2026-02-03",
-    "valid_to": "2026-03-03"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-02-17",
+    "valid_to": null
   },
   {
     "fqdn": "myjackpot-casino-free-spiny.cz",
