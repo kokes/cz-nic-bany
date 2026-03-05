@@ -1554,12 +1554,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "casinozpravy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "castrocvv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-10",
@@ -1725,12 +1719,6 @@
     "fqdn": "chebpcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "chili-seminka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
@@ -3936,12 +3924,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kinderschule.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "king-casino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-09",
@@ -4251,12 +4233,6 @@
     "fqdn": "ladirna.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
-    "valid_to": null
-  },
-  {
-    "fqdn": "laebax.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-01-25",
     "valid_to": null
   },
   {
@@ -7581,12 +7557,6 @@
     "fqdn": "studioprofi-pedikura.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "subaru-enterprise.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-03-04",
     "valid_to": null
   },
   {
