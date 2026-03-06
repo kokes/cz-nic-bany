@@ -4698,6 +4698,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "marie-jan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "marketa-praha.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-01",
@@ -5490,6 +5496,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "novaprahalabel.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "novaris.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-17",
@@ -5547,6 +5559,12 @@
     "fqdn": "novinkyzlocin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
+    "valid_to": null
+  },
+  {
+    "fqdn": "numerapraha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-06",
     "valid_to": null
   },
   {
@@ -5949,6 +5967,12 @@
     "fqdn": "perla-brno.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "perlamody.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-06",
     "valid_to": null
   },
   {
@@ -8301,6 +8325,12 @@
     "fqdn": "vidmate.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
+    "valid_to": null
+  },
+  {
+    "fqdn": "viktoriebrno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-06",
     "valid_to": null
   },
   {
