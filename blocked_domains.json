@@ -894,6 +894,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "axescard.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "azka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -3987,6 +3993,12 @@
     "fqdn": "kompletreko.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "konopi-izolace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-10",
     "valid_to": null
   },
   {
@@ -7497,6 +7509,18 @@
     "fqdn": "stavebnipracesro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "steelpriint.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "steelprint.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-10",
     "valid_to": null
   },
   {
