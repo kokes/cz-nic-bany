@@ -8280,9 +8280,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "vilahelenka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "vilemovicekovarna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "villahelenka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-12",
     "valid_to": null
   },
   {
