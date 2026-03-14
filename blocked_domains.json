@@ -8238,6 +8238,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "uollivandera.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "uspechmuze.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-05-16",
