@@ -3960,6 +3960,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kirijver.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "kixgo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-17",
@@ -5397,6 +5403,12 @@
     "fqdn": "nasex.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nashwelder.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-14",
     "valid_to": null
   },
   {
@@ -8239,6 +8251,12 @@
   },
   {
     "fqdn": "uollivandera.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uptoverom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-14",
     "valid_to": null
