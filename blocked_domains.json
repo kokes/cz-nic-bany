@@ -594,12 +594,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "alcedovrchlabi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "alkol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -1029,12 +1023,6 @@
     "fqdn": "bavlnenysen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "bazarekpupicek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
@@ -2151,12 +2139,6 @@
     "fqdn": "detskahernakokino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "detskaklinika.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
@@ -3807,12 +3789,6 @@
     "fqdn": "jirkovak.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "jmbistro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
@@ -7698,12 +7674,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "svejkovokoryto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
-    "valid_to": null
-  },
-  {
     "fqdn": "svetelneobrazy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -8037,12 +8007,6 @@
     "fqdn": "tokyo-casino-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "tondenti.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
