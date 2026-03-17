@@ -5940,10 +5940,22 @@
     "valid_to": "2026-06-04"
   },
   {
+    "fqdn": "pcrjicin.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-03-17",
+    "valid_to": "2026-06-16"
+  },
+  {
     "fqdn": "pcrjihlava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-17",
     "valid_to": null
+  },
+  {
+    "fqdn": "pcrstrakonice.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-03-17",
+    "valid_to": "2026-06-16"
   },
   {
     "fqdn": "pedikura-kolin.cz",
@@ -7821,12 +7833,6 @@
     "fqdn": "techtle-mechtle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "temu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-20",
     "valid_to": null
   },
   {
