@@ -1338,12 +1338,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "blackpill.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "bodyguru.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -7848,12 +7842,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "tenisbalance.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "tenisresortjilemnice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -8595,12 +8583,6 @@
     "fqdn": "wget.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "whippedcream.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2024-11-05",
     "valid_to": null
   },
   {
