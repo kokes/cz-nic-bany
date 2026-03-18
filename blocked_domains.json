@@ -7344,12 +7344,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "snottip.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "snubnisperky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-05",
@@ -7737,42 +7731,6 @@
     "fqdn": "synotip-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "synott.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "synotti.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "synottp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "synotyp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "synttip.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "syottip.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
     "valid_to": null
   },
   {
@@ -8935,24 +8893,6 @@
   },
   {
     "fqdn": "zoohi.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zoohot.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zooht.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zooit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
     "valid_to": null
