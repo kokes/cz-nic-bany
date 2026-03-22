@@ -1836,12 +1836,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cosmolotcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "cosmolots.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-06",
@@ -2721,12 +2715,6 @@
     "fqdn": "faunahluk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "favbetcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
     "valid_to": null
   },
   {
@@ -5172,12 +5160,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "motorest-milovice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "motoservis-ondra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-12",
@@ -7230,30 +7212,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "slotcity.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slotokingcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sloto-king.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slots-city.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "slottica-online.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -7587,12 +7545,6 @@
     "fqdn": "sumperkpcr.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-02-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "supergra.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-09",
     "valid_to": null
   },
   {
