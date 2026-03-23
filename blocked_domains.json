@@ -3234,12 +3234,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "heiduk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "help-asistent.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
