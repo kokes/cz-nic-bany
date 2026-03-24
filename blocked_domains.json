@@ -1368,6 +1368,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "brevilles.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "brioclub.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
