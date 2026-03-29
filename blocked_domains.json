@@ -2466,12 +2466,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "farnost-recice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "faunahluk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -3243,12 +3237,6 @@
     "fqdn": "instalaterms.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "instastyle.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
@@ -7635,12 +7623,6 @@
     "fqdn": "ultraceny.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-04-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ultrahome.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
     "valid_to": null
   },
   {
