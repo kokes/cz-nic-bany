@@ -3480,6 +3480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "karvinapcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-03-31",
+    "valid_to": "2026-06-29"
+  },
+  {
     "fqdn": "katalogholek.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -4173,6 +4179,12 @@
     "fqdn": "luxchecker.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-10",
+    "valid_to": null
+  },
+  {
+    "fqdn": "luxyland.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
     "valid_to": null
   },
   {
