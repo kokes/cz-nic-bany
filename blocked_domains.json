@@ -600,6 +600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "amonaz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "amor-kvalitnipostaveni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -5382,6 +5388,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "omdrvt.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "onazsua.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
@@ -6462,6 +6474,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "runeosx.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "runforhelp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7068,6 +7086,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sracxvo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "ssohavlickova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -7614,6 +7638,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "umeomv.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
+    "valid_to": null
+  },
+  {
     "fqdn": "umertukurim.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7647,6 +7677,12 @@
     "fqdn": "unocredit.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "unrevmz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-31",
     "valid_to": null
   },
   {
