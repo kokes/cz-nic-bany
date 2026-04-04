@@ -4134,12 +4134,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "lsstyle.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "ltdqh.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-17",
@@ -8313,12 +8307,6 @@
     "fqdn": "zhavenoci.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-19",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zhjxpc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-02-27",
     "valid_to": null
   },
   {
