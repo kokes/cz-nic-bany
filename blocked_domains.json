@@ -6078,12 +6078,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rttax.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "ruletahry.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -7551,12 +7545,6 @@
     "fqdn": "vondutch-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-04",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vracenidani24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-24",
     "valid_to": null
   },
   {
