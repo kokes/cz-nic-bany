@@ -1302,6 +1302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cnb24.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-04-10",
+    "valid_to": "2026-07-10"
+  },
+  {
     "fqdn": "cnb-pro.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-01-16",
