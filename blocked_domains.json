@@ -120,12 +120,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "58win.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "5-gringos.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -2022,12 +2016,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fa88.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-15",
-    "valid_to": null
-  },
-  {
     "fqdn": "facescan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -2805,12 +2793,6 @@
     "fqdn": "institutzdravi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "intercharge.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-11-04",
     "valid_to": null
   },
   {
@@ -6441,12 +6423,6 @@
     "fqdn": "stanglgruppe.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-16",
-    "valid_to": null
-  },
-  {
-    "fqdn": "stanislavs.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-01",
     "valid_to": null
   },
   {
