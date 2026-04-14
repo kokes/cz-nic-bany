@@ -5472,6 +5472,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rawastgroup.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "rc-store.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
