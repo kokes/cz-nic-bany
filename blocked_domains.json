@@ -3240,6 +3240,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krista-praha.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "kronopol-podlahy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
