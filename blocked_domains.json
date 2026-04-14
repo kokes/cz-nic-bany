@@ -6804,6 +6804,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tyr-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "uboudu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
