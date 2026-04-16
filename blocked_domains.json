@@ -792,12 +792,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "bidencash.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "bilacerna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -2928,12 +2922,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "justkill.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "jvdomky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -3669,12 +3657,6 @@
     "fqdn": "lupacek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "luxchecker.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
     "valid_to": null
   },
   {
@@ -5184,12 +5166,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "polymer-color.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "poradenstvi-iso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -6408,12 +6384,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "stashpatrickk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "stastnysvet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -6859,12 +6829,6 @@
   },
   {
     "fqdn": "ultimateshopp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
-    "valid_to": null
-  },
-  {
-    "fqdn": "ultimateshops.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-10",
     "valid_to": null
@@ -7401,12 +7365,6 @@
     "fqdn": "xkkre.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-17",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xleet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-12-10",
     "valid_to": null
   },
   {
