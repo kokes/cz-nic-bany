@@ -4080,6 +4080,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "min-cnb.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-04-16",
+    "valid_to": "2026-07-15"
+  },
+  {
     "fqdn": "minuet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-20",
