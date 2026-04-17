@@ -7230,6 +7230,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vyhledavej.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "vyhlidkatroja.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -7425,6 +7431,12 @@
     "fqdn": "zasvobodnevysokeskoly.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2024-12-04",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zavolejsikuryra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-17",
     "valid_to": null
   },
   {
