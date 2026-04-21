@@ -5496,6 +5496,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "rcnb.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-04-21",
+    "valid_to": "2026-07-19"
+  },
+  {
     "fqdn": "rc-store.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
