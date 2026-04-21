@@ -3084,6 +3084,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "klatovypcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-04-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "klnsky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-03",
