@@ -648,6 +648,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "beltracchi.cz",
+    "reason": "rozhodnutí soudu/RS",
+    "valid_from": "2026-04-23",
+    "valid_to": null
+  },
+  {
     "fqdn": "beneaththemask.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
