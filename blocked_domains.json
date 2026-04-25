@@ -6774,6 +6774,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tissotpre.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "titania2.cz",
     "reason": "rozhodnutí jiného OVM",
     "valid_from": "2024-05-31",
