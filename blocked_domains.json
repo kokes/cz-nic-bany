@@ -438,6 +438,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ateliergama.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "atmdrink.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-04-15",
