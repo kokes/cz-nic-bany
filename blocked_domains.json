@@ -1146,6 +1146,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceskykrumlovkrpcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-04-27",
+    "valid_to": "2026-07-27"
+  },
+  {
     "fqdn": "ceskyochrance.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
