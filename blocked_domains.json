@@ -7188,6 +7188,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "brauncz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "braun-shop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-22",
