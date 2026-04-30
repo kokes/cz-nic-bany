@@ -18384,12 +18384,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "palivov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "palivove-drevo-rousinov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -22894,12 +22888,6 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-04-01",
     "valid_to": "2026-06-30"
-  },
-  {
-    "fqdn": "teplovdome.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-18",
-    "valid_to": null
   },
   {
     "fqdn": "teskv.cz",
