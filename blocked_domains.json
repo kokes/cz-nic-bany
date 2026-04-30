@@ -15492,6 +15492,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lucky-bet-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "luckybets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-14",
