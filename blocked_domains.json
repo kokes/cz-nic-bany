@@ -6480,6 +6480,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bestfriends.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "betandreas-czech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-15",
@@ -8829,12 +8835,6 @@
     "fqdn": "dcojy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dcvision.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-04-29",
     "valid_to": null
   },
   {
