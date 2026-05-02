@@ -12150,6 +12150,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hodoninpcr.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "hoetu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
