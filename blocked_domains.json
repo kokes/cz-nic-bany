@@ -6474,12 +6474,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "beranpraha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-01",
-    "valid_to": null
-  },
-  {
     "fqdn": "bestfriends.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-02",
@@ -15165,12 +15159,6 @@
     "fqdn": "libertycasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "libira.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-03-25",
     "valid_to": null
   },
   {
