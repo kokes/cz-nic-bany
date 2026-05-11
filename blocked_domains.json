@@ -14508,6 +14508,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krpcrfrydekmistek.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-05-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "ksicr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -16018,6 +16024,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-09",
     "valid_to": null
+  },
+  {
+    "fqdn": "min-gov.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2026-05-11",
+    "valid_to": "2026-06-11"
   },
   {
     "fqdn": "minuet.cz",
