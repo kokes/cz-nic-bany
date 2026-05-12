@@ -954,12 +954,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "21bet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "22150.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -10668,12 +10662,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "forge-pixel.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "fortunas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-14",
@@ -16932,12 +16920,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ninecasino-bet.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "nirvana-ol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -20751,12 +20733,6 @@
     "fqdn": "respinjoker81.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-06",
-    "valid_to": null
-  },
-  {
-    "fqdn": "restaurace-bruska.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
