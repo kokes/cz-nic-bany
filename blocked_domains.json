@@ -12492,6 +12492,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "id-cnb.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2026-05-13",
+    "valid_to": "2026-06-13"
+  },
+  {
     "fqdn": "idei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-11",
@@ -25707,12 +25713,6 @@
     "fqdn": "zavol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "zavolejsikuryra.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-04-17",
     "valid_to": null
   },
   {
