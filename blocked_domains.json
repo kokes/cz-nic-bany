@@ -9462,12 +9462,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "edalnices.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "edalnici.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-17",
