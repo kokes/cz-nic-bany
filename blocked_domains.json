@@ -15528,12 +15528,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mapahrist.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "mapysupport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-14",
@@ -17571,12 +17565,6 @@
     "fqdn": "okmnb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "okrasna-zahrada.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-24",
     "valid_to": null
   },
   {
@@ -20484,12 +20472,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "rakovcova.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "rallycars.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -21855,12 +21837,6 @@
     "fqdn": "slusinamto.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "smazakproterku.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-21",
     "valid_to": null
   },
   {
