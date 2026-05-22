@@ -12648,6 +12648,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "interbaby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-22",
+    "valid_to": null
+  },
+  {
+    "fqdn": "interbeds.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "interesta.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -17637,12 +17649,6 @@
     "fqdn": "okamzity-zentis.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-12",
-    "valid_to": null
-  },
-  {
-    "fqdn": "okf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-22",
     "valid_to": null
   },
   {
@@ -24162,12 +24168,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "vsezakatu.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "vsjcn.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -24279,12 +24279,6 @@
     "fqdn": "vyzvavedcu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-22",
-    "valid_to": null
-  },
-  {
-    "fqdn": "vza.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-22",
     "valid_to": null
   },
   {
