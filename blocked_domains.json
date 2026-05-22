@@ -22746,6 +22746,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tjsmrzice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-22",
+    "valid_to": null
+  },
+  {
     "fqdn": "tjubo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
