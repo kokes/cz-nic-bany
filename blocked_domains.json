@@ -14004,12 +14004,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "key-service.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "kfcmaso.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-02",
