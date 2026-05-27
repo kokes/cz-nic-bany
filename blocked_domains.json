@@ -14568,10 +14568,22 @@
     "valid_to": null
   },
   {
+    "fqdn": "krpcrjablonecnadnisou.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-05-27",
+    "valid_to": "2026-08-25"
+  },
+  {
     "fqdn": "krpcrmost.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-05-15",
     "valid_to": "2026-08-14"
+  },
+  {
+    "fqdn": "krpcrprachatice.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-27",
+    "valid_to": null
   },
   {
     "fqdn": "krpcrtachov.cz",
