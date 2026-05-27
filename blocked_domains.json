@@ -11353,9 +11353,9 @@
   },
   {
     "fqdn": "govid.cz",
-    "reason": "dle článku 17 Pravidel registrace",
-    "valid_from": "2026-04-27",
-    "valid_to": "2026-05-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-09",
+    "valid_to": null
   },
   {
     "fqdn": "gozpo.cz",
@@ -13011,12 +13011,6 @@
     "fqdn": "japotranzport.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "jarex.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-26",
     "valid_to": null
   },
   {
@@ -18660,12 +18654,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pedikura-slavetin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "peeoz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -22737,12 +22725,6 @@
     "fqdn": "techtle-mechtle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "temacom.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-27",
     "valid_to": null
   },
   {
