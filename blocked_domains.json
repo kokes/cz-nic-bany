@@ -2658,6 +2658,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "49999.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-28",
+    "valid_to": null
+  },
+  {
     "fqdn": "4k.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-27",
