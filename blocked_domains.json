@@ -23790,12 +23790,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "verdster.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "verify-mdcr-gov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-29",
