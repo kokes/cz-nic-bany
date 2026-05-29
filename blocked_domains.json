@@ -14346,12 +14346,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "kpcrprachatice.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-02-27",
-    "valid_to": "2026-05-29"
-  },
-  {
     "fqdn": "kpfux.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -21921,12 +21915,6 @@
     "fqdn": "slon6.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-05",
-    "valid_to": null
-  },
-  {
-    "fqdn": "slovackatezebni.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-27",
     "valid_to": null
   },
   {
