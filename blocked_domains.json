@@ -18792,6 +18792,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "physiopohanka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "pikra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
