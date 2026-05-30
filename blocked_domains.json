@@ -24726,6 +24726,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "xaktg.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "xapul.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
