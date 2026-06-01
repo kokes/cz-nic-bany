@@ -6012,12 +6012,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autobahn-online.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-04-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "autobaterie-santraziny-zlin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -6303,12 +6297,6 @@
     "fqdn": "bebfx.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "beepbeep-casino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-02",
     "valid_to": null
   },
   {
@@ -20922,12 +20910,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "restauracejehlan.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "restauracekarel4.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-26",
@@ -22191,12 +22173,6 @@
     "fqdn": "sperky-levne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "spinariumcasino.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-02",
     "valid_to": null
   },
   {
