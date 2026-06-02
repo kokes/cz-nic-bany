@@ -13902,6 +13902,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "k-and-s.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "kandu.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
