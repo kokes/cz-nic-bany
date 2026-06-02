@@ -14556,6 +14556,12 @@
     "valid_to": "2026-08-14"
   },
   {
+    "fqdn": "krpcropava.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-02",
+    "valid_to": "2026-08-30"
+  },
+  {
     "fqdn": "krpcrprachatice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-27",
@@ -19521,12 +19527,6 @@
     "fqdn": "psngroup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "pstzlin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-02",
     "valid_to": null
   },
   {
