@@ -15114,6 +15114,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "likvidacezivnostniku.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-02",
+    "valid_to": null
+  },
+  {
     "fqdn": "limvg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -18885,12 +18891,6 @@
     "fqdn": "phxhp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "physiopohanka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-29",
     "valid_to": null
   },
   {
@@ -23799,12 +23799,6 @@
     "fqdn": "vapmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "variant-vm.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-02",
     "valid_to": null
   },
   {
