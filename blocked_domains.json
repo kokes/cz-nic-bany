@@ -5670,6 +5670,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alfaprogres.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "alich.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-22",
@@ -22722,6 +22728,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "temacom.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "temperlin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-27",
@@ -23091,6 +23103,12 @@
     "fqdn": "towka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tpelektrosluzba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-03",
     "valid_to": null
   },
   {
