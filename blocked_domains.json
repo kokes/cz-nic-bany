@@ -14526,6 +14526,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krpcrcheb.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-03",
+    "valid_to": "2026-09-01"
+  },
+  {
     "fqdn": "krpcrdecin.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-04-23",
@@ -22725,12 +22731,6 @@
     "fqdn": "techtle-mechtle.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "temacom.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-03",
     "valid_to": null
   },
   {
