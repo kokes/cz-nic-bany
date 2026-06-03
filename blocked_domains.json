@@ -18750,12 +18750,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "petrbrabnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "petrfrancan.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-24",
