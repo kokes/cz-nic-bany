@@ -6234,12 +6234,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "batch.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "bavlnenysen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -22479,12 +22473,6 @@
     "fqdn": "svatebninovinky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
-    "valid_to": null
-  },
-  {
-    "fqdn": "svazpn.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-04",
     "valid_to": null
   },
   {
