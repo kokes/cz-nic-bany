@@ -6324,12 +6324,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "beloruskastridacka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "beltracchi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2026-04-23",
@@ -10140,12 +10134,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "fashiontech.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-30",
-    "valid_to": null
-  },
-  {
     "fqdn": "faunahluk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -10329,12 +10317,6 @@
     "fqdn": "fiemo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "filmjukebox.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-30",
     "valid_to": null
   },
   {
@@ -14511,6 +14493,12 @@
     "fqdn": "krpcrtachov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "krpcrvsetin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-04",
     "valid_to": null
   },
   {
@@ -25677,6 +25665,12 @@
     "fqdn": "zavol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zavolejsikuryra.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-04",
     "valid_to": null
   },
   {
