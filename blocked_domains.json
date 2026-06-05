@@ -5670,12 +5670,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "alfaprogres.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-03",
-    "valid_to": null
-  },
-  {
     "fqdn": "alich.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-22",
@@ -6205,9 +6199,9 @@
   },
   {
     "fqdn": "bankco.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-03-06",
-    "valid_to": "2026-06-05"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-21",
+    "valid_to": null
   },
   {
     "fqdn": "bankovnigarance.cz",
