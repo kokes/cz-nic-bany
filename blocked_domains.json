@@ -10200,6 +10200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "fau24.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-05",
+    "valid_to": "2026-09-03"
+  },
+  {
     "fqdn": "faunahluk.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -14551,8 +14557,8 @@
   },
   {
     "fqdn": "krpcrprachatice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-27",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-05",
     "valid_to": null
   },
   {
