@@ -12930,12 +12930,6 @@
     "valid_to": "2026-06-18"
   },
   {
-    "fqdn": "janhumplik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "jankrahulec.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
