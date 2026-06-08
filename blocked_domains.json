@@ -10884,12 +10884,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "gardenlofts.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "gbcmj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -17655,12 +17649,6 @@
     "fqdn": "ojzjq.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "okamzity-zentis.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-12",
     "valid_to": null
   },
   {
