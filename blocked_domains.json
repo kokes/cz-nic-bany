@@ -14538,6 +14538,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kup-iphone.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "kurcernosice.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
