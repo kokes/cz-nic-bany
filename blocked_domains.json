@@ -15474,6 +15474,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "magic-planet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-09",
+    "valid_to": null
+  },
+  {
     "fqdn": "magicplanets.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-17",
@@ -23613,12 +23619,6 @@
     "fqdn": "vapmp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "variant-vm.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-09",
     "valid_to": null
   },
   {
