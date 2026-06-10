@@ -9984,6 +9984,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "extendia.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "extraagenturaprace.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-02",
@@ -14488,6 +14494,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-09",
     "valid_to": null
+  },
+  {
+    "fqdn": "krpcrsvitavy.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-10",
+    "valid_to": "2026-09-09"
   },
   {
     "fqdn": "krpcrtachov.cz",
