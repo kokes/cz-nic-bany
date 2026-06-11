@@ -16974,6 +16974,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nnauto-news.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "nnhzb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -21885,6 +21891,12 @@
     "fqdn": "slon6.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-05",
+    "valid_to": null
+  },
+  {
+    "fqdn": "slovensky-cuvac.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-11",
     "valid_to": null
   },
   {
