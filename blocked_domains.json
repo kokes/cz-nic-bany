@@ -12012,6 +12012,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "holik-shop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "homeopatiepanzo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -16923,6 +16929,12 @@
     "fqdn": "ninecasinoo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nirvana-ol.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-11",
     "valid_to": null
   },
   {
