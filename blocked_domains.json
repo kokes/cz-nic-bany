@@ -14436,6 +14436,12 @@
     "valid_to": "2026-09-01"
   },
   {
+    "fqdn": "krpcrchomutov.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-11",
+    "valid_to": "2026-09-10"
+  },
+  {
     "fqdn": "krpcrdecin.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-04-23",
