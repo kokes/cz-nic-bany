@@ -12240,6 +12240,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "hundredspires.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "hupaz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -20352,6 +20358,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "que.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "qufzi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -23661,6 +23673,12 @@
     "fqdn": "vamwj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vanilla.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-12",
     "valid_to": null
   },
   {
