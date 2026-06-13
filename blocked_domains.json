@@ -6012,12 +6012,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "autoplyn-kubat.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "autoskolavacek.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-04",
