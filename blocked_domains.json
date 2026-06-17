@@ -7758,6 +7758,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "chomutovpcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "chrisantem.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
@@ -10132,6 +10138,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
     "valid_to": null
+  },
+  {
+    "fqdn": "fau-24.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-17",
+    "valid_to": "2026-09-16"
   },
   {
     "fqdn": "fau24.cz",
