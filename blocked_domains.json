@@ -7058,8 +7058,8 @@
   {
     "fqdn": "bruntalpcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-03-20",
-    "valid_to": "2026-06-18"
+    "valid_from": "2026-04-04",
+    "valid_to": null
   },
   {
     "fqdn": "brwatch.cz",
@@ -12842,8 +12842,8 @@
   {
     "fqdn": "jandagroup.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-03-20",
-    "valid_to": "2026-06-18"
+    "valid_from": "2026-04-04",
+    "valid_to": null
   },
   {
     "fqdn": "jankrahulec.cz",
@@ -14452,6 +14452,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
     "valid_to": null
+  },
+  {
+    "fqdn": "krpcrtrebic.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-18",
+    "valid_to": "2026-09-17"
   },
   {
     "fqdn": "krpcrvsetin.cz",
