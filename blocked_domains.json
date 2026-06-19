@@ -11970,6 +11970,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "holubikstavby.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-19",
+    "valid_to": null
+  },
+  {
     "fqdn": "homeopatiepanzo.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
