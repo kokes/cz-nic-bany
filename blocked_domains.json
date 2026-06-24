@@ -7302,6 +7302,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cair.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-24",
+    "valid_to": null
+  },
+  {
     "fqdn": "calella.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -11571,6 +11577,12 @@
     "fqdn": "hadfy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hanabrno.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-24",
     "valid_to": null
   },
   {
