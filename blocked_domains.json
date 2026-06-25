@@ -6054,6 +6054,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "avocasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "avon-ostrava.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -7989,6 +7995,12 @@
     "fqdn": "cognitai.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "coincasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
     "valid_to": null
   },
   {
@@ -12630,6 +12642,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "irwincasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "irxkc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -13923,6 +13941,18 @@
     "fqdn": "kimcijanci.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kingdom-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kingdomcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
     "valid_to": null
   },
   {
@@ -18645,6 +18675,12 @@
     "fqdn": "pilavysocina.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pistolocasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-25",
     "valid_to": null
   },
   {
