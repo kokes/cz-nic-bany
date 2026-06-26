@@ -9618,6 +9618,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "enjoyrp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "enkvp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -23181,6 +23187,12 @@
     "fqdn": "uhqgw.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "uhsped.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-26",
     "valid_to": null
   },
   {
