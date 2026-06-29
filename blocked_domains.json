@@ -9066,12 +9066,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "dsmv.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "dsnkf.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
