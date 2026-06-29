@@ -14460,6 +14460,12 @@
     "valid_to": "2026-09-17"
   },
   {
+    "fqdn": "krpcrustinadlabem.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-06-29",
+    "valid_to": "2026-09-27"
+  },
+  {
     "fqdn": "krpcrvsetin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-04",
