@@ -5406,6 +5406,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "a1-folio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "aaddj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -8565,6 +8571,12 @@
     "fqdn": "dagmar-mrackova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dalsikrok.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
     "valid_to": null
   },
   {
@@ -15702,6 +15714,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mediccomp.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "medovelahudky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-29",
@@ -21354,6 +21372,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "samal.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "saporelatino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -22455,6 +22479,12 @@
     "fqdn": "tazir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tbimpuls.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
     "valid_to": null
   },
   {
@@ -25623,6 +25653,12 @@
     "fqdn": "zapros.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "zatravnovaci-dlazba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
     "valid_to": null
   },
   {
