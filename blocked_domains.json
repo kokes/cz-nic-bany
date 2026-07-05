@@ -16206,19 +16206,7 @@
     "valid_to": null
   },
   {
-    "fqdn": "mostbetapk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "mostbetaplikace.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-24",
-    "valid_to": null
-  },
-  {
-    "fqdn": "mostbetapp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-24",
     "valid_to": null
@@ -17616,12 +17604,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "onlyhits.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "onlykurvy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-01-21",
@@ -17877,12 +17859,6 @@
     "fqdn": "ougzi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "oukejauto.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-06",
     "valid_to": null
   },
   {
@@ -21669,12 +21645,6 @@
     "fqdn": "sikov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "simones.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-21",
     "valid_to": null
   },
   {
