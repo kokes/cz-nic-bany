@@ -22212,12 +22212,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "svazpn.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-06",
-    "valid_to": null
-  },
-  {
     "fqdn": "svetelneobrazy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
