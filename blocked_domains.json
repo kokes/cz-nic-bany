@@ -14376,6 +14376,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krpcrdomazlice.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-07",
+    "valid_to": "2026-10-06"
+  },
+  {
     "fqdn": "krpcrfrydekmistek.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-05-11",
