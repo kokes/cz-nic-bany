@@ -5538,12 +5538,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "agast.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
-    "valid_to": null
-  },
-  {
     "fqdn": "agisaas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -10755,12 +10749,6 @@
     "fqdn": "gajux.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "gallart.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-26",
     "valid_to": null
   },
   {
