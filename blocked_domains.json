@@ -8214,12 +8214,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cromwell.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-08",
-    "valid_to": null
-  },
-  {
     "fqdn": "crossexchange.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-11",
@@ -22383,6 +22377,12 @@
     "fqdn": "tazir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tbimpuls.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-08",
     "valid_to": null
   },
   {
