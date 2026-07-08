@@ -8610,12 +8610,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ddd-knihy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "ddscd.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
