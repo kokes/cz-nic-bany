@@ -12312,6 +12312,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "idcr-gov.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-10",
+    "valid_to": "2026-10-09"
+  },
+  {
     "fqdn": "idei.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-11",
