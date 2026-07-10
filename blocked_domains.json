@@ -7314,6 +7314,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "caravanclubsumperk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-10",
+    "valid_to": null
+  },
+  {
     "fqdn": "carporte.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-19",
@@ -8367,6 +8373,12 @@
     "fqdn": "cywmb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "czadmin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-10",
     "valid_to": null
   },
   {
@@ -13110,6 +13122,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "jindrichuvhradeckrpcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-10",
+    "valid_to": "2026-10-09"
+  },
+  {
     "fqdn": "jinpc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -14925,6 +14943,12 @@
     "fqdn": "likvidacezivnostniku.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "lilskelli.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-10",
     "valid_to": null
   },
   {
@@ -20829,6 +20853,12 @@
     "fqdn": "roobet-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rootlabs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-10",
     "valid_to": null
   },
   {
