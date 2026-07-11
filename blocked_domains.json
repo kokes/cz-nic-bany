@@ -14382,6 +14382,12 @@
     "valid_to": "2026-08-30"
   },
   {
+    "fqdn": "krpcrpisek.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "krpcrprachatice.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-06-05",
