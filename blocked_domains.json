@@ -14286,6 +14286,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kralovstvilega.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "krasa-sleva.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
