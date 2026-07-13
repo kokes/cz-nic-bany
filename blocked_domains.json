@@ -16134,12 +16134,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "monticekia.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-05-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "moor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-28",
@@ -23085,12 +23079,6 @@
     "fqdn": "uhqgw.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "uhsped.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-26",
     "valid_to": null
   },
   {
