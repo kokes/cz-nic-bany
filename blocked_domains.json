@@ -8370,12 +8370,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "czadmin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "czbog.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -8574,6 +8568,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "datura-sro.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "daxir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -8658,9 +8658,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "dermaclinic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "dermaestetika.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-27",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dermamedicalclinic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
     "valid_to": null
   },
   {
@@ -11160,6 +11172,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "govees.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
+    "valid_to": null
+  },
+  {
     "fqdn": "govid.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-09",
@@ -12171,6 +12189,12 @@
     "fqdn": "hxzjl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hydrafacial.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
     "valid_to": null
   },
   {
@@ -20835,12 +20859,6 @@
     "fqdn": "roobet-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rootlabs.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-10",
     "valid_to": null
   },
   {
