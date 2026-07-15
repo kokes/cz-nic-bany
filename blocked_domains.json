@@ -8196,6 +8196,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cromwell.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-15",
+    "valid_to": null
+  },
+  {
     "fqdn": "crossexchange.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-11",
@@ -8556,12 +8562,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "datura-sro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "daxir.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -8646,21 +8646,9 @@
     "valid_to": null
   },
   {
-    "fqdn": "dermaclinic.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-14",
-    "valid_to": null
-  },
-  {
     "fqdn": "dermaestetika.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-27",
-    "valid_to": null
-  },
-  {
-    "fqdn": "dermamedicalclinic.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-14",
     "valid_to": null
   },
   {
@@ -12171,12 +12159,6 @@
     "fqdn": "hxzjl.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "hydrafacial.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-14",
     "valid_to": null
   },
   {
@@ -23391,6 +23373,12 @@
     "fqdn": "vapemart.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vapepod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-15",
     "valid_to": null
   },
   {
