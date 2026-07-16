@@ -13824,6 +13824,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "kingsbet-casino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "kingsbetcasino.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "kivon.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
