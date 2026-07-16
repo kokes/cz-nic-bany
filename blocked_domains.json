@@ -14484,6 +14484,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kvetinysternberk.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "kvetiny-zivotem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-21",
