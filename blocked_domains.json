@@ -23340,6 +23340,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vapepie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-16",
+    "valid_to": null
+  },
+  {
     "fqdn": "vapepod.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-15",
