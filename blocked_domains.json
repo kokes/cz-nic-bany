@@ -14286,6 +14286,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "krpcrhavlickuvbrod.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "krpcrjablonecnadnisou.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-05-27",
