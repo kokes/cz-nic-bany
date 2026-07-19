@@ -11490,12 +11490,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hauzar.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "havor.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
