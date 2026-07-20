@@ -7668,12 +7668,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chickenroad.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-27",
-    "valid_to": null
-  },
-  {
     "fqdn": "chicken-road-hra.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-18",
@@ -15790,12 +15784,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-01",
     "valid_to": null
-  },
-  {
-    "fqdn": "min-fin24.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-04-20",
-    "valid_to": "2026-07-20"
   },
   {
     "fqdn": "min-fin.cz",
