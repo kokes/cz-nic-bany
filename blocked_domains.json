@@ -8310,6 +8310,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "czadmin.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "czbog.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -14463,12 +14469,6 @@
     "fqdn": "kvetinykakuska.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-21",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kvetinysternberk.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-16",
     "valid_to": null
   },
   {
@@ -20757,6 +20757,12 @@
     "fqdn": "roobet-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "rootlabs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-21",
     "valid_to": null
   },
   {
