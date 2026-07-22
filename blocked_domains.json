@@ -18378,12 +18378,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "petrtomecek.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2026-07-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "pewdef.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
