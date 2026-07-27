@@ -4536,6 +4536,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "851321.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "85329.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -14532,6 +14538,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "l2underground.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-27",
+    "valid_to": null
+  },
+  {
     "fqdn": "ladirna.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-03-14",
@@ -15640,6 +15652,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
     "valid_to": null
+  },
+  {
+    "fqdn": "mf24.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-27",
+    "valid_to": "2026-10-26"
   },
   {
     "fqdn": "mfcr-24.cz",
@@ -20739,12 +20757,6 @@
     "fqdn": "roobet-cz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "rootlabs.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-21",
     "valid_to": null
   },
   {
