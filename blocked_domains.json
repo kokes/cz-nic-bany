@@ -16200,6 +16200,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mostkrpcr.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-28",
+    "valid_to": "2026-10-27"
+  },
+  {
     "fqdn": "motocar-service.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-21",
