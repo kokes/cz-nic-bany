@@ -12552,12 +12552,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "invites.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "inzerce-zdarma.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -17035,12 +17029,6 @@
   },
   {
     "fqdn": "novinkyvrazda.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-26",
-    "valid_to": null
-  },
-  {
-    "fqdn": "novinkyzbrna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-26",
     "valid_to": null
