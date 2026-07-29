@@ -6822,6 +6822,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "body-fitness.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "boejc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -7494,6 +7500,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "centrumdiagnostika.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "cepce.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -7839,6 +7851,12 @@
     "fqdn": "ckkwr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ckmolomouc.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
     "valid_to": null
   },
   {
@@ -16860,6 +16878,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "nirvana-ol.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "nisdv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -21528,6 +21552,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sestry-nppm.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "sevich.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-15",
@@ -22836,6 +22866,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "topfitnessdubina.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "topimtepelkem.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-29",
@@ -23550,6 +23586,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "vamresan.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
     "fqdn": "vamwj.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -23877,6 +23919,12 @@
     "fqdn": "vkcim.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vklub-ddmliberec.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
     "valid_to": null
   },
   {
