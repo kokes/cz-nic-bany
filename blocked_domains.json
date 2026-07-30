@@ -6186,6 +6186,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bapex.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-07-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "barborahostasova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -16983,6 +16989,12 @@
     "fqdn": "noprs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "nordelix.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-30",
     "valid_to": null
   },
   {
