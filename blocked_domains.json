@@ -24474,12 +24474,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "wohprague.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-31",
-    "valid_to": null
-  },
-  {
     "fqdn": "woismnas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-06-28",
