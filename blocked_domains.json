@@ -21372,12 +21372,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "salomonbotyvyprodej.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-02",
-    "valid_to": null
-  },
-  {
     "fqdn": "salon-6.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-29",
