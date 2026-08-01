@@ -6342,6 +6342,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bestwaycz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "betandreas-czech.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-11-15",
