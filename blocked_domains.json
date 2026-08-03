@@ -7957,9 +7957,9 @@
   },
   {
     "fqdn": "cnb-fin.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-05-04",
-    "valid_to": "2026-08-03"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-20",
+    "valid_to": null
   },
   {
     "fqdn": "cnb-pro.cz",
