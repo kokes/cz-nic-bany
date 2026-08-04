@@ -21600,6 +21600,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sexshopink.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "sextant.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
