@@ -7752,12 +7752,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "chata-horni-becva.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "chat-gptai.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-02",
@@ -8613,12 +8607,6 @@
     "fqdn": "dagmar-mrackova.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
-    "fqdn": "damebrko.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-05",
     "valid_to": null
   },
   {
@@ -12534,12 +12522,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "i-medvidek.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-13",
-    "valid_to": null
-  },
-  {
     "fqdn": "imlne.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -14427,12 +14409,6 @@
     "fqdn": "kqzut.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "kra34.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-01",
     "valid_to": null
   },
   {
@@ -20736,12 +20712,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "refunds.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-01-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "reklama69.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2023-10-10",
@@ -21285,12 +21255,6 @@
     "fqdn": "runeosx.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-31",
-    "valid_to": null
-  },
-  {
-    "fqdn": "runforhelp.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-11",
     "valid_to": null
   },
   {
