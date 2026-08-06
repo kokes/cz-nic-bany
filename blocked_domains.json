@@ -25938,6 +25938,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "zatravnovaci-dlazba.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-06",
+    "valid_to": null
+  },
+  {
     "fqdn": "zavol.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
