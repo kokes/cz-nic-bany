@@ -750,6 +750,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "178.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-07",
+    "valid_to": null
+  },
+  {
     "fqdn": "18021.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
