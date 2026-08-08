@@ -16230,12 +16230,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "moasecae.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "mobira.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2025-09-18",
@@ -21042,12 +21036,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "roeisan.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-28",
-    "valid_to": null
-  },
-  {
     "fqdn": "rohliks.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-15",
@@ -24891,12 +24879,6 @@
     "fqdn": "xccds.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2010-02-01",
-    "valid_to": null
-  },
-  {
-    "fqdn": "xcoeaseri.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-06-28",
     "valid_to": null
   },
   {
