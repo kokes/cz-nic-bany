@@ -8136,12 +8136,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "cos-praha.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-07",
-    "valid_to": null
-  },
-  {
     "fqdn": "couplestore.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -15906,12 +15900,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "mfcr24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-09",
-    "valid_to": null
-  },
-  {
     "fqdn": "mfcr-24fin.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-19",
@@ -16236,12 +16224,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "modasy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "modelklub-sokolov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-10-21",
@@ -16378,12 +16360,6 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-07-28",
     "valid_to": "2026-10-27"
-  },
-  {
-    "fqdn": "motocar-service.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-21",
-    "valid_to": null
   },
   {
     "fqdn": "motortex.cz",
