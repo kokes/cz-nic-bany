@@ -12180,12 +12180,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hubzlin.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-10-21",
-    "valid_to": null
-  },
-  {
     "fqdn": "hudrt.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
