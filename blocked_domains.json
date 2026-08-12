@@ -22686,6 +22686,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "thomas-paukner.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-12",
+    "valid_to": null
+  },
+  {
     "fqdn": "thtzs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
