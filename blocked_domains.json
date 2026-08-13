@@ -21270,6 +21270,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "sbid-gov.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-08-13",
+    "valid_to": "2026-11-11"
+  },
+  {
     "fqdn": "sbmf-gov.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-08-05",
