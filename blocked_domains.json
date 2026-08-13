@@ -14826,6 +14826,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "ledgers.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-13",
+    "valid_to": null
+  },
+  {
     "fqdn": "led-koupelna.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
