@@ -22428,6 +22428,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tissotpre.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-17",
+    "valid_to": null
+  },
+  {
     "fqdn": "tiswr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
