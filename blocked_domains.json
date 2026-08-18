@@ -6462,6 +6462,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bezplatna-socialni-poradna.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "bezva-slevy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-19",
@@ -9117,6 +9123,12 @@
     "fqdn": "dycah.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "dygrs.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-18",
     "valid_to": null
   },
   {
@@ -11985,6 +11997,12 @@
     "fqdn": "hrbop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "hrncirskykruh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-18",
     "valid_to": null
   },
   {
@@ -21252,6 +21270,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "servis-uklid.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-18",
+    "valid_to": null
+  },
+  {
     "fqdn": "sesteacher.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-12",
@@ -21873,6 +21897,12 @@
     "fqdn": "starmosty.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stastnysvet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-18",
     "valid_to": null
   },
   {
