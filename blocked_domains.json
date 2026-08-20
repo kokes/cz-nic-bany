@@ -20994,6 +20994,12 @@
     "valid_to": "2026-11-11"
   },
   {
+    "fqdn": "sbmf24-gov.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-08-20",
+    "valid_to": "2026-11-19"
+  },
+  {
     "fqdn": "sbmfcr-gov.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-08-18",
