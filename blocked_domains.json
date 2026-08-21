@@ -16242,6 +16242,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "myfas.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "myjackpots.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-17",
@@ -18717,6 +18723,12 @@
     "fqdn": "prachaticekrpcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "pracify.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-21",
     "valid_to": null
   },
   {
