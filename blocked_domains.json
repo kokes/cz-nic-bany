@@ -8598,12 +8598,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "decinkrpcr.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-04-24",
-    "valid_to": null
-  },
-  {
     "fqdn": "defile-media.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -22281,6 +22275,12 @@
     "fqdn": "tiposs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tiqet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-21",
     "valid_to": null
   },
   {
