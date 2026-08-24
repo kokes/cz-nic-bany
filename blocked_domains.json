@@ -12174,12 +12174,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ifrane.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "igvqv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -15466,12 +15460,6 @@
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-07-27",
     "valid_to": "2026-10-26"
-  },
-  {
-    "fqdn": "mfcr-24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-12",
-    "valid_to": null
   },
   {
     "fqdn": "mfcr-24fin.cz",
@@ -21174,12 +21162,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "skladnicka.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-11",
-    "valid_to": null
-  },
-  {
     "fqdn": "skolenik.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-13",
@@ -21339,12 +21321,6 @@
     "fqdn": "sodkg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "sokolovna-hranice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-08-11",
     "valid_to": null
   },
   {
