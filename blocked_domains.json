@@ -14203,9 +14203,9 @@
   },
   {
     "fqdn": "krpcrjablonecnadnisou.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-05-27",
-    "valid_to": "2026-08-25"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-09",
+    "valid_to": null
   },
   {
     "fqdn": "krpcrmost.cz",
