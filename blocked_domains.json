@@ -5382,6 +5382,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "abacrasolar.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "abcfg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -5979,6 +5985,12 @@
     "fqdn": "autoservis-cb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-29",
+    "valid_to": null
+  },
+  {
+    "fqdn": "autoteka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-26",
     "valid_to": null
   },
   {
@@ -7323,6 +7335,12 @@
     "fqdn": "carporte.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-19",
+    "valid_to": null
+  },
+  {
+    "fqdn": "carzona.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-26",
     "valid_to": null
   },
   {
@@ -17334,6 +17352,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "optimusgroup.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "optom.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-07-08",
@@ -23199,6 +23223,12 @@
     "fqdn": "vhkts.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vibebydleni.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-08-26",
     "valid_to": null
   },
   {
