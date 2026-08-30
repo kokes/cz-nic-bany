@@ -13693,9 +13693,9 @@
   },
   {
     "fqdn": "krpcropava.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-02",
-    "valid_to": "2026-08-30"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-16",
+    "valid_to": null
   },
   {
     "fqdn": "krpcrpisek.cz",
