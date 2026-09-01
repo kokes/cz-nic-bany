@@ -13452,6 +13452,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "kovarstvi-umelecke.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "kozen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -22053,6 +22059,12 @@
     "fqdn": "vapemart.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vapepie.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-01",
     "valid_to": null
   },
   {
