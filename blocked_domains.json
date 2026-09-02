@@ -12102,12 +12102,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "ixosafe.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2015-09-17",
-    "valid_to": null
-  },
-  {
     "fqdn": "iytrz.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -20671,8 +20665,8 @@
   },
   {
     "fqdn": "sportbarklima.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2026-07-18",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
@@ -21073,8 +21067,8 @@
   },
   {
     "fqdn": "teorie.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2021-04-13",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
@@ -21229,14 +21223,14 @@
   },
   {
     "fqdn": "titania2.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2024-05-31",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
     "fqdn": "titaniagame.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2024-05-31",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
@@ -22297,8 +22291,8 @@
   },
   {
     "fqdn": "virtucon.cz",
-    "reason": "rozhodnutí jiného OVM",
-    "valid_from": "2021-04-13",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
