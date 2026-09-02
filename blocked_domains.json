@@ -1974,12 +1974,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "3dmfcr.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-29",
-    "valid_to": null
-  },
-  {
     "fqdn": "40326.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -20397,12 +20391,6 @@
     "fqdn": "skolni-skrinky.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-04-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "skrakovnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-02-26",
     "valid_to": null
   },
   {
