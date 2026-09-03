@@ -7008,6 +7008,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bytovacka.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-03",
+    "valid_to": null
+  },
+  {
     "fqdn": "bytyuparkuberoun.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-08-11",
@@ -10809,6 +10815,12 @@
     "fqdn": "grhzv.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gridlogic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-03",
     "valid_to": null
   },
   {
@@ -14997,6 +15009,12 @@
     "fqdn": "michalkovardluzi.cz",
     "reason": "rozhodnutí soudu/RS",
     "valid_from": "2020-07-13",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mijoo.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-03",
     "valid_to": null
   },
   {
