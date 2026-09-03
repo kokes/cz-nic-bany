@@ -9667,9 +9667,9 @@
   },
   {
     "fqdn": "fau24.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-05",
-    "valid_to": "2026-09-03"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-20",
+    "valid_to": null
   },
   {
     "fqdn": "favbetua.cz",
