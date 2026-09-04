@@ -14274,6 +14274,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "lrozhlas.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-04",
+    "valid_to": null
+  },
+  {
     "fqdn": "lrqnb.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
