@@ -13435,9 +13435,9 @@
   },
   {
     "fqdn": "krpcrchomutov.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-11",
-    "valid_to": "2026-09-10"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-26",
+    "valid_to": null
   },
   {
     "fqdn": "krpcrdecin.cz",
@@ -13509,7 +13509,7 @@
     "fqdn": "krpcrsvitavy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-10",
-    "valid_to": null
+    "valid_to": "2026-12-09"
   },
   {
     "fqdn": "krpcrtabor.cz",
@@ -20770,12 +20770,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-08",
     "valid_to": null
-  },
-  {
-    "fqdn": "ticketchecker.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-12",
-    "valid_to": "2026-09-10"
   },
   {
     "fqdn": "tikar.cz",
