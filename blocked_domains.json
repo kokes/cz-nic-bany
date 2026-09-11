@@ -7536,6 +7536,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cnbrezerva.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "cnesiux.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-13",
@@ -11640,6 +11646,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "inb24.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2026-09-11",
+    "valid_to": "2026-10-11"
+  },
+  {
     "fqdn": "infantjesusofprague.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-20",
@@ -14460,6 +14472,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "mastercard-gov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-11",
+    "valid_to": null
+  },
+  {
     "fqdn": "mavqi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -15249,6 +15267,18 @@
     "fqdn": "myfas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-08-21",
+    "valid_to": null
+  },
+  {
+    "fqdn": "my-gov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-11",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mygov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-11",
     "valid_to": null
   },
   {
@@ -21819,6 +21849,12 @@
     "fqdn": "virtucon.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-09-02",
+    "valid_to": null
+  },
+  {
+    "fqdn": "visa-gov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-11",
     "valid_to": null
   },
   {
