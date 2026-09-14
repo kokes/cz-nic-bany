@@ -11928,12 +11928,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "izolace-grey.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-12",
-    "valid_to": null
-  },
-  {
     "fqdn": "jablonecnnpcr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-07",
@@ -13516,12 +13510,6 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-06-09",
     "valid_to": null
-  },
-  {
-    "fqdn": "krpcrsvitavy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-10",
-    "valid_to": "2026-12-09"
   },
   {
     "fqdn": "krpcrtabor.cz",
