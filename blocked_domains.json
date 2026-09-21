@@ -9480,12 +9480,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elabo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-19",
-    "valid_to": null
-  },
-  {
     "fqdn": "elaro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -10125,12 +10119,6 @@
     "fqdn": "fbhpi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fc.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-19",
     "valid_to": null
   },
   {
@@ -12753,12 +12741,6 @@
     "fqdn": "izolace-gray.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-08-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "izolace-grey.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-21",
     "valid_to": null
   },
   {
