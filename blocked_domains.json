@@ -12756,6 +12756,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "izolace-grey.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-21",
+    "valid_to": null
+  },
+  {
     "fqdn": "jablonec-fc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-16",
