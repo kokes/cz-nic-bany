@@ -8646,12 +8646,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "divadlosputnik.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-22",
-    "valid_to": null
-  },
-  {
     "fqdn": "dixlc.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -21219,12 +21213,6 @@
     "fqdn": "skupinaklekni.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-18",
-    "valid_to": null
-  },
-  {
-    "fqdn": "skupinastrepy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-22",
     "valid_to": null
   },
   {
