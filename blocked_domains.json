@@ -5892,6 +5892,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "cosmolots.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "cosmolotukraine.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-09-06",
@@ -6657,6 +6663,18 @@
     "fqdn": "ekura.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení ",
     "valid_from": "2026-06-09",
+    "valid_to": null
+  },
+  {
+    "fqdn": "elami-studio.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "elami-uh.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
@@ -8997,6 +9015,12 @@
     "fqdn": "juqqg.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "juraeshop.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
@@ -11475,12 +11499,6 @@
     "fqdn": "novak-atelier.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "novaperla.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-18",
     "valid_to": null
   },
   {
@@ -14607,6 +14625,12 @@
     "fqdn": "synottipp.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-17",
+    "valid_to": null
+  },
+  {
+    "fqdn": "synottips.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
