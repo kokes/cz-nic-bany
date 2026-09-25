@@ -4248,6 +4248,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "acom02.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "acom03.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-24",
@@ -5568,6 +5574,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "ceske-duchody-24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
+    "fqdn": "ceske-duchody-news.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "ceskygranat.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
@@ -6441,6 +6459,12 @@
     "fqdn": "dtpm.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "duchody-prehledne.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
@@ -12240,6 +12264,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "penzijko24.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "penzionpetr.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-18",
@@ -14376,9 +14406,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "stastna-penze.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
+    "valid_to": null
+  },
+  {
     "fqdn": "stastnysvet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-08-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "stavdotace.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
@@ -14733,6 +14775,12 @@
     "fqdn": "tikitakakasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2025-12-20",
+    "valid_to": null
+  },
+  {
+    "fqdn": "tipyproseniory.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-25",
     "valid_to": null
   },
   {
