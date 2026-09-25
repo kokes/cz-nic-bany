@@ -6666,18 +6666,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "elami-studio.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-25",
-    "valid_to": null
-  },
-  {
-    "fqdn": "elami-uh.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-25",
-    "valid_to": null
-  },
-  {
     "fqdn": "elegas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-07-10",
