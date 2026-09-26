@@ -4494,6 +4494,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "alnodron.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-26",
+    "valid_to": null
+  },
+  {
     "fqdn": "alphacitizen.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-28",
@@ -5529,6 +5535,12 @@
     "fqdn": "castlers.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-24",
+    "valid_to": null
+  },
+  {
+    "fqdn": "catgirl.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-26",
     "valid_to": null
   },
   {
@@ -7695,6 +7707,12 @@
     "fqdn": "goldbet.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-18",
+    "valid_to": null
+  },
+  {
+    "fqdn": "gopros.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-26",
     "valid_to": null
   },
   {
@@ -10875,6 +10893,12 @@
     "fqdn": "mlvua.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "mmmoderuje.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-26",
     "valid_to": null
   },
   {
