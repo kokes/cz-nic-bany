@@ -9733,9 +9733,9 @@
   },
   {
     "fqdn": "krpcrustinadlabem.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-29",
-    "valid_to": "2026-09-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-14",
+    "valid_to": null
   },
   {
     "fqdn": "krpcrvsetin.cz",
@@ -9745,9 +9745,9 @@
   },
   {
     "fqdn": "krpcrvyskov.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení ",
-    "valid_from": "2026-06-29",
-    "valid_to": "2026-09-27"
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-09",
+    "valid_to": null
   },
   {
     "fqdn": "ktr24.cz",
