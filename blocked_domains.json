@@ -8070,12 +8070,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "hlastribun.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-10",
-    "valid_to": null
-  },
-  {
     "fqdn": "hlbrs.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -8697,12 +8691,6 @@
     "fqdn": "izolace-gray.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-08-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "izolace-grey.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-28",
     "valid_to": null
   },
   {
