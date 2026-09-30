@@ -5130,6 +5130,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "bistrofast.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "bitvegas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-18",
@@ -14730,6 +14736,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "tek-drevo.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení ",
+    "valid_from": "2026-09-30",
+    "valid_to": null
+  },
+  {
     "fqdn": "telconsulting.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-19",
@@ -15381,6 +15393,12 @@
     "fqdn": "urgbi.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
+    "valid_to": null
+  },
+  {
+    "fqdn": "urohlicku.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-30",
     "valid_to": null
   },
   {
