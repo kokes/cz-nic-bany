@@ -8028,6 +8028,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "high-fly-bet.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "highflybets.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "hihag.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
@@ -10224,6 +10236,12 @@
     "valid_to": null
   },
   {
+    "fqdn": "loccitanecz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "lodnidopravaorlikslapy.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-02-26",
@@ -10401,12 +10419,6 @@
     "fqdn": "lyply.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-04-28",
-    "valid_to": null
-  },
-  {
-    "fqdn": "lysy.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-19",
     "valid_to": null
   },
   {
@@ -11182,6 +11194,12 @@
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-08-21",
     "valid_to": null
+  },
+  {
+    "fqdn": "myfau.cz",
+    "reason": "dle článku 17 Pravidel registrace",
+    "valid_from": "2026-10-01",
+    "valid_to": "2026-11-01"
   },
   {
     "fqdn": "my-gov.cz",
@@ -14304,9 +14322,21 @@
     "valid_to": null
   },
   {
+    "fqdn": "spin-granny-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "spin-grannys.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-14",
+    "valid_to": null
+  },
+  {
+    "fqdn": "spingrannys-cz.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
     "valid_to": null
   },
   {
@@ -15534,6 +15564,18 @@
     "valid_to": null
   },
   {
+    "fqdn": "vegashero-czechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vegas-heros.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
     "fqdn": "vegasino.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-18",
@@ -15627,6 +15669,18 @@
     "fqdn": "villahelenka.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-03-12",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vincispin-czechrepublic.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
+    "valid_to": null
+  },
+  {
+    "fqdn": "vinci-spins.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-01",
     "valid_to": null
   },
   {
