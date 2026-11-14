@@ -967,14 +967,14 @@
   },
   {
     "fqdn": "24mf.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-29",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-07-14",
     "valid_to": null
   },
   {
     "fqdn": "24mf.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-07-14",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-29",
     "valid_to": null
   },
   {
@@ -5593,26 +5593,26 @@
   },
   {
     "fqdn": "biomacsro.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2025-07-29",
-    "valid_to": null
-  },
-  {
-    "fqdn": "biomacsro.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení",
     "valid_from": "2025-08-22",
     "valid_to": null
   },
   {
-    "fqdn": "biomasa-pelety.cz",
+    "fqdn": "biomacsro.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-10-21",
+    "valid_from": "2025-07-29",
     "valid_to": null
   },
   {
     "fqdn": "biomasa-pelety.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení",
     "valid_from": "2026-10-16",
+    "valid_to": null
+  },
+  {
+    "fqdn": "biomasa-pelety.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-21",
     "valid_to": null
   },
   {
@@ -6451,14 +6451,14 @@
   },
   {
     "fqdn": "chomutovpcr.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-30",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-06-17",
     "valid_to": null
   },
   {
     "fqdn": "chomutovpcr.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-06-17",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-30",
     "valid_to": null
   },
   {
@@ -7459,15 +7459,15 @@
   },
   {
     "fqdn": "dodo-shop.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-10-22",
-    "valid_to": "2027-01-21"
-  },
-  {
-    "fqdn": "dodo-shop.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-11-03",
     "valid_to": null
+  },
+  {
+    "fqdn": "dodo-shop.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-10-22",
+    "valid_to": "2027-01-21"
   },
   {
     "fqdn": "doficars.cz",
@@ -8461,15 +8461,15 @@
   },
   {
     "fqdn": "fau-gov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-10-31",
-    "valid_to": null
-  },
-  {
-    "fqdn": "fau-gov.cz",
     "reason": "rozhodnutí orgánů činných v trestním řízení",
     "valid_from": "2026-10-22",
     "valid_to": "2027-01-21"
+  },
+  {
+    "fqdn": "fau-gov.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-31",
+    "valid_to": null
   },
   {
     "fqdn": "fau-id.cz",
@@ -9079,14 +9079,14 @@
   },
   {
     "fqdn": "gertec.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-05-27",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-06-11",
     "valid_to": null
   },
   {
     "fqdn": "gertec.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-06-11",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-05-27",
     "valid_to": null
   },
   {
@@ -9313,14 +9313,14 @@
   },
   {
     "fqdn": "gov24.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-04-30",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-04-15",
     "valid_to": null
   },
   {
     "fqdn": "gov24.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-04-15",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-30",
     "valid_to": null
   },
   {
@@ -10729,14 +10729,14 @@
   },
   {
     "fqdn": "jesenikkpcr.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-03-07",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-05-12",
     "valid_to": null
   },
   {
     "fqdn": "jesenikkpcr.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-05-12",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-03-07",
     "valid_to": null
   },
   {
@@ -11839,14 +11839,14 @@
   },
   {
     "fqdn": "krpcrprachatice.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-05-27",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-06-05",
     "valid_to": null
   },
   {
     "fqdn": "krpcrprachatice.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-06-05",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-05-27",
     "valid_to": null
   },
   {
@@ -12631,15 +12631,15 @@
   },
   {
     "fqdn": "lrozhlas.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-10-12",
-    "valid_to": "2027-01-11"
-  },
-  {
-    "fqdn": "lrozhlas.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-04",
     "valid_to": null
+  },
+  {
+    "fqdn": "lrozhlas.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-10-12",
+    "valid_to": "2027-01-11"
   },
   {
     "fqdn": "lrqnb.cz",
@@ -13579,14 +13579,14 @@
   },
   {
     "fqdn": "motortex.cz",
-    "reason": "ostatní",
-    "valid_from": "2026-04-09",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-04-24",
     "valid_to": null
   },
   {
     "fqdn": "motortex.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-04-24",
+    "reason": "ostatní",
+    "valid_from": "2026-04-09",
     "valid_to": null
   },
   {
@@ -17125,15 +17125,15 @@
   },
   {
     "fqdn": "sbmf24-gov.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-08-20",
-    "valid_to": "2026-11-19"
-  },
-  {
-    "fqdn": "sbmf24-gov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-09-04",
     "valid_to": null
+  },
+  {
+    "fqdn": "sbmf24-gov.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-08-20",
+    "valid_to": "2026-11-19"
   },
   {
     "fqdn": "sbmfcr-gov.cz",
@@ -18128,13 +18128,13 @@
   {
     "fqdn": "sportbarklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-02",
+    "valid_from": "2026-07-18",
     "valid_to": null
   },
   {
     "fqdn": "sportbarklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-18",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
@@ -19755,6 +19755,12 @@
     "fqdn": "vere-x.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-11-03",
+    "valid_to": null
+  },
+  {
+    "fqdn": "verify-rover.cz",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-11-14",
     "valid_to": null
   },
   {
