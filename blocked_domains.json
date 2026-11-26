@@ -13237,14 +13237,14 @@
   },
   {
     "fqdn": "min-fin-cab.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-31",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-07-24",
     "valid_to": null
   },
   {
     "fqdn": "min-fin-cab.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-07-24",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-07-31",
     "valid_to": null
   },
   {
@@ -15066,12 +15066,6 @@
     "valid_to": null
   },
   {
-    "fqdn": "pcrnovyjicin.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-04-16",
-    "valid_to": null
-  },
-  {
     "fqdn": "pcrprostejov.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-05-21",
@@ -15235,15 +15229,15 @@
   },
   {
     "fqdn": "pepacar.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-10-19",
-    "valid_to": "2027-01-15"
-  },
-  {
-    "fqdn": "pepacar.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
     "valid_from": "2026-11-03",
     "valid_to": null
+  },
+  {
+    "fqdn": "pepacar.cz",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-10-19",
+    "valid_to": "2027-01-15"
   },
   {
     "fqdn": "perla-brno.cz",
@@ -17035,14 +17029,14 @@
   },
   {
     "fqdn": "sb-id-gov.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-10-09",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-03",
     "valid_to": null
   },
   {
     "fqdn": "sb-id-gov.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-10-03",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-10-09",
     "valid_to": null
   },
   {
@@ -18044,13 +18038,13 @@
   {
     "fqdn": "sportbarklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-07-18",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
     "fqdn": "sportbarklima.cz",
     "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-02",
+    "valid_from": "2026-07-18",
     "valid_to": null
   },
   {
@@ -18613,14 +18607,14 @@
   },
   {
     "fqdn": "tek-drevo.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-10-10",
+    "reason": "rozhodnutí orgánů činných v trestním řízení",
+    "valid_from": "2026-09-30",
     "valid_to": null
   },
   {
     "fqdn": "tek-drevo.cz",
-    "reason": "rozhodnutí orgánů činných v trestním řízení",
-    "valid_from": "2026-09-30",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-10-10",
     "valid_to": null
   },
   {
@@ -18835,14 +18829,14 @@
   },
   {
     "fqdn": "tissotpre.cz",
-    "reason": "ostatní",
-    "valid_from": "2026-08-17",
+    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
+    "valid_from": "2026-09-02",
     "valid_to": null
   },
   {
     "fqdn": "tissotpre.cz",
-    "reason": "v karanténě před zrušením z důvodu nesprávných údajů držitele/nesdělení zástupce",
-    "valid_from": "2026-09-02",
+    "reason": "ostatní",
+    "valid_from": "2026-08-17",
     "valid_to": null
   },
   {
